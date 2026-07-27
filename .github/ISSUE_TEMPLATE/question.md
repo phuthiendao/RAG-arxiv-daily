@@ -1,6 +1,6 @@
 ---
-name: ❓ Question
-about: Ask a question about this project 🎓
+name: Question
+about: Ask a question about this project 
 title: ""
 labels: question
 assignees:
@@ -12,7 +12,7 @@ assignees:
 
 - [ ] I've searched the project's [`issues`]
 
-## ❓ Question
+##  Question
 
 <!-- What is your question -->
 
@@ -20,6 +20,6 @@ How can I [...]?
 
 Is it possible to [...]?
 
-## 📎 Additional context
+## Additional context
 
 <!-- Add any other context or screenshots about the feature request here. -->

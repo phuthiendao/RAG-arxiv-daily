@@ -1,16 +1,16 @@
 ---
-name: 🐛 Bug report
-about: If something isn't working 🔧
+name: Bug report
+about: If something isn't working
 title: ""
 labels: bug
 assignees:
 ---
 
-## 🐛 Bug Report
+## Bug Report
 
 <!-- A clear and concise description of what the bug is. -->
 
-## 🔬 How To Reproduce
+## How To Reproduce
 
 Steps to reproduce the behavior:
 
@@ -25,6 +25,6 @@ Steps to reproduce the behavior:
 python --version
 ```
 
-## 📎 Additional context
+## Additional context
 
 <!-- Add any other context about the problem here. -->
