@@ -5,29 +5,22 @@ repo_name: "RAG-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: False
-max_results: 10
+max_results: 15
 
 publish_readme: True
 publish_gitpage: True
-publish_wechat: False
 
 # file paths
 json_readme_path: './docs/rag-arxiv-daily.json'
 json_gitpage_path: './docs/rag-arxiv-daily-web.json'
-json_wechat_path: './docs/rag-arxiv-daily-wechat.json'
 
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
-md_wechat_path: './docs/wechat.md'
 
 # CS Category constraint
 categories: ["cs.CL", "cs.IR", "cs.AI", "cs.LG"]
 
 # keywords to search
 keywords:
-    "RAG Architecture & Methods":
-        filters: ["Retrieval-Augmented Generation", "Retrieval Augmented Generation", "GraphRAG", "Agentic RAG", "Self-RAG", "Corrective RAG", "CRAG", "Speculative RAG"]
-    "Retrieval & Reranking":
-        filters: ["Dense Retrieval", "ColBERT", "Reranker", "Hybrid Search", "Vector Search"]
-    "Context & Memory Optimization":
-        filters: ["Context Compression", "Prompt Compression", "Long-Context Retrieval"]
+    "RAG":
+        filters: ["Retrieval-Augmented Generation", "Retrieval Augmented Generation", "GraphRAG", "Agentic RAG", "Self-RAG", "Corrective RAG", "CRAG", "Speculative RAG", "Dense Retrieval", "ColBERT", "Reranker", "Hybrid Search", "Vector Search", "Context Compression", "Prompt Compression", "Long-Context Retrieval"]
