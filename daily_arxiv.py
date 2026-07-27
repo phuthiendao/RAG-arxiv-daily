@@ -25,7 +25,7 @@ def load_config(config_file:str) -> dict:
         keywords = dict()
         EXCAPE = '\"'
         QUOTA = '' # NO-USE
-        OR = 'OR' # TODO
+        OR = ' OR '
         def parse_filters(filters:list):
             ret = ''
             for idx in range(0,len(filters)):
@@ -37,8 +37,18 @@ def load_config(config_file:str) -> dict:
                 if idx != len(filters) - 1:
                     ret += OR
             return ret
+
+        cat_query = ""
+        if 'categories' in config and config['categories']:
+            cats = [f"cat:{c}" for c in config['categories']]
+            cat_query = f"({' OR '.join(cats)})"
+
         for k,v in config['keywords'].items():
-            keywords[k] = parse_filters(v['filters'])
+            kw_str = parse_filters(v['filters'])
+            if cat_query:
+                keywords[k] = f"{cat_query} AND ({kw_str})"
+            else:
+                keywords[k] = kw_str
         return keywords
     with open(config_file,'r') as f:
         config = yaml.load(f,Loader=yaml.FullLoader) 
