@@ -371,16 +371,15 @@ def demo(**config):
     data_collector = []
     data_collector_web= []
     
-    keywords = config['kv']
-    max_results = config['max_results']
-    publish_readme = config['publish_readme']
-    publish_gitpage = config['publish_gitpage']
-    publish_wechat = config['publish_wechat']
-    show_badge = config['show_badge']
+    keywords = config.get('kv', {})
+    max_results = config.get('max_results', 10)
+    publish_readme = config.get('publish_readme', True)
+    publish_gitpage = config.get('publish_gitpage', True)
+    show_badge = config.get('show_badge', False)
 
-    b_update = config['update_paper_links']
+    b_update = config.get('update_paper_links', False)
     logging.info(f'Update Paper Link = {b_update}')
-    if config['update_paper_links'] == False:
+    if b_update == False:
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
@@ -396,7 +395,7 @@ def demo(**config):
         json_file = config['json_readme_path']
         md_file   = config['md_readme_path']
         # update paper links
-        if config['update_paper_links']:
+        if b_update:
             update_paper_links(json_file)
         else:    
             # update json data
@@ -409,26 +408,13 @@ def demo(**config):
     if publish_gitpage:
         json_file = config['json_gitpage_path']
         md_file   = config['md_gitpage_path']
-        # TODO: duplicated update paper links!!!
-        if config['update_paper_links']:
+        if b_update:
             update_paper_links(json_file)
         else:    
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
             use_tc=False, use_b2t=False)
-
-    # 3. Update docs/wechat.md file
-    if publish_wechat:
-        json_file = config['json_wechat_path']
-        md_file   = config['md_wechat_path']
-        # TODO: duplicated update paper links!!!
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:    
-            update_json_file(json_file, data_collector_web)
-        json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
