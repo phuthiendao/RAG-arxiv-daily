@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.28
+## Updated on 2026.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs**|Fanfu Wei et.al.|[2607.25959](http://arxiv.org/abs/2607.25959)|**[link](https://github.com/ecladatta/KONTRAST)**|
+|**2026-07-28**|**Beyond Self-Knowledge: Propagating Uncertainty Across Reasoning and Retrieval in LLMs**|Chandan Kumar Sah et.al.|[2607.25600](http://arxiv.org/abs/2607.25600)|null|
+|**2026-07-28**|**Salient Knowledge Pathways: Sparse Cross-Modal Routing for Efficient Knowledge-Intensive Multimodal Question Answering**|Noor Islam S. Mohammad et.al.|[2607.25422](http://arxiv.org/abs/2607.25422)|null|
+|**2026-07-28**|**Reward Guided Decoding for Generative Recommendation**|Ruochen Yang et.al.|[2607.25344](http://arxiv.org/abs/2607.25344)|null|
+|**2026-07-28**|**Every Time I Hire a Linguist, Inference Costs Go Down: On Linguistic Rules as Effective Prompt Compressors**|Jianfei Ma et.al.|[2607.25335](http://arxiv.org/abs/2607.25335)|null|
+|**2026-07-28**|**TopoGR: Revealing and Preserving Latent Structure of Semantic ID in Generative Recommendation**|Ziyu Zheng et.al.|[2607.25216](http://arxiv.org/abs/2607.25216)|null|
+|**2026-07-28**|**TabRank: Chain-of-Thought Distillation for Table Re-Rankers**|Adarsh Singh et.al.|[2607.25182](http://arxiv.org/abs/2607.25182)|null|
+|**2026-07-27**|**ScoreShield: Differentially Private Release of Similarity Scores**|Behrooz Razeghi et.al.|[2607.25041](http://arxiv.org/abs/2607.25041)|null|
+|**2026-07-27**|**Automatic Knowledge Graph Construction and Query for Earthquake Catalogs**|Yuxin Zhou et.al.|[2607.24984](http://arxiv.org/abs/2607.24984)|null|
+|**2026-07-27**|**Inverse RL Helps Align AI by Imitating Humans**|Michał Wiliński et.al.|[2607.24900](http://arxiv.org/abs/2607.24900)|null|
 |**2026-07-27**|**A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility**|Rajat Sainju et.al.|[2607.24663](http://arxiv.org/abs/2607.24663)|null|
 |**2026-07-27**|**DeCoRAG: Cognitive Decoupling and Semantic-Aware Cropping for Complex Document Understanding**|Shuo Wang et.al.|[2607.24554](http://arxiv.org/abs/2607.24554)|null|
 |**2026-07-27**|**Robust Interpretation of Historical Documents in Knowledge Graphs Through Query Inference and Execution**|Sebastià Nicolau et.al.|[2607.24475](http://arxiv.org/abs/2607.24475)|null|
