@@ -1,4 +1,4 @@
-## Updated on 2026.07.29
+## Updated on 2026.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,11 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-07-28**|**Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs**|Fanfu Wei et.al.|[2607.25959](http://arxiv.org/abs/2607.25959)|**[link](https://github.com/ecladatta/KONTRAST)**|
-|**2026-07-28**|**Beyond Self-Knowledge: Propagating Uncertainty Across Reasoning and Retrieval in LLMs**|Chandan Kumar Sah et.al.|[2607.25600](http://arxiv.org/abs/2607.25600)|null|
+|**2026-07-29**|**RAG-HAR+: Towards Cost-Efficient LLM-Based Human Activity Recognition for Edge Deployment**|Hansi Karunarathna et.al.|[2607.26631](http://arxiv.org/abs/2607.26631)|null|
+|**2026-07-29**|**Which RAG Paradigm Wins at Scale? A Scaling Study of Retrieval-Augmented Generation Paradigms**|Pengyu Wang et.al.|[2607.26497](http://arxiv.org/abs/2607.26497)|null|
+|**2026-07-29**|**PSG: Pair-Space Generation for Efficient Generative Reranking**|Chao Feng et.al.|[2607.26427](http://arxiv.org/abs/2607.26427)|null|
+|**2026-07-29**|**DIRECTOR: Dynamic Index-based Recommendation with Transport-Optimized Retrieval**|Yuanhao Pu et.al.|[2607.26418](http://arxiv.org/abs/2607.26418)|null|
+|**2026-07-28**|**RAGuard: A Layered Defense Framework for Retrieval-Augmented Generation Systems Against Data Poisoning**|Pushkal Kumar et.al.|[2607.26339](http://arxiv.org/abs/2607.26339)|null|
+|**2026-07-29**|**Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs**|Fanfu Wei et.al.|[2607.25959](http://arxiv.org/abs/2607.25959)|null|
+|**2026-07-29**|**Beyond Self-Knowledge: Propagating Uncertainty Across Reasoning and Retrieval in LLMs**|Chandan Kumar Sah et.al.|[2607.25600](http://arxiv.org/abs/2607.25600)|null|
 |**2026-07-28**|**Salient Knowledge Pathways: Sparse Cross-Modal Routing for Efficient Knowledge-Intensive Multimodal Question Answering**|Noor Islam S. Mohammad et.al.|[2607.25422](http://arxiv.org/abs/2607.25422)|null|
 |**2026-07-28**|**Reward Guided Decoding for Generative Recommendation**|Ruochen Yang et.al.|[2607.25344](http://arxiv.org/abs/2607.25344)|null|
-|**2026-07-28**|**Every Time I Hire a Linguist, Inference Costs Go Down: On Linguistic Rules as Effective Prompt Compressors**|Jianfei Ma et.al.|[2607.25335](http://arxiv.org/abs/2607.25335)|null|
+|**2026-07-29**|**Every Time I Hire a Linguist, Inference Costs Go Down: On Linguistic Rules as Effective Prompt Compressors**|Jianfei Ma et.al.|[2607.25335](http://arxiv.org/abs/2607.25335)|null|
 |**2026-07-28**|**TopoGR: Revealing and Preserving Latent Structure of Semantic ID in Generative Recommendation**|Ziyu Zheng et.al.|[2607.25216](http://arxiv.org/abs/2607.25216)|null|
 |**2026-07-28**|**TabRank: Chain-of-Thought Distillation for Table Re-Rankers**|Adarsh Singh et.al.|[2607.25182](http://arxiv.org/abs/2607.25182)|null|
 |**2026-07-27**|**ScoreShield: Differentially Private Release of Similarity Scores**|Behrooz Razeghi et.al.|[2607.25041](http://arxiv.org/abs/2607.25041)|null|
@@ -55,5 +60,5 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260730>back to top</a>)</p>
 
