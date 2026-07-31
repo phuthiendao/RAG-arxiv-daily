@@ -1,4 +1,4 @@
-## Updated on 2026.07.30
+## Updated on 2026.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,8 +14,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-30**|**ConMem: Contribution-Aware Memory for Long-Horizon Manufacturing Inspection Logs**|Bingchen Liu et.al.|[2607.28126](http://arxiv.org/abs/2607.28126)|null|
+|**2026-07-30**|**SemPIC: Learning Semantic Position-Independent KV Caches**|Hui Xie et.al.|[2607.28069](http://arxiv.org/abs/2607.28069)|null|
+|**2026-07-30**|**ChronoMem: Version Control and Semantic Rollback for Large Language Model Agent Memory**|Yongye Su et.al.|[2607.27773](http://arxiv.org/abs/2607.27773)|null|
+|**2026-07-30**|**Measuring Alignment With Reader Highlights Net of Position and Length**|Kazuki Nakayashiki et.al.|[2607.27739](http://arxiv.org/abs/2607.27739)|null|
+|**2026-07-30**|**Recall Before You Rank: Similarity-Guided Top- $K$ Reuse for Efficient Long-Context Attention**|Wenshuai Yao et.al.|[2607.27692](http://arxiv.org/abs/2607.27692)|null|
+|**2026-07-30**|**From Single- to Cross-Document: Benchmarking Multi-Granularity Event Analysis of Large Language Models**|Tao Wen et.al.|[2607.27654](http://arxiv.org/abs/2607.27654)|null|
+|**2026-07-29**|**Hierarchical Reranking for Scalable Financial RAG System**|Joohyun Lee et.al.|[2607.27523](http://arxiv.org/abs/2607.27523)|null|
+|**2026-07-29**|**LayerRAG-Bench: A Cross-Layer Reliability Benchmark for Agentic Retrieval-Augmented Generation**|Musa Shams et.al.|[2607.27353](http://arxiv.org/abs/2607.27353)|null|
+|**2026-07-29**|**DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search**|Raphaël Sourty et.al.|[2607.27178](http://arxiv.org/abs/2607.27178)|null|
+|**2026-07-29**|**KAMR: Grounding Generation via Knowledge-Aligned Multi-hop Retrieval**|Xiaochen Wang et.al.|[2607.27136](http://arxiv.org/abs/2607.27136)|null|
 |**2026-07-29**|**RAG-HAR+: Towards Cost-Efficient LLM-Based Human Activity Recognition for Edge Deployment**|Hansi Karunarathna et.al.|[2607.26631](http://arxiv.org/abs/2607.26631)|null|
-|**2026-07-29**|**Which RAG Paradigm Wins at Scale? A Scaling Study of Retrieval-Augmented Generation Paradigms**|Pengyu Wang et.al.|[2607.26497](http://arxiv.org/abs/2607.26497)|null|
+|**2026-07-30**|**BM25 Wins at Scale: A Scaling Study of Retrieval-Augmented Generation Paradigms**|Pengyu Wang et.al.|[2607.26497](http://arxiv.org/abs/2607.26497)|null|
 |**2026-07-29**|**PSG: Pair-Space Generation for Efficient Generative Reranking**|Chao Feng et.al.|[2607.26427](http://arxiv.org/abs/2607.26427)|null|
 |**2026-07-29**|**DIRECTOR: Dynamic Index-based Recommendation with Transport-Optimized Retrieval**|Yuanhao Pu et.al.|[2607.26418](http://arxiv.org/abs/2607.26418)|null|
 |**2026-07-28**|**RAGuard: A Layered Defense Framework for Retrieval-Augmented Generation Systems Against Data Poisoning**|Pushkal Kumar et.al.|[2607.26339](http://arxiv.org/abs/2607.26339)|null|
@@ -60,5 +70,5 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20260730>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260731>back to top</a>)</p>
 
