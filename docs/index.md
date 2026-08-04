@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.03
+## Updated on 2026.08.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-02**|**Control Under Compression: Reliability Frontiers for Tool-Using Agents**|Yinghan Hou et.al.|[2608.01056](http://arxiv.org/abs/2608.01056)|null|
+|**2026-08-02**|**Tevatron Meets Megatron: Expert-Parallel LLM Reranker Training on an Academic Budget**|Zhichao Xu et.al.|[2608.00916](http://arxiv.org/abs/2608.00916)|null|
+|**2026-08-01**|**RAGOCR: Optical Compression of Retrieval-Augmented Text via Visual Representation**|Jiayang Yu et.al.|[2608.00765](http://arxiv.org/abs/2608.00765)|null|
+|**2026-08-01**|**A Triple-Robustness Analysis of Retrieval-Augmented Generation for Multi-Hop Requirements Traceability**|Meftun Akarsu et.al.|[2608.00705](http://arxiv.org/abs/2608.00705)|null|
+|**2026-08-01**|**Select-And-Extract: A Lightweight Plugin for Retrieval-Augmented Generation**|Chenming Tang et.al.|[2608.00658](http://arxiv.org/abs/2608.00658)|null|
+|**2026-08-01**|**Verification Without Sufficiency: Per-Chunk Filtering Fails on Multi-Hop RAG, and Decomposition Repairs It**|Randhir Kumar et.al.|[2608.00585](http://arxiv.org/abs/2608.00585)|null|
+|**2026-08-01**|**CeQe: Grounding Lexical Retrieval in Semantic Evidence**|Adam Kahirov et.al.|[2608.00452](http://arxiv.org/abs/2608.00452)|null|
+|**2026-08-01**|**Unleashing the Potential of Large Language Models: A Blueprint for Real-Time, Enterprise-Ready Deployments**|Muhammad Faizan Raza et.al.|[2608.00419](http://arxiv.org/abs/2608.00419)|null|
+|**2026-07-31**|**SeDeM: Selective Decompression of Hidden-State Memories for Long-Context Question Answering**|Maryam Haghifam et.al.|[2608.00311](http://arxiv.org/abs/2608.00311)|null|
+|**2026-07-31**|**Verifier-Induced Support Reshaping in On-Policy Optimization**|Shaohang Wei et.al.|[2608.00220](http://arxiv.org/abs/2608.00220)|null|
+|**2026-07-31**|**QASP: Query-Adaptive Robust Vector Search Policy**|Hakan Ferhatosmanoglu et.al.|[2607.29606](http://arxiv.org/abs/2607.29606)|null|
+|**2026-07-31**|**TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion**|Yu Sun et.al.|[2607.29459](http://arxiv.org/abs/2607.29459)|null|
+|**2026-07-31**|**Bridging the Question-Answer Gap in Retrieval-Augmented Generation: Hypothetical Prompt Embeddings**|Domen Vake et.al.|[2607.29402](http://arxiv.org/abs/2607.29402)|null|
+|**2026-07-31**|**Reproducing LightMem: Naive RAG Is Just as Good for Memory Management**|Yongjie Zhou et.al.|[2607.29104](http://arxiv.org/abs/2607.29104)|null|
+|**2026-07-31**|**GoldenRetriever: Non-Interactive Homomorphic Encrypted Retrieval for Privacy-Preserving RAG**|Yang Gao et.al.|[2607.29019](http://arxiv.org/abs/2607.29019)|null|
 |**2026-07-30**|**DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation**|Jiacheng Tao et.al.|[2607.28580](http://arxiv.org/abs/2607.28580)|null|
 |**2026-07-30**|**GLM-RAG: Graph Language Models for Graph-Based Retrieval-Augmented Generation**|Maya Arseven et.al.|[2607.28397](http://arxiv.org/abs/2607.28397)|null|
 |**2026-07-30**|**ConMem: Contribution-Aware Memory for Long-Horizon Manufacturing Inspection Logs**|Bingchen Liu et.al.|[2607.28126](http://arxiv.org/abs/2607.28126)|null|
