@@ -1,4 +1,4 @@
-## Updated on 2026.08.04
+## Updated on 2026.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**DiagChain: A Diagnostic Benchmark for Evaluating LLM Agents on Evidence-Grounded Attack Chain Reconstruction**|Xuyang Liu et.al.|[2608.03591](http://arxiv.org/abs/2608.03591)|null|
+|**2026-08-04**|**Training Documents Reranker with Search Rubrics for Deep Research Agent**|Wenhan Liu et.al.|[2608.03527](http://arxiv.org/abs/2608.03527)|null|
+|**2026-08-04**|**RAG-Stack: Co-Optimizing RAG Serving Performance and Quality**|Haiqiang Zhang et.al.|[2608.03487](http://arxiv.org/abs/2608.03487)|null|
+|**2026-08-04**|**Task-Oriented Candidate-Latent Feedback for Coarse-to-Fine Sensing in Distributed OFDM-ISAC Networks**|Shiv Shankar et.al.|[2608.03319](http://arxiv.org/abs/2608.03319)|null|
+|**2026-08-04**|**DocTrace: Towards Traceable Long Document VQA via Hierarchical Evidence Graph Reasoning**|Le Xiang et.al.|[2608.03292](http://arxiv.org/abs/2608.03292)|null|
+|**2026-08-04**|**Lightweight Chunk Selection for Mobile Retrieval-Augmented Generation**|Sicong Chang et.al.|[2608.03148](http://arxiv.org/abs/2608.03148)|null|
+|**2026-08-04**|**Position Bias Undermines Preference Consistency in Listwise LLM-Based Reranking**|Ethan Bito et.al.|[2608.03091](http://arxiv.org/abs/2608.03091)|null|
+|**2026-08-04**|**Getting the Parameters Right: A Difficulty-Graded Benchmark and Probe-Guided Training for LLM Tool Calls**|Guoyao Yu et.al.|[2608.03071](http://arxiv.org/abs/2608.03071)|null|
+|**2026-08-04**|**HyperFL: Query-Adaptive Representation Learning for Software Fault Localization**|Shuai Shao et.al.|[2608.02967](http://arxiv.org/abs/2608.02967)|null|
+|**2026-08-03**|**GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning**|Zhaoxin Yu et.al.|[2608.02585](http://arxiv.org/abs/2608.02585)|null|
+|**2026-08-03**|**UEmbed: Unified Sparse and Dense Multimodal Embeddings**|Tingyu Song et.al.|[2608.02583](http://arxiv.org/abs/2608.02583)|null|
+|**2026-08-03**|**Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection**|Anusha Madan Gopal et.al.|[2608.02560](http://arxiv.org/abs/2608.02560)|null|
+|**2026-08-03**|**Requirement--Evidence Alignment for Compositional E-Commerce Queries**|Weihao Shen et.al.|[2608.02500](http://arxiv.org/abs/2608.02500)|null|
+|**2026-08-03**|**CTRAG: An In-Context Retrieval-based Framework for Automated Compliance Checking using LLMs**|Muhammad Roman et.al.|[2608.02472](http://arxiv.org/abs/2608.02472)|null|
+|**2026-08-03**|**Token-Native Storage: Read and Write in your Agent's Language**|Kumar Shivendu et.al.|[2608.02376](http://arxiv.org/abs/2608.02376)|null|
 |**2026-08-02**|**Control Under Compression: Reliability Frontiers for Tool-Using Agents**|Yinghan Hou et.al.|[2608.01056](http://arxiv.org/abs/2608.01056)|null|
 |**2026-08-02**|**Tevatron Meets Megatron: Expert-Parallel LLM Reranker Training on an Academic Budget**|Zhichao Xu et.al.|[2608.00916](http://arxiv.org/abs/2608.00916)|null|
 |**2026-08-01**|**RAGOCR: Optical Compression of Retrieval-Augmented Text via Visual Representation**|Jiayang Yu et.al.|[2608.00765](http://arxiv.org/abs/2608.00765)|null|
@@ -87,5 +102,5 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
