@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.07
+## Updated on 2026.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations**|Sagar Tamang et.al.|[2608.06305](http://arxiv.org/abs/2608.06305)|null|
+|**2026-08-06**|**NeSy-RAG: Neuro-Symbolic RAG for Explainable Question Answering**|Jonas Gann et.al.|[2608.06292](http://arxiv.org/abs/2608.06292)|null|
+|**2026-08-06**|**TS-RAG: Retrieval Augmented Generation for Time Series Forecasting**|Yixiong Xiao et.al.|[2608.06223](http://arxiv.org/abs/2608.06223)|null|
+|**2026-08-06**|**Training-Free Token-Level Steering for LLM Personalized Co-Writing**|Wenhao Mao et.al.|[2608.06069](http://arxiv.org/abs/2608.06069)|null|
+|**2026-08-06**|**Causal Episodic Memory for Feedback-Driven Agent Repair**|Khang Nhat Hoang Vo et.al.|[2608.05906](http://arxiv.org/abs/2608.05906)|null|
+|**2026-08-06**|**Mapping Similarity Spaces across Embedding Models with Synthetic Query Probing**|Marcin Rozmus et.al.|[2608.05857](http://arxiv.org/abs/2608.05857)|null|
+|**2026-08-05**|**A Mechanistic Analysis of Gender Sensitivity in Dense Retrieval Models**|Catherine Chen et.al.|[2608.05467](http://arxiv.org/abs/2608.05467)|null|
+|**2026-08-05**|**Filtered Vector Search in a Disaggregated Lakehouse: Composing Table-Format Pruning with Per-File ANN**|Rakesh Jain et.al.|[2608.05441](http://arxiv.org/abs/2608.05441)|null|
+|**2026-08-05**|**Agentic self-driving microscopy benchmarks support qualification but do not necessarily generalize to unseen tasks**|Nathan S Johnson et.al.|[2608.05266](http://arxiv.org/abs/2608.05266)|null|
+|**2026-08-05**|**Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains**|Ayoub Kirouane et.al.|[2608.05138](http://arxiv.org/abs/2608.05138)|null|
+|**2026-08-05**|**MultiPathFormer: Towards a Foundation Model for Multipath Wireless Propagation**|Blessed Guda et.al.|[2608.05076](http://arxiv.org/abs/2608.05076)|null|
+|**2026-08-05**|**From Score Matrices to Football-Aware Match-State Simulation: An Auditable LLM Harness for Exact-Score Reranking**|Shaopeng Liang et.al.|[2608.05030](http://arxiv.org/abs/2608.05030)|null|
+|**2026-08-05**|**PURPOSE: Poisoning Conflict Resolution in RAG via Proxy-Fact-Grounded Updates**|Zijian Wang et.al.|[2608.04756](http://arxiv.org/abs/2608.04756)|null|
+|**2026-08-05**|**A/B Agent: A Self-Evolving Agent for Strategy Iteration in Industrial A/B Testing**|Zhuohang Jiang et.al.|[2608.04625](http://arxiv.org/abs/2608.04625)|null|
+|**2026-08-05**|**Relevant but Incomplete: Referential Dangling as a Paradigm-Level Failure Mode in Hard Prompt Compression**|Zhengpei Hu et.al.|[2608.04569](http://arxiv.org/abs/2608.04569)|null|
 |**2026-08-04**|**DiagChain: A Diagnostic Benchmark for Evaluating LLM Agents on Evidence-Grounded Attack Chain Reconstruction**|Xuyang Liu et.al.|[2608.03591](http://arxiv.org/abs/2608.03591)|null|
 |**2026-08-04**|**Training Documents Reranker with Search Rubrics for Deep Research Agent**|Wenhan Liu et.al.|[2608.03527](http://arxiv.org/abs/2608.03527)|null|
 |**2026-08-04**|**RAG-Stack: Co-Optimizing RAG Serving Performance and Quality**|Haiqiang Zhang et.al.|[2608.03487](http://arxiv.org/abs/2608.03487)|null|
