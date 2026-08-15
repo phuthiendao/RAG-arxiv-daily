@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.14
+## Updated on 2026.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**Who Speaks Matters: Authority-Aware Multi-View RAG over Italian Parliamentary Proceedings**|Mirko Tritella et.al.|[2608.13410](http://arxiv.org/abs/2608.13410)|null|
+|**2026-08-13**|**TopoIntent: Compiling Security Intent into Executable, Compliance-Checked Network Topologies**|Xiaokang Qu et.al.|[2608.13389](http://arxiv.org/abs/2608.13389)|null|
+|**2026-08-13**|**When Should Multi-Round RAG Stop? Structured Stopping Judgments and Retrieval Reduction in Search-R1**|Weimeng Luo et.al.|[2608.13237](http://arxiv.org/abs/2608.13237)|null|
+|**2026-08-13**|**Better Decomposition, Free Aggregation: A Synthesizer-Folding Framework for Multilingual Multi-Hop Question Answering**|Yilin Wang et.al.|[2608.13160](http://arxiv.org/abs/2608.13160)|null|
+|**2026-08-13**|**Operationalizing Cyber Threat Intelligence with GraphRAG**|Atul Kabra et.al.|[2608.13050](http://arxiv.org/abs/2608.13050)|null|
+|**2026-08-13**|**RAGSieve: Self-Referenced Local Contrast for Knowledge-Poison Detection in Retrieval-Augmented Generation**|Xinlong Xu et.al.|[2608.13010](http://arxiv.org/abs/2608.13010)|null|
+|**2026-08-13**|**Balanced Adaptive Prototype Selection for Scalable TabPFN Inference on Large-Scale Tabular Data**|Mahboobe Jadid et.al.|[2608.12989](http://arxiv.org/abs/2608.12989)|null|
+|**2026-08-13**|**Generative Universal Multimodal Retrieval with Dual-role Identifiers**|Kaipeng Li et.al.|[2608.12987](http://arxiv.org/abs/2608.12987)|null|
+|**2026-08-13**|**Reconcile Once, Write Anytime: A Trust-Tiered Librarian and a Multi-Agent Writer for Drift-Free, Point-in-Time Research**|Xing Zhang et.al.|[2608.12984](http://arxiv.org/abs/2608.12984)|null|
+|**2026-08-13**|**Beyond Retrieval: Query-Conditioned Reuse of Long-Horizon Agent Trajectories**|Yifei Li et.al.|[2608.12847](http://arxiv.org/abs/2608.12847)|null|
+|**2026-08-13**|**Heterogeneous Vision-Language Ensemble with Disagreement-Aware Reranking for Text-Based Person Anomaly Retrieval**|Huu-An Vu et.al.|[2608.12843](http://arxiv.org/abs/2608.12843)|null|
+|**2026-08-13**|**Query Translation vs. Cross-Lingual Embeddings for Sinhala-Tamil E-Government Information Retrieval**|Dharshi Balasubramaniyam et.al.|[2608.12820](http://arxiv.org/abs/2608.12820)|null|
+|**2026-08-13**|**A Comprehensive Empirical Evaluation of Vector Database Systems for Approximate Nearest Neighbor Search: Performance, Quality, and Resource Trade-offs**|Ashen Rashmiks et.al.|[2608.12812](http://arxiv.org/abs/2608.12812)|null|
+|**2026-08-13**|**Privacy-Preserving RAG by Concealing Sensitive Information from External LLMs**|Saleh Almohaimeed et.al.|[2608.12675](http://arxiv.org/abs/2608.12675)|null|
+|**2026-08-12**|**Test-Time Optimization of Query Embeddings with Ranking Aware Reward Maximization**|Tianyu Chen et.al.|[2608.12569](http://arxiv.org/abs/2608.12569)|null|
 |**2026-08-06**|**Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations**|Sagar Tamang et.al.|[2608.06305](http://arxiv.org/abs/2608.06305)|null|
 |**2026-08-06**|**NeSy-RAG: Neuro-Symbolic RAG for Explainable Question Answering**|Jonas Gann et.al.|[2608.06292](http://arxiv.org/abs/2608.06292)|null|
 |**2026-08-06**|**TS-RAG: Retrieval Augmented Generation for Time Series Forecasting**|Yixiong Xiao et.al.|[2608.06223](http://arxiv.org/abs/2608.06223)|null|
