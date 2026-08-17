@@ -1,4 +1,4 @@
-## Updated on 2026.08.16
+## Updated on 2026.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -132,5 +132,5 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20260816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
 
