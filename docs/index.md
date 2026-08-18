@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.17
+## Updated on 2026.08.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-14**|**How Much Do Legal RAG Systems Still Hallucinate?**|Souvick Das et.al.|[2608.14210](http://arxiv.org/abs/2608.14210)|null|
+|**2026-08-14**|**Retrieval Grounding Latent Reasoning for Dense Retrieval**|Gang Zhou et.al.|[2608.14107](http://arxiv.org/abs/2608.14107)|null|
+|**2026-08-14**|**Model-agnostic Retrieval-Augmented Extended Forecasting for time series**|Juan Pablo Villa Serna et.al.|[2608.14054](http://arxiv.org/abs/2608.14054)|null|
+|**2026-08-13**|**Building AI-Intensive Software with AI: Early Results and a Cautionary Tale on Measuring Development Cost**|Victor Barros de Miranda Neves et.al.|[2608.13730](http://arxiv.org/abs/2608.13730)|null|
+|**2026-08-13**|**TeachMateGPT: A Multi-Agent Knowledge-Grounded Framework for Pedagogical Assessment Generation from Science Curriculum Materials**|Fatema Tuj Johora Faria et.al.|[2608.13708](http://arxiv.org/abs/2608.13708)|null|
+|**2026-08-13**|**CLAIR-Fin: An Adversarial Multi-Agent Framework for Claim-Level Verification and Adaptive Debate in Cross-Modal Financial QA**|Fatema Tuj Johora Faria et.al.|[2608.13706](http://arxiv.org/abs/2608.13706)|null|
 |**2026-08-13**|**Who Speaks Matters: Authority-Aware Multi-View RAG over Italian Parliamentary Proceedings**|Mirko Tritella et.al.|[2608.13410](http://arxiv.org/abs/2608.13410)|null|
 |**2026-08-13**|**TopoIntent: Compiling Security Intent into Executable, Compliance-Checked Network Topologies**|Xiaokang Qu et.al.|[2608.13389](http://arxiv.org/abs/2608.13389)|null|
 |**2026-08-13**|**When Should Multi-Round RAG Stop? Structured Stopping Judgments and Retrieval Reduction in Search-R1**|Weimeng Luo et.al.|[2608.13237](http://arxiv.org/abs/2608.13237)|null|
