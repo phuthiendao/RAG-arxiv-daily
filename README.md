@@ -1,4 +1,4 @@
-## Updated on 2026.08.18
+## Updated on 2026.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-17**|**Proteus: Incremental Memory Activation for Long-Context Sequence Modeling**|Reza Bayat et.al.|[2608.16844](http://arxiv.org/abs/2608.16844)|null|
+|**2026-08-17**|**GRIP: Grounded Reasoning via Information-Restricted Premises**|Lirui Teng et.al.|[2608.16776](http://arxiv.org/abs/2608.16776)|null|
+|**2026-08-17**|**Hypergraph-based Multimodal Retrieval-Augmented Generation with Incremental Refinement**|Shenao Chen et.al.|[2608.16628](http://arxiv.org/abs/2608.16628)|null|
+|**2026-08-17**|**When Is Complex Chunking Worth It? A Multi-Objective Evaluation of Chunking Methods at Scale**|Laura Caspari et.al.|[2608.16586](http://arxiv.org/abs/2608.16586)|null|
+|**2026-08-17**|**DSPrompt: Dynamic Soft Prompt Defense Against M-RAG Corruption**|Chang Liu et.al.|[2608.16536](http://arxiv.org/abs/2608.16536)|null|
+|**2026-08-17**|**When Context Misleads: Intent-Guided Decoding for Robust Retrieval-Augmented Generation**|Haolin Jin et.al.|[2608.16515](http://arxiv.org/abs/2608.16515)|null|
+|**2026-08-17**|**LLMs for Zero-Shot Threat Detection via Structured Risk Indicators**|Abdullah Alghamdi et.al.|[2608.16508](http://arxiv.org/abs/2608.16508)|null|
+|**2026-08-17**|**Efficient Privacy-Preserving Range Filtered Approximate Nearest Neighbor Search**|Haoyu Wang et.al.|[2608.16488](http://arxiv.org/abs/2608.16488)|null|
+|**2026-08-17**|**D2-ScaleAgent: Dual-Dimensional Scaling for Long Document Understanding**|Hao Zhang et.al.|[2608.16417](http://arxiv.org/abs/2608.16417)|null|
+|**2026-08-17**|**Think Inside the Chunk: RegulaRAG for Regulation-Compliant Scenario Generation using LLMs: A Case Study of UN Regulation No. 152**|Vahid Zolfaghari et.al.|[2608.16394](http://arxiv.org/abs/2608.16394)|null|
+|**2026-08-17**|**What Does Context Compression Cost an Agent? Interaction Costs Unrevealed by Task-Completion Metrics**|Shuyu Liu et.al.|[2608.16370](http://arxiv.org/abs/2608.16370)|null|
+|**2026-08-17**|**Clause Encounters of the Third Kind: Can LLMs Replace Language Teachers?**|Kristina Šekrst et.al.|[2608.16286](http://arxiv.org/abs/2608.16286)|null|
+|**2026-08-17**|**The Commercial Tax: Rent-vs-Own Blind Spots in Multi-Hop Retrieval Benchmarks**|Luis M. Sanchez et.al.|[2608.16096](http://arxiv.org/abs/2608.16096)|null|
+|**2026-08-17**|**Coverage Is Not Containment: A Fundamental Limit of Admission-Time Defenses Against Coordinated Poisoning of Vector Retrieval**|Prashant Kumar Pathak et.al.|[2608.16044](http://arxiv.org/abs/2608.16044)|null|
+|**2026-08-17**|**LineageRAG: Harnessing GraphRAG by Constructing Evidence Lineages with Source Grounding**|Linyao Zheng et.al.|[2608.16004](http://arxiv.org/abs/2608.16004)|null|
 |**2026-08-14**|**How Much Do Legal RAG Systems Still Hallucinate?**|Souvick Das et.al.|[2608.14210](http://arxiv.org/abs/2608.14210)|null|
 |**2026-08-14**|**Retrieval Grounding Latent Reasoning for Dense Retrieval**|Gang Zhou et.al.|[2608.14107](http://arxiv.org/abs/2608.14107)|null|
 |**2026-08-14**|**Model-agnostic Retrieval-Augmented Extended Forecasting for time series**|Juan Pablo Villa Serna et.al.|[2608.14054](http://arxiv.org/abs/2608.14054)|null|
@@ -138,5 +153,5 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20260818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260819>back to top</a>)</p>
 
