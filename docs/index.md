@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.20
+## Updated on 2026.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-19**|**Eureka: Task-Conditioned Meta-Agent Orchestration for Scientific Discovery**|Alizer Wong et.al.|[2608.19047](http://arxiv.org/abs/2608.19047)|**[link](https://github.com/manxis-contact/Eureka)**|
+|**2026-08-19**|**rEDMRec: Distilling Large Language Model Reasoning into an Editable Experience Memory for Recommendation**|Minh Hoang Nguyen et.al.|[2608.18952](http://arxiv.org/abs/2608.18952)|null|
+|**2026-08-19**|**Think-to-Personalize: Unifying Reasoning and Retrieval for User-Centric Personalized Dense Retrieval**|Angqing Jiang et.al.|[2608.18855](http://arxiv.org/abs/2608.18855)|null|
+|**2026-08-19**|**GreekBarRetrieval: A Benchmark for Greek Statutory Retrieval**|Ernest Beta et.al.|[2608.18752](http://arxiv.org/abs/2608.18752)|null|
+|**2026-08-19**|**CTIFoundry: An Agent-Native Corpus Scaffold for Cyber Threat Intelligence**|Yutong Cheng et.al.|[2608.18613](http://arxiv.org/abs/2608.18613)|null|
+|**2026-08-19**|**Pairwise Ranking Outperforms Single-Action RL for Offline Explanation Selection: A Practical Lesson**|Tanay Chowdhury et.al.|[2608.18531](http://arxiv.org/abs/2608.18531)|null|
+|**2026-08-19**|**MissDiag: Diagnostic Evaluation of Incomplete-Knowledge Robustness in KGQA and KG-RAG**|Hang Wang et.al.|[2608.18489](http://arxiv.org/abs/2608.18489)|null|
+|**2026-08-19**|**Reducing Technician Search Burden: A Multimodal RAG for Cessna 172 Maintenance Manual**|Seongjun Ha et.al.|[2608.18465](http://arxiv.org/abs/2608.18465)|null|
+|**2026-08-18**|**TTSD-FAR: Test-Time Self-Distillation with Fisher-Anchored Restoration for Missing-Modality Emotion Recognition in LVLMs**|Muhammad Haseeb Aslam et.al.|[2608.18386](http://arxiv.org/abs/2608.18386)|null|
+|**2026-08-18**|**Do Large Language Models Play Six Degrees of Separation? Measuring Topological Compression in Long-Context Manifolds**|Md. Faiyaz Abdullah Sayeedi et.al.|[2608.17950](http://arxiv.org/abs/2608.17950)|null|
+|**2026-08-18**|**Preference Is Not Intervention: The Structure and Stability Boundaries of Reader-Specific Evidence Utility**|Shi Zhou et.al.|[2608.17781](http://arxiv.org/abs/2608.17781)|null|
+|**2026-08-18**|**GADR: Gathering Architecture Decision Records from Meeting Transcriptions**|Lucas Daniel Costa da Silva et.al.|[2608.17694](http://arxiv.org/abs/2608.17694)|null|
+|**2026-08-18**|**CoAL-RAG: A Complexity-Aware Legal Retrieval-Augmented Generation Method**|Jin Su et.al.|[2608.17536](http://arxiv.org/abs/2608.17536)|null|
+|**2026-08-17**|**Towards Safer RAG: Only Agents Capable of System 2 Thinking may Access Untrusted Documents**|Mehrdad Ghassabi et.al.|[2608.17153](http://arxiv.org/abs/2608.17153)|null|
+|**2026-08-17**|**The 10th AI City Challenge**|Zheng Tang et.al.|[2608.17044](http://arxiv.org/abs/2608.17044)|null|
 |**2026-08-17**|**Proteus: Incremental Memory Activation for Long-Context Sequence Modeling**|Reza Bayat et.al.|[2608.16844](http://arxiv.org/abs/2608.16844)|null|
 |**2026-08-17**|**GRIP: Grounded Reasoning via Information-Restricted Premises**|Lirui Teng et.al.|[2608.16776](http://arxiv.org/abs/2608.16776)|null|
 |**2026-08-17**|**Hypergraph-based Multimodal Retrieval-Augmented Generation with Incremental Refinement**|Shenao Chen et.al.|[2608.16628](http://arxiv.org/abs/2608.16628)|null|
