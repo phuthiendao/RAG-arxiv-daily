@@ -1,4 +1,4 @@
-## Updated on 2026.08.21
+## Updated on 2026.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,10 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-19**|**Eureka: Task-Conditioned Meta-Agent Orchestration for Scientific Discovery**|Alizer Wong et.al.|[2608.19047](http://arxiv.org/abs/2608.19047)|**[link](https://github.com/manxis-contact/Eureka)**|
+|**2026-08-20**|**What Makes a Good Fiqh Retriever? Answer Retrieval for Arabic Islamic Jurisprudence**|Somaya Eltanbouly et.al.|[2608.20246](http://arxiv.org/abs/2608.20246)|null|
+|**2026-08-20**|**SCoRD: Semantic-Assisted Continual Retriever-Reranker Distillation for LLM-Based Recommendation**|Seunghyun Baek et.al.|[2608.19998](http://arxiv.org/abs/2608.19998)|null|
+|**2026-08-20**|**Towards Clinically Faithful Medical Image Captioning via Enhanced Vision-Language Alignment**|Yunseo Lee et.al.|[2608.19825](http://arxiv.org/abs/2608.19825)|null|
+|**2026-08-20**|**Training-Free LLM-Based Recommendation with Post-LLM Item Refinement Using Collaborative Signals**|Kyungho Kim et.al.|[2608.19665](http://arxiv.org/abs/2608.19665)|**[link](https://github.com/K-Kyungho/CoRRe)**|
+|**2026-08-20**|**SSR-GRPO: Integrating Supervision and Semantic IDs into Reinforcement Learning for Dense Retrieval in E-commerce**|Guangxin Song et.al.|[2608.19595](http://arxiv.org/abs/2608.19595)|null|
+|**2026-08-20**|**From Retrieved Context to Runtime Control: Adaptive Compression for Edge-based RAG**|Zlatan Feric et.al.|[2608.19535](http://arxiv.org/abs/2608.19535)|null|
+|**2026-08-20**|**Automated Summarization of Financial News Using Large Language Models and Retrieval-Augmented Generation: An Early Empirical Study (Fall 2023)**|Pranav Chandaliya et.al.|[2608.19526](http://arxiv.org/abs/2608.19526)|null|
+|**2026-08-19**|**Eureka: Task-Conditioned Meta-Agent Orchestration for Scientific Discovery**|Alizer Wong et.al.|[2608.19047](http://arxiv.org/abs/2608.19047)|null|
 |**2026-08-19**|**rEDMRec: Distilling Large Language Model Reasoning into an Editable Experience Memory for Recommendation**|Minh Hoang Nguyen et.al.|[2608.18952](http://arxiv.org/abs/2608.18952)|null|
 |**2026-08-19**|**Think-to-Personalize: Unifying Reasoning and Retrieval for User-Centric Personalized Dense Retrieval**|Angqing Jiang et.al.|[2608.18855](http://arxiv.org/abs/2608.18855)|null|
-|**2026-08-19**|**GreekBarRetrieval: A Benchmark for Greek Statutory Retrieval**|Ernest Beta et.al.|[2608.18752](http://arxiv.org/abs/2608.18752)|null|
+|**2026-08-20**|**GreekBarRetrieval: A Benchmark for Greek Statutory Retrieval**|Ernest Beta et.al.|[2608.18752](http://arxiv.org/abs/2608.18752)|null|
 |**2026-08-19**|**CTIFoundry: An Agent-Native Corpus Scaffold for Cyber Threat Intelligence**|Yutong Cheng et.al.|[2608.18613](http://arxiv.org/abs/2608.18613)|null|
 |**2026-08-19**|**Pairwise Ranking Outperforms Single-Action RL for Offline Explanation Selection: A Practical Lesson**|Tanay Chowdhury et.al.|[2608.18531](http://arxiv.org/abs/2608.18531)|null|
 |**2026-08-19**|**MissDiag: Diagnostic Evaluation of Incomplete-Knowledge Robustness in KGQA and KG-RAG**|Hang Wang et.al.|[2608.18489](http://arxiv.org/abs/2608.18489)|null|
@@ -168,5 +175,5 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260822>back to top</a>)</p>
 
