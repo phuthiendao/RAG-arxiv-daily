@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.24
+## Updated on 2026.08.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,10 +11,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering**|Xuanyu Meng et.al.|[2608.21252](http://arxiv.org/abs/2608.21252)|null|
+|**2026-08-21**|**SENTRY: Deterministic, Intelligent Risk Assessment for IT Change Management**|Daniel Arulpragasam et.al.|[2608.21203](http://arxiv.org/abs/2608.21203)|null|
+|**2026-08-21**|**Trustworthy RAG: An Evaluation Agent for Detecting Misinformation and Knowledge Poisoning in Generative AI Systems**|Balkrishna Giri et.al.|[2608.21095](http://arxiv.org/abs/2608.21095)|null|
+|**2026-08-21**|**Decoupling Policy Extraction for Offline Reinforcement Learning**|Xuyao Lin et.al.|[2608.20909](http://arxiv.org/abs/2608.20909)|null|
+|**2026-08-21**|**RAG Deserves an Index: Why Ingest-Time Compilation Beats Query-Time Interpretation**|Kyle Wild et.al.|[2608.20845](http://arxiv.org/abs/2608.20845)|null|
+|**2026-08-21**|**Profiling What Matters: Context-Aware Item Profiles from Large-Scale Metadata for LLM Recommenders**|Dojun Hwang et.al.|[2608.20801](http://arxiv.org/abs/2608.20801)|null|
+|**2026-08-21**|**Vis-Poison: Poisoning Visual Knowledge in Multimodal Retrieval-Augmented Generation**|Rujin Liang et.al.|[2608.20756](http://arxiv.org/abs/2608.20756)|null|
+|**2026-08-21**|**Temporal Validity on Real Software Histories: Eliminating Stale-Fact Errors in Code-Assistant Memory over GitHub Fixes**|Neeraj Yadav et.al.|[2608.20685](http://arxiv.org/abs/2608.20685)|null|
+|**2026-08-21**|**Auditable by Construction: An Ontology-Driven Framework for Trustworthy LLM Analytics in Enterprise Finance**|Sergiy Lunyakin et.al.|[2608.20661](http://arxiv.org/abs/2608.20661)|null|
+|**2026-08-20**|**When Failures Propagate: Causal Failure Attribution in Agentic Retrieval-Augmented Generation**|Lauren Pothuru et.al.|[2608.20627](http://arxiv.org/abs/2608.20627)|null|
+|**2026-08-20**|**An integrated diffusion-weighted imaging processing and interpretation platform for MR-guided radiotherapy**|Yunxiang Li et.al.|[2608.20519](http://arxiv.org/abs/2608.20519)|null|
 |**2026-08-20**|**What Makes a Good Fiqh Retriever? Answer Retrieval for Arabic Islamic Jurisprudence**|Somaya Eltanbouly et.al.|[2608.20246](http://arxiv.org/abs/2608.20246)|null|
 |**2026-08-20**|**SCoRD: Semantic-Assisted Continual Retriever-Reranker Distillation for LLM-Based Recommendation**|Seunghyun Baek et.al.|[2608.19998](http://arxiv.org/abs/2608.19998)|null|
 |**2026-08-20**|**Towards Clinically Faithful Medical Image Captioning via Enhanced Vision-Language Alignment**|Yunseo Lee et.al.|[2608.19825](http://arxiv.org/abs/2608.19825)|null|
-|**2026-08-20**|**Training-Free LLM-Based Recommendation with Post-LLM Item Refinement Using Collaborative Signals**|Kyungho Kim et.al.|[2608.19665](http://arxiv.org/abs/2608.19665)|**[link](https://github.com/K-Kyungho/CoRRe)**|
+|**2026-08-20**|**Training-Free LLM-Based Recommendation with Post-LLM Item Refinement Using Collaborative Signals**|Kyungho Kim et.al.|[2608.19665](http://arxiv.org/abs/2608.19665)|null|
 |**2026-08-20**|**SSR-GRPO: Integrating Supervision and Semantic IDs into Reinforcement Learning for Dense Retrieval in E-commerce**|Guangxin Song et.al.|[2608.19595](http://arxiv.org/abs/2608.19595)|null|
 |**2026-08-20**|**From Retrieved Context to Runtime Control: Adaptive Compression for Edge-based RAG**|Zlatan Feric et.al.|[2608.19535](http://arxiv.org/abs/2608.19535)|null|
 |**2026-08-20**|**Automated Summarization of Financial News Using Large Language Models and Retrieval-Augmented Generation: An Early Empirical Study (Fall 2023)**|Pranav Chandaliya et.al.|[2608.19526](http://arxiv.org/abs/2608.19526)|null|
