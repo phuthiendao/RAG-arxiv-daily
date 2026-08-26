@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.25
+## Updated on 2026.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Multi-Modal Semantic Expansion with Constrained LLM Reranking for Conversational Music Recommendation**|Naman Garg et.al.|[2608.23484](http://arxiv.org/abs/2608.23484)|null|
+|**2026-08-24**|**Robustness of IR Models to Collection Growth**|Emmanouil Georgios Lionis et.al.|[2608.23419](http://arxiv.org/abs/2608.23419)|null|
+|**2026-08-24**|**The Emergence of Relevance Through Axiomatic Attention Patterns During LoRA Fine-Tuning**|Matthew Perlman et.al.|[2608.23338](http://arxiv.org/abs/2608.23338)|null|
+|**2026-08-24**|**The Laws of Context Allocation: Causal Measurement and Closed-Loop Orchestration in Generative Search**|Peiyang Liu et.al.|[2608.23252](http://arxiv.org/abs/2608.23252)|null|
+|**2026-08-24**|**Retrieval-Augmented Classification of Environmental Mitigations in Hydropower Licensing Documents**|Hong-Jun Yoon et.al.|[2608.23241](http://arxiv.org/abs/2608.23241)|null|
+|**2026-08-24**|**Which Histories Matter for Time Series Forecasting? Learning Predictive Relevance with Future Supervision**|Yong-Hoon Choi et.al.|[2608.23221](http://arxiv.org/abs/2608.23221)|null|
+|**2026-08-24**|**Evaluating Modern RAG: Textual, Multimodal, Dense, and Late Interaction Pipelines**|Emre Kuru et.al.|[2608.23176](http://arxiv.org/abs/2608.23176)|null|
+|**2026-08-24**|**Coarse Indexing, Fine Evidence: Decoupling Temporal Granularity in Long-Video RAG**|Zhe Jin et.al.|[2608.23011](http://arxiv.org/abs/2608.23011)|null|
+|**2026-08-24**|**TSWAP: A Multilingual Retrieval-Augmented Thai Wellness Advisor**|Pornthep Ukosaramig et.al.|[2608.22917](http://arxiv.org/abs/2608.22917)|null|
+|**2026-08-24**|**Better Retrieval, Worse Robustness:How Multi-hop RAG Amplifies Upstream ASR Errors**|Zhenghua Bao et.al.|[2608.22872](http://arxiv.org/abs/2608.22872)|null|
+|**2026-08-24**|**The Retriever Should Remember: Experience-Amortized Reranking for Long-Term Agent Memory**|Qi Feng et.al.|[2608.22767](http://arxiv.org/abs/2608.22767)|null|
+|**2026-08-24**|**Risk-Aware Reranking for Agentic Tool Retrieval**|Qinfei Li et.al.|[2608.22751](http://arxiv.org/abs/2608.22751)|null|
+|**2026-08-24**|**Enrich-Retrieve-Rank: Scaling Capability Discovery Beyond In-Context Routing**|Nazib Sorathiya et.al.|[2608.22695](http://arxiv.org/abs/2608.22695)|null|
+|**2026-08-24**|**FashionKG-RAG: Knowledge Graph-Enhanced Retrieval-Augmented Generation for Fashion Question Answering**|Yujuan Ding et.al.|[2608.22688](http://arxiv.org/abs/2608.22688)|null|
+|**2026-08-23**|**Evaluating Inference-Time Defenses Against Package Hallucination in LLM-Generated Code**|Alberick Euraste Djire et.al.|[2608.22652](http://arxiv.org/abs/2608.22652)|null|
 |**2026-08-21**|**EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering**|Xuanyu Meng et.al.|[2608.21252](http://arxiv.org/abs/2608.21252)|null|
 |**2026-08-21**|**SENTRY: Deterministic, Intelligent Risk Assessment for IT Change Management**|Daniel Arulpragasam et.al.|[2608.21203](http://arxiv.org/abs/2608.21203)|null|
 |**2026-08-21**|**Trustworthy RAG: An Evaluation Agent for Detecting Misinformation and Knowledge Poisoning in Generative AI Systems**|Balkrishna Giri et.al.|[2608.21095](http://arxiv.org/abs/2608.21095)|null|
