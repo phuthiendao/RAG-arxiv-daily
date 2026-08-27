@@ -1,4 +1,4 @@
-## Updated on 2026.08.26
+## Updated on 2026.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-26**|**PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans**|Nabaraj Subedi et.al.|[2608.26091](http://arxiv.org/abs/2608.26091)|null|
+|**2026-08-26**|**Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs**|Zongyu Wu et.al.|[2608.25986](http://arxiv.org/abs/2608.25986)|null|
+|**2026-08-26**|**PUMA: Post-Hoc Sparsification of Universal Multimodal Embeddings for Efficient Retrieval**|Matteo Attimonelli et.al.|[2608.25780](http://arxiv.org/abs/2608.25780)|**[link](https://github.com/sisinflab/PUMA)**|
+|**2026-08-26**|**Pointing the Way, Hiding the Destination: Practical Private Dense Retrieval at Scale**|Peichun Hua et.al.|[2608.25735](http://arxiv.org/abs/2608.25735)|null|
+|**2026-08-26**|**When RAG Fails to Equalize: Geo-bias in Factual Question Answering over Public Companies**|Abhinav Havaldar et.al.|[2608.25717](http://arxiv.org/abs/2608.25717)|null|
+|**2026-08-26**|**Query Expansion Is More Than Generation: Improving Dense Retrieval through Better Integration**|Siyuan Sun et.al.|[2608.25521](http://arxiv.org/abs/2608.25521)|null|
+|**2026-08-26**|**A Storage-Retrieval Gap in Parametric Knowledge Graph Memory**|Martino M. L. Pulici et.al.|[2608.25489](http://arxiv.org/abs/2608.25489)|null|
+|**2026-08-26**|**ReliableRAG: Combating Misinformation in Retrieval-Augmented Generation via Reliability-Guided Reasoning Chains**|Jinpu Jiang et.al.|[2608.25487](http://arxiv.org/abs/2608.25487)|null|
+|**2026-08-26**|**PonsRAG: A Pons-Inspired RAG Bridging Cognitive Islands for Coordinated Long Narrative Reasoning**|Rongchen Zhao et.al.|[2608.25486](http://arxiv.org/abs/2608.25486)|null|
+|**2026-08-26**|**Homo-RAG: Homology-Guided Retrieval-Augmented Generation for Cross-Species Gene Function Prediction**|Azrin Sultana et.al.|[2608.25466](http://arxiv.org/abs/2608.25466)|null|
+|**2026-08-25**|**SelfGraphRAG: Bridging the Supervision Gap in Graph-Based RAG with Synthetic QA Generation**|Ben Lagnese et.al.|[2608.25123](http://arxiv.org/abs/2608.25123)|null|
+|**2026-08-25**|**Less can be More: Relieving RAG Bottlenecks via Evidence Frontloading and Pressure-Adaptive Budgeting**|Weibin Cai et.al.|[2608.25115](http://arxiv.org/abs/2608.25115)|null|
+|**2026-08-25**|**SWIM: Step-Wise Integrated Measure for Session-supervised List Evaluation in Generative Re-ranking**|Yuanhao Pu et.al.|[2608.25104](http://arxiv.org/abs/2608.25104)|null|
+|**2026-08-25**|**Retrieved But Not Reliable: A Survey on Attacks, and Defenses in Retrieval-Augmented Generation**|Minh Tran et.al.|[2608.24977](http://arxiv.org/abs/2608.24977)|null|
+|**2026-08-25**|**Evidence Blindness in Direct Corpus Interaction: Persistent Navigation with AtlasNav**|Hongyu Guo et.al.|[2608.24764](http://arxiv.org/abs/2608.24764)|null|
 |**2026-08-24**|**Multi-Modal Semantic Expansion with Constrained LLM Reranking for Conversational Music Recommendation**|Naman Garg et.al.|[2608.23484](http://arxiv.org/abs/2608.23484)|null|
 |**2026-08-24**|**Robustness of IR Models to Collection Growth**|Emmanouil Georgios Lionis et.al.|[2608.23419](http://arxiv.org/abs/2608.23419)|null|
 |**2026-08-24**|**The Emergence of Relevance Through Axiomatic Attention Patterns During LoRA Fine-Tuning**|Matthew Perlman et.al.|[2608.23338](http://arxiv.org/abs/2608.23338)|null|
@@ -201,5 +216,5 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
