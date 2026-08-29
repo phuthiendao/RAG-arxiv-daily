@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.28
+## Updated on 2026.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**How AI Experiences Art: Emergent Aesthetic Structure in a Self-Supervised Multimodal Embedding Space**|Corey D. C. Heath et.al.|[2608.27121](http://arxiv.org/abs/2608.27121)|null|
+|**2026-08-27**|**pro-team at LLMs4OL 2026 Tasks Flagship and Reuse: Retrieval-Augmented Generation and Vocabulary-Constrained Filtering for Ontology Learning**|Shivam Mishra et.al.|[2608.27101](http://arxiv.org/abs/2608.27101)|null|
+|**2026-08-27**|**ProRetrieval: Learning to Orchestrate Hybrid Search via Executable Program Synthesis**|Chengsong You et.al.|[2608.27017](http://arxiv.org/abs/2608.27017)|null|
+|**2026-08-27**|**Conversational Recommendation over Live E-Commerce Catalogues with Self-Refreshing Retrieval**|Ante Kapetanovic et.al.|[2608.27006](http://arxiv.org/abs/2608.27006)|null|
+|**2026-08-27**|**A Table Is Worth 64 Tokens: Pixel-level Compression for Multi-Table Document Question Answering**|Iñigo Alonso et.al.|[2608.26949](http://arxiv.org/abs/2608.26949)|null|
+|**2026-08-27**|**SymbolLKG: Towards Verifiable Logical Reasoning via Logical Knowledge Graph and Symbolic Solvers**|Haizhao Fan et.al.|[2608.26836](http://arxiv.org/abs/2608.26836)|null|
+|**2026-08-27**|**Equal Ranking Quality, Different Decisions: Training Order-Consistent LLM Scorers**|Markus Frohmann et.al.|[2608.26762](http://arxiv.org/abs/2608.26762)|null|
+|**2026-08-27**|**Towards Expert Financial QA via Self-Improving RAG**|Junjie Xiong et.al.|[2608.26706](http://arxiv.org/abs/2608.26706)|null|
+|**2026-08-27**|**hoBIT: A Profile-Aware Retrieval-Augmented Chatbot for University Academic Advising**|Yoonseo Kim et.al.|[2608.26604](http://arxiv.org/abs/2608.26604)|null|
+|**2026-08-26**|**Why RAGs Hallucinate: Penalty-Aware Evaluation of Retrieval-Augmented Generation Systems with Knowledge-Gap Canaries**|Alden Do Rosario et.al.|[2608.26385](http://arxiv.org/abs/2608.26385)|null|
+|**2026-08-26**|**Assessing the Downstream Utility of Evidence-Aware Retrieval in RAG**|Utshab Kumar Ghosh et.al.|[2608.26379](http://arxiv.org/abs/2608.26379)|null|
+|**2026-08-26**|**MoganColBERT-TR: A Late-Interaction Multi-Vector Retrieval Model for Turkish**|Furkan Yilmaz et.al.|[2608.26344](http://arxiv.org/abs/2608.26344)|null|
+|**2026-08-26**|**On Scope Classification and Current Knowledge-Editing Benchmarks: A Negative Result, with INLAY as a Gradient-Free Case Study**|Aditya Pratap Singh et.al.|[2608.26292](http://arxiv.org/abs/2608.26292)|null|
 |**2026-08-26**|**PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans**|Nabaraj Subedi et.al.|[2608.26091](http://arxiv.org/abs/2608.26091)|null|
 |**2026-08-26**|**Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs**|Zongyu Wu et.al.|[2608.25986](http://arxiv.org/abs/2608.25986)|null|
 |**2026-08-26**|**PUMA: Post-Hoc Sparsification of Universal Multimodal Embeddings for Efficient Retrieval**|Matteo Attimonelli et.al.|[2608.25780](http://arxiv.org/abs/2608.25780)|**[link](https://github.com/sisinflab/PUMA)**|
