@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.30
+## Updated on 2026.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,9 +11,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-28**|**PULSAR: Pooled Unified Late-Interaction Search and Retrieval for Enterprise Visual Document RAG**|Benjamin Constable et.al.|[2608.28572](http://arxiv.org/abs/2608.28572)|null|
+|**2026-08-28**|**Ladders in Chaos: When, How, (and Perhaps Why) Does Test-Time Scaling Improve LLM Machine Translation**|Di Wu et.al.|[2608.28496](http://arxiv.org/abs/2608.28496)|null|
+|**2026-08-28**|**CamoDocs: A Poisoning Attack Against Retrieval-Augmented Language Models Using Camouflaged Documents**|Jaewon Jung et.al.|[2608.28389](http://arxiv.org/abs/2608.28389)|**[link](https://github.com/jaewonalive/CamoDocs)**|
+|**2026-08-28**|**Beyond Task-Only Matching: Personalized Skill Routing with Counterfactual Evaluation**|Tianle Wang et.al.|[2608.28241](http://arxiv.org/abs/2608.28241)|null|
+|**2026-08-28**|**What Makes Agent Memory Useful for Reliable Unanswerable Question Handling?**|Chuanyuan Tan et.al.|[2608.27924](http://arxiv.org/abs/2608.27924)|**[link](https://github.com/cytan17726/MemUAQ)**|
+|**2026-08-28**|**ITER: Interaction-Aware Retrieval for Agentic Search**|Haodong Chen et.al.|[2608.27912](http://arxiv.org/abs/2608.27912)|null|
+|**2026-08-28**|**LINE Conversation History Retrieval for Personal Memory RAG: Evaluating Search Representations and Hybrid Retrieval**|Akito Hattori et.al.|[2608.27809](http://arxiv.org/abs/2608.27809)|null|
+|**2026-08-27**|**Knowing Before Answering: Decoding Language Models for Reliable RAG**|Syed Mahbubul Huq et.al.|[2608.27661](http://arxiv.org/abs/2608.27661)|null|
 |**2026-08-27**|**How AI Experiences Art: Emergent Aesthetic Structure in a Self-Supervised Multimodal Embedding Space**|Corey D. C. Heath et.al.|[2608.27121](http://arxiv.org/abs/2608.27121)|null|
 |**2026-08-27**|**pro-team at LLMs4OL 2026 Tasks Flagship and Reuse: Retrieval-Augmented Generation and Vocabulary-Constrained Filtering for Ontology Learning**|Shivam Mishra et.al.|[2608.27101](http://arxiv.org/abs/2608.27101)|null|
-|**2026-08-27**|**ProRetrieval: Learning to Orchestrate Hybrid Search via Executable Program Synthesis**|Chengsong You et.al.|[2608.27017](http://arxiv.org/abs/2608.27017)|null|
+|**2026-08-28**|**ProRetrieval: Learning to Orchestrate Hybrid Search via Executable Program Synthesis**|Chengsong You et.al.|[2608.27017](http://arxiv.org/abs/2608.27017)|null|
 |**2026-08-27**|**Conversational Recommendation over Live E-Commerce Catalogues with Self-Refreshing Retrieval**|Ante Kapetanovic et.al.|[2608.27006](http://arxiv.org/abs/2608.27006)|null|
 |**2026-08-27**|**A Table Is Worth 64 Tokens: Pixel-level Compression for Multi-Table Document Question Answering**|Iñigo Alonso et.al.|[2608.26949](http://arxiv.org/abs/2608.26949)|null|
 |**2026-08-27**|**SymbolLKG: Towards Verifiable Logical Reasoning via Logical Knowledge Graph and Symbolic Solvers**|Haizhao Fan et.al.|[2608.26836](http://arxiv.org/abs/2608.26836)|null|
