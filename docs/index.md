@@ -210,11 +210,11 @@ layout: default
 |**2026-07-27**|**Retrieval-Augmented Large Language Models as Components of Cognitive Computing architecture for Regulatory Knowledge Management**|Dariusz Nowak-Nova et.al.|[2607.24352](http://arxiv.org/abs/2607.24352)|null|
 |**2026-07-27**|**Cross-Attention Calibrated Deduplication for Retrieval-Augmented Generation System**|Phuong Le Huy et.al.|[2607.24332](http://arxiv.org/abs/2607.24332)|null|
 |**2026-07-27**|**Energy Constrained Hierarchical Underwater Monitoring via Local Multi-Agent RAG**|Mohamed Amine Janati et.al.|[2607.24313](http://arxiv.org/abs/2607.24313)|null|
-|**2026-07-27**|**A New Role for Relevance: Guiding Corpus Interaction in Agentic Search**|Jiangnan Li et.al.|[2607.24223](http://arxiv.org/abs/2607.24223)|null|
+|**2026-07-27**|**A New Role for Relevance: Guiding Corpus Interaction in Agentic Search**|Jiangnan Li et.al.|[2607.24223](http://arxiv.org/abs/2607.24223)|**[link](https://github.com/LeqsNaN/RARG)**|
 |**2026-07-27**|**Do Current Retrievers Cover All the Evidence? A Controlled Study of Conjunctive Cross-Page Retrieval**|Sungguk Cha et.al.|[2607.24165](http://arxiv.org/abs/2607.24165)|null|
 |**2026-07-27**|**Agent-UCT: Upper Confidence Bounds Applied to Trees for Agentic Workflow Optimization with Cost-Awareness**|Yang Li et.al.|[2607.24162](http://arxiv.org/abs/2607.24162)|null|
 |**2026-07-27**|**When Should Active RAG Retrieve? A Budget-Aware Evaluation of Utility, Calibration, and Cost**|Pin Qian et.al.|[2607.24010](http://arxiv.org/abs/2607.24010)|null|
-|**2026-07-27**|**SyRuP: Enhancing System-Prompt Following via Reward-Guided Prediction in LLM Decoding**|Seoyeon Kim et.al.|[2607.23991](http://arxiv.org/abs/2607.23991)|null|
+|**2026-07-27**|**SyRuP: Enhancing System-Prompt Following via Reward-Guided Prediction in LLM Decoding**|Seoyeon Kim et.al.|[2607.23991](http://arxiv.org/abs/2607.23991)|**[link](https://github.com/ssseoyneee/EMNLP26_SyRuP)**|
 |**2026-07-27**|**EviBack: Search-Agent Reinforcement Learning via Evidence-Constrained Teacher Backoff**|Xiao Ma et.al.|[2607.23955](http://arxiv.org/abs/2607.23955)|null|
 |**2026-07-26**|**TriShieldRAG: A Three-Ring Defense-in-Depth Framework Against Knowledge Corruption in Retrieval-Augmented Generation**|Susil Kumar Mohanty et.al.|[2607.23838](http://arxiv.org/abs/2607.23838)|null|
 |**2026-07-26**|**ACM: Agentic Context Management for Long Horizon Tasks**|Xiaochuan Li et.al.|[2607.23809](http://arxiv.org/abs/2607.23809)|null|
