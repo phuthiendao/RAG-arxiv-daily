@@ -1,4 +1,4 @@
-## Updated on 2026.08.31
+## Updated on 2026.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-31**|**Local-to-Global Sentence-Level Graph Reranking for Scientific Synthesis**|Zheng Dou et.al.|[2608.30525](http://arxiv.org/abs/2608.30525)|null|
+|**2026-08-31**|**CM2: Multimodal Cultural Reasoning via an Integrated Multi-Agent Framework**|Qi Li et.al.|[2608.30498](http://arxiv.org/abs/2608.30498)|null|
+|**2026-08-31**|**Beyond Polarization: The Generative Constraint of Chain-of-Thought in Pointwise Reranking**|Xiaoyang Chen et.al.|[2608.30398](http://arxiv.org/abs/2608.30398)|**[link](https://github.com/VerdureChen/Beyond-Polarization)**|
+|**2026-08-31**|**Towards a Joint Khmer Text Recognition and Word Segmentation**|Marry Kong et.al.|[2608.30213](http://arxiv.org/abs/2608.30213)|null|
+|**2026-08-31**|**Doc-REFRAG: Rethinking Multimodal Document Retrieval-Augmented Generation**|Ruofan Hu et.al.|[2608.30163](http://arxiv.org/abs/2608.30163)|**[link](https://github.com/Collab-Gen/Doc-REFRAG)**|
+|**2026-08-31**|**E-SENS: Exclusion-Sensitive Penalization for Negative-Constraint Retrieval**|Yerang Kim et.al.|[2608.30130](http://arxiv.org/abs/2608.30130)|null|
+|**2026-08-30**|**SearchWiki: Learning to Build and Navigate Knowledge Wikis for Active Information Seeking**|Guransh Singh et.al.|[2608.29953](http://arxiv.org/abs/2608.29953)|null|
+|**2026-08-30**|**REIGN: Refurbished Embeddings with Integrated Guidance Networks for Efficient Context-Length Scaling**|Devrim Çavuşoğlu et.al.|[2608.29899](http://arxiv.org/abs/2608.29899)|null|
+|**2026-08-30**|**PAGE-RAG: Provenance-Aware Graph Evidence Promotion for Fixed-Budget Multi-hop Retrieval-Augmented Generation**|Haokun Deng et.al.|[2608.29753](http://arxiv.org/abs/2608.29753)|null|
+|**2026-08-30**|**AgenticRag-R1: Agentic Reinforcement Learning with Stack Memory for Multi-Step Reasoning, Retrieval and Memorizing**|Xinke Jiang et.al.|[2608.29622](http://arxiv.org/abs/2608.29622)|null|
+|**2026-08-29**|**Agents as Knowledge Integrator and Utilizer in Multimodal Recommendation**|Jinfeng Xu et.al.|[2608.29410](http://arxiv.org/abs/2608.29410)|null|
+|**2026-08-29**|**BIRD-History: A Benchmark for History-Driven Text-to-SQL with Fine-Grained Knowledge Annotations**|Yunfan Zhou et.al.|[2608.29345](http://arxiv.org/abs/2608.29345)|null|
+|**2026-08-29**|**Detecting and Repairing Hallucinations in Retrieval-Augmented Generation**|Sai Krishna Reddy Mulakkayala et.al.|[2608.29307](http://arxiv.org/abs/2608.29307)|null|
+|**2026-08-29**|**Database-Augmented RAG for Automated Repair of REST API Misuses**|Shoei Inoue et.al.|[2608.29290](http://arxiv.org/abs/2608.29290)|null|
+|**2026-08-29**|**RouteSparse: Input-Conditional Pattern Routing for Budgeted Long-Context Prefilling**|Chao Zhang et.al.|[2608.29058](http://arxiv.org/abs/2608.29058)|null|
 |**2026-08-28**|**PULSAR: Pooled Unified Late-Interaction Search and Retrieval for Enterprise Visual Document RAG**|Benjamin Constable et.al.|[2608.28572](http://arxiv.org/abs/2608.28572)|null|
 |**2026-08-28**|**Ladders in Chaos: When, How, (and Perhaps Why) Does Test-Time Scaling Improve LLM Machine Translation**|Di Wu et.al.|[2608.28496](http://arxiv.org/abs/2608.28496)|null|
 |**2026-08-28**|**CamoDocs: A Poisoning Attack Against Retrieval-Augmented Language Models Using Camouflaged Documents**|Jaewon Jung et.al.|[2608.28389](http://arxiv.org/abs/2608.28389)|**[link](https://github.com/jaewonalive/CamoDocs)**|
@@ -237,5 +252,5 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
