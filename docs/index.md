@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.07
+## Updated on 2026.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability**|Ankit Goyal et.al.|[2609.05339](http://arxiv.org/abs/2609.05339)|null|
+|**2026-09-04**|**Compression Beyond the Uncompressed: A Two-Stage Training Recipe for Soft Context Compression in RAG**|Shuyu Guo et.al.|[2609.05152](http://arxiv.org/abs/2609.05152)|null|
+|**2026-09-04**|**NS-ST-GraphRAG: Neuro-Symbolic Spatio-Temporal GraphRAG for Literary Knowledge Processing**|Zheng Kui Lin et.al.|[2609.05139](http://arxiv.org/abs/2609.05139)|null|
+|**2026-09-04**|**Beyond Maintenance Manual Multimodal RAG: Suggesting What Tool**|Seongjun Ha et.al.|[2609.05116](http://arxiv.org/abs/2609.05116)|null|
+|**2026-09-04**|**Embedding Surgery: Localized Updates for Adaptive Ranking Correction in Dense Retrieval**|Maddalena Amendola et.al.|[2609.05110](http://arxiv.org/abs/2609.05110)|null|
+|**2026-09-04**|**BIT.UA at BioASQ 14B: Modular Retrieval with pg_textsearch and Qdrant, and Agent-Based Answer Generation**|André Ribeiro et.al.|[2609.04999](http://arxiv.org/abs/2609.04999)|null|
+|**2026-09-04**|**Forgetting Without Restarting: Execution-State Unlearning for Stateful LLM Agents**|Chao Yao et.al.|[2609.04875](http://arxiv.org/abs/2609.04875)|null|
+|**2026-09-04**|**AutoLR: Automating the Path from Research to Launch Review in Industrial Recommender Systems**|Qi Zhang et.al.|[2609.04871](http://arxiv.org/abs/2609.04871)|null|
+|**2026-09-04**|**Shadow Queries for Private Retrieval in Vector Databases**|Xinguo Feng et.al.|[2609.04767](http://arxiv.org/abs/2609.04767)|null|
+|**2026-09-04**|**Building a research-software catalog with a coding agent: from hackathon prototype to public deployment**|Kazuyoshi Yoshimi et.al.|[2609.04711](http://arxiv.org/abs/2609.04711)|null|
+|**2026-09-04**|**Continual Graph Memory for Adaptive Recommendation under Intent Drift**|Hao Nguyen Ngoc et.al.|[2609.04651](http://arxiv.org/abs/2609.04651)|null|
+|**2026-09-04**|**CAGE: Coherence-Aware Graph Encoding for Retrieval-Augmented Generation**|Tong Qi et.al.|[2609.04647](http://arxiv.org/abs/2609.04647)|null|
+|**2026-09-04**|**PetQA: Benchmarking Veterinary Knowledge and Clinical Reasoning**|Taegyun Kim et.al.|[2609.04598](http://arxiv.org/abs/2609.04598)|null|
+|**2026-09-04**|**Does the Selected Object Reach the Reader? Auditing Identity Handoffs in Grounded Language-Model Pipelines**|Siddharth Vohra et.al.|[2609.04579](http://arxiv.org/abs/2609.04579)|null|
+|**2026-09-03**|**LentEx: Generalizable Latent Entity Extraction via Synthetic Data and Instruction-Tuned LLMs**|Umesh Bodhwani et.al.|[2609.04511](http://arxiv.org/abs/2609.04511)|null|
 |**2026-08-31**|**Local-to-Global Sentence-Level Graph Reranking for Scientific Synthesis**|Zheng Dou et.al.|[2608.30525](http://arxiv.org/abs/2608.30525)|null|
 |**2026-08-31**|**CM2: Multimodal Cultural Reasoning via an Integrated Multi-Agent Framework**|Qi Li et.al.|[2608.30498](http://arxiv.org/abs/2608.30498)|null|
 |**2026-08-31**|**Beyond Polarization: The Generative Constraint of Chain-of-Thought in Pointwise Reranking**|Xiaoyang Chen et.al.|[2608.30398](http://arxiv.org/abs/2608.30398)|**[link](https://github.com/VerdureChen/Beyond-Polarization)**|
