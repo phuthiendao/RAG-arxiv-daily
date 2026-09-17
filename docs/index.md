@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.16
+## Updated on 2026.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**RankGround: Efficient High-Resolution GUI Grounding via Lightweight Reranker-Guided Crop Selection**|Liyang Fan et.al.|[2609.18690](http://arxiv.org/abs/2609.18690)|null|
+|**2026-09-16**|**VoiceTrace: A Benchmark and Retrieval Framework for Who-Said-What Speech Retrieval**|Aaron Yee et.al.|[2609.18521](http://arxiv.org/abs/2609.18521)|null|
+|**2026-09-16**|**Exploring LLMs and RAG for Plausible and Explainable Material Prediction of Vehicle Components**|Frederik Wagner et.al.|[2609.18437](http://arxiv.org/abs/2609.18437)|null|
+|**2026-09-16**|**Knowledge-Graph Based Augmentation versus Retrieval Augmented Generation for Cultural-Related Question Answering**|Pablo Poulenard et.al.|[2609.18317](http://arxiv.org/abs/2609.18317)|null|
+|**2026-09-16**|**REPAIR: Resolving Long-Tail Confusion in Scientific Retrievers via Fact-Verified Iterative Refinement**|Yerim Oh et.al.|[2609.18262](http://arxiv.org/abs/2609.18262)|null|
+|**2026-09-16**|**Quanta: A Self-Contained Python Library for Hybrid Retrieval over Quantised Embeddings, Lexical Indexes, and Knowledge Graphs**|Ioannis E. Livieris et.al.|[2609.18248](http://arxiv.org/abs/2609.18248)|null|
+|**2026-09-16**|**WFM: Wiki Foundation Model for Complex Agentic Reasoning**|Junnan Dong et.al.|[2609.18182](http://arxiv.org/abs/2609.18182)|null|
+|**2026-09-16**|**When Is Graph Structure Worth Its Cost? The Case for Structure Pricing in Retrieval-Augmented Generation**|Yuzhong Zhang et.al.|[2609.18099](http://arxiv.org/abs/2609.18099)|null|
+|**2026-09-16**|**Contiguity, Not Importance: Budgeted Repair of Stale KV Caches After Document Edits**|Mingyang Mao et.al.|[2609.17983](http://arxiv.org/abs/2609.17983)|null|
+|**2026-09-15**|**How Calibration Content Shapes Attention-Based Reranking**|Petros Karypis et.al.|[2609.17764](http://arxiv.org/abs/2609.17764)|null|
+|**2026-09-15**|**One Size Does Not Fit All! Dynamic Retriever and Generator Selection for RAG**|Neeraj Anand et.al.|[2609.17709](http://arxiv.org/abs/2609.17709)|null|
+|**2026-09-15**|**CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video**|Dingli Liang et.al.|[2609.17688](http://arxiv.org/abs/2609.17688)|null|
 |**2026-09-15**|**ORDER: Task-Conditioned Routing for Retrieval-Augmented Generation**|Aurélien Pellet et.al.|[2609.17012](http://arxiv.org/abs/2609.17012)|null|
 |**2026-09-15**|**Lit3R: Retrieve-Relate-Read for Evidence-Grounded Question Answering over Scientific Literature**|Akira Ise et.al.|[2609.16912](http://arxiv.org/abs/2609.16912)|null|
 |**2026-09-15**|**Query-Aware Source-Risk Triage for Retrieval-Augmented Generation**|Kainan Zhou et.al.|[2609.16564](http://arxiv.org/abs/2609.16564)|null|
