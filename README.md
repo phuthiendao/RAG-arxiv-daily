@@ -1,4 +1,4 @@
-## Updated on 2026.09.17
+## Updated on 2026.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**RAFT: A Stateful Retrieval-Augmented Framework for Troubleshooting Agents**|Mingxuan Zhang et.al.|[2609.20754](http://arxiv.org/abs/2609.20754)|**[link](https://github.com/microsoft/RAFT)**|
+|**2026-09-17**|**Think Thrice Before Reranking: Multi-perspective Evidence and Reasoning Integration for Text Reranking**|Lijun Liu et.al.|[2609.20131](http://arxiv.org/abs/2609.20131)|null|
+|**2026-09-17**|**The Missing Complement: State-Conditioned Minimal Sufficient Evidence for Coding Agents**|Zhexi Feng et.al.|[2609.20050](http://arxiv.org/abs/2609.20050)|null|
+|**2026-09-17**|**Correct Now, Insufficient Later: Auditing Update Sufficiency in Context Compression**|Guangzhe Zhang et.al.|[2609.20045](http://arxiv.org/abs/2609.20045)|null|
+|**2026-09-17**|**TRACE: Accountable Agentic Retrieval for Source Discovery in Digital Archives**|Donghan Bian et.al.|[2609.19897](http://arxiv.org/abs/2609.19897)|null|
+|**2026-09-17**|**Reproducing Transparent and Scrutable Recommendations: Exploring Open-Weight Models via Natural-Language User Profiles**|Noah Mamié et.al.|[2609.19831](http://arxiv.org/abs/2609.19831)|null|
+|**2026-09-17**|**PrefixBench-H100: Characterizing Prefix Reuse and Time-to-First-Token in H100 LLM Serving**|Omkar Shewale et.al.|[2609.19657](http://arxiv.org/abs/2609.19657)|null|
+|**2026-09-17**|**Scientific Image Quality Assessment via Multi-modal Retrieval-Augmented Generation**|Yinuo Zhang et.al.|[2609.19634](http://arxiv.org/abs/2609.19634)|null|
+|**2026-09-17**|**Beyond Similarity through Zero-Token Geometric Graphs for Multi-Hop RAG**|Zeliang Li et.al.|[2609.19622](http://arxiv.org/abs/2609.19622)|null|
+|**2026-09-17**|**FootprintRAG: Visual Analytics for Evidence Context Refinement in RAG-based Scientific Literature Exploration**|Xingyu Liu et.al.|[2609.19601](http://arxiv.org/abs/2609.19601)|null|
+|**2026-09-17**|**Large Language Model Agents for Evidence Based Genetic Disease Severity Classification**|Tohid Ghasemnejad et.al.|[2609.19569](http://arxiv.org/abs/2609.19569)|null|
+|**2026-09-16**|**Efficiently Linking Unstructured Data for Multi-step Reasoning**|Jiaming Liang et.al.|[2609.19491](http://arxiv.org/abs/2609.19491)|null|
+|**2026-09-16**|**SCOUT: Sim-to-Real Text-Based Person Retrieval by Embedding-Space Prediction over Frozen Video Features**|Abdarahmane Traoré et.al.|[2609.19483](http://arxiv.org/abs/2609.19483)|null|
+|**2026-09-16**|**Algebraic Retrieval: Composable Search for Agents**|Damian Delmas et.al.|[2609.19482](http://arxiv.org/abs/2609.19482)|null|
+|**2026-09-16**|**Less Is More: Graph-free Multimodal RAG via Multi-signal Late Fusion**|Tithi Rakshit et.al.|[2609.19417](http://arxiv.org/abs/2609.19417)|null|
 |**2026-09-16**|**RankGround: Efficient High-Resolution GUI Grounding via Lightweight Reranker-Guided Crop Selection**|Liyang Fan et.al.|[2609.18690](http://arxiv.org/abs/2609.18690)|null|
 |**2026-09-16**|**VoiceTrace: A Benchmark and Retrieval Framework for Who-Said-What Speech Retrieval**|Aaron Yee et.al.|[2609.18521](http://arxiv.org/abs/2609.18521)|null|
 |**2026-09-16**|**Exploring LLMs and RAG for Plausible and Explainable Material Prediction of Vehicle Components**|Frederik Wagner et.al.|[2609.18437](http://arxiv.org/abs/2609.18437)|null|
@@ -294,5 +309,5 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20260917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260918>back to top</a>)</p>
 
