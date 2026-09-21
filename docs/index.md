@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.20
+## Updated on 2026.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,7 +11,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-17**|**RAFT: A Stateful Retrieval-Augmented Framework for Troubleshooting Agents**|Mingxuan Zhang et.al.|[2609.20754](http://arxiv.org/abs/2609.20754)|**[link](https://github.com/microsoft/RAFT)**|
+|**2026-09-18**|**An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Complementarity: Decoupling Confidence and Consistency**|Yiming Zhang et.al.|[2609.22043](http://arxiv.org/abs/2609.22043)|null|
+|**2026-09-18**|**AutoRecLab: Describe the Experiment, Get the Code!**|Moritz Baumgart et.al.|[2609.21863](http://arxiv.org/abs/2609.21863)|null|
+|**2026-09-18**|**Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education**|Andy Gray et.al.|[2609.21600](http://arxiv.org/abs/2609.21600)|null|
+|**2026-09-18**|**Evaluating In-Context Learning and Retrieval Strategies for Devanagari Post-OCR Correction**|Abhishek Bhandari et.al.|[2609.21595](http://arxiv.org/abs/2609.21595)|null|
+|**2026-09-18**|**Micro-Collaborative Poisoning: A Distributed Attack on RAG Systems**|Pedro Pereira et.al.|[2609.21573](http://arxiv.org/abs/2609.21573)|null|
+|**2026-09-17**|**RAFT: A Stateful Retrieval-Augmented Framework for Troubleshooting Agents**|Mingxuan Zhang et.al.|[2609.20754](http://arxiv.org/abs/2609.20754)|null|
 |**2026-09-17**|**Think Thrice Before Reranking: Multi-perspective Evidence and Reasoning Integration for Text Reranking**|Lijun Liu et.al.|[2609.20131](http://arxiv.org/abs/2609.20131)|null|
 |**2026-09-17**|**The Missing Complement: State-Conditioned Minimal Sufficient Evidence for Coding Agents**|Zhexi Feng et.al.|[2609.20050](http://arxiv.org/abs/2609.20050)|null|
 |**2026-09-17**|**Correct Now, Insufficient Later: Auditing Update Sufficiency in Context Compression**|Guangzhe Zhang et.al.|[2609.20045](http://arxiv.org/abs/2609.20045)|null|
