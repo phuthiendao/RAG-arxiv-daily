@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.23
+## Updated on 2026.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**Computation Over Geometry: Meaning Identity Is Computed, Not Shipped in the Embeddings**|Jiaqi Deng et.al.|[2609.28290](http://arxiv.org/abs/2609.28290)|null|
+|**2026-09-23**|**Dual-Hypergraph Indexing: Bridging Knowledge Islands for Multi-Hop Reasoning in Retrieval-Augmented Generation**|Qi Sun et.al.|[2609.28108](http://arxiv.org/abs/2609.28108)|null|
+|**2026-09-23**|**TEMPS: Temporal Sentence Embeddings for Temporal Information Retrieval**|Mourad Hassani et.al.|[2609.28048](http://arxiv.org/abs/2609.28048)|null|
+|**2026-09-23**|**Test-Time Adaptation with Query-Dependent Residuals for Visual Document Retrieval**|Zeliang Li et.al.|[2609.27688](http://arxiv.org/abs/2609.27688)|null|
+|**2026-09-23**|**MORSE: Multi-Context Ordering via Reverse Scoring for Evidence-Preserving Compression**|Ke Wan et.al.|[2609.27380](http://arxiv.org/abs/2609.27380)|null|
+|**2026-09-23**|**Cross-Lingual Legal QA for Vietnamese Labour Law: Retrieval, Translation, and Verifier-Guided Correction**|Nguyen Minh Chi et.al.|[2609.27376](http://arxiv.org/abs/2609.27376)|null|
+|**2026-09-23**|**Automated Extraction of Records of Processing Activities (RoPA) Using Hybrid RAG and Locally Deployed Large Language Models**|To Duy Hinh et.al.|[2609.27359](http://arxiv.org/abs/2609.27359)|null|
+|**2026-09-23**|**Meet, Compare, or Abstain: LatWeave for Deterministic Multi-Hop Question Answering on Knowledge Lattices**|Yuze Ren et.al.|[2609.27225](http://arxiv.org/abs/2609.27225)|null|
+|**2026-09-23**|**BoundaryMORPH: Budgeted Reranking via Active Set Selection for Diffuse Retrieval**|Eylon Caplan et.al.|[2609.27213](http://arxiv.org/abs/2609.27213)|null|
+|**2026-09-22**|**LEGO: Synergizing Expert GraphRAG and Expert Chain-of-Thought for Legal Reasoning**|Qingjing Chen et.al.|[2609.27009](http://arxiv.org/abs/2609.27009)|null|
+|**2026-09-22**|**When Learned Context Planning Fails to Beat Strong Retrieval: A Controlled Study of Planning, Routing, and Reranking for Long-Context QA**|Yingrui Li et.al.|[2609.26976](http://arxiv.org/abs/2609.26976)|null|
+|**2026-09-22**|**Distilling Lexical Product Associations into Deep Transformers: An Extreme Multi-Label Approach for Natural Language E-Commerce Search**|Sunnidhya Roy et.al.|[2609.26921](http://arxiv.org/abs/2609.26921)|null|
+|**2026-09-22**|**ItColBERT: An Italian-Specialised Late-Interaction Retriever**|Enrico Nello et.al.|[2609.26856](http://arxiv.org/abs/2609.26856)|null|
+|**2026-09-22**|**HySparse2: Hybrid Sparse Attention with Two-Level KV Sharing**|Jianyu Wei et.al.|[2609.26368](http://arxiv.org/abs/2609.26368)|null|
+|**2026-09-22**|**Domain-Adaptive Pretraining Enhances Water Treatment Semantic Representation for Large-Scale Structured Literature Mining**|Mudi Zhai et.al.|[2609.26034](http://arxiv.org/abs/2609.26034)|null|
 |**2026-09-18**|**An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Complementarity: Decoupling Confidence and Consistency**|Yiming Zhang et.al.|[2609.22043](http://arxiv.org/abs/2609.22043)|null|
 |**2026-09-18**|**AutoRecLab: Describe the Experiment, Get the Code!**|Moritz Baumgart et.al.|[2609.21863](http://arxiv.org/abs/2609.21863)|null|
 |**2026-09-18**|**Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education**|Andy Gray et.al.|[2609.21600](http://arxiv.org/abs/2609.21600)|null|
