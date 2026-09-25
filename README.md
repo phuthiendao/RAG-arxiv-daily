@@ -1,4 +1,4 @@
-## Updated on 2026.09.24
+## Updated on 2026.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-24**|**Return or Revise? Learning When Revision Helps Retrieval-Augmented QA**|Nicholas Kashani Motlagh et.al.|[2609.30087](http://arxiv.org/abs/2609.30087)|null|
+|**2026-09-24**|**Automated Regulatory Compliance Question Answering in Financial Services with Domain-Adapted Retrieval-Augmented Generation**|Tobias Deußer et.al.|[2609.30009](http://arxiv.org/abs/2609.30009)|null|
+|**2026-09-24**|**An Empirical Study of VLM Pipelines for Long-Document QA**|Kenan E. Ak et.al.|[2609.29933](http://arxiv.org/abs/2609.29933)|null|
+|**2026-09-24**|**When Can Agents Forget Their Reasoning? ICLR for Long-Horizon Agent Context Compression**|Mingxuan Wang et.al.|[2609.29875](http://arxiv.org/abs/2609.29875)|null|
+|**2026-09-24**|**Asymmetric Dynamic Routing: Balancing Reasoning Depth and Computational Efficiency in Hypergraph RAG**|Qi Sun et.al.|[2609.29282](http://arxiv.org/abs/2609.29282)|null|
+|**2026-09-24**|**CRISS: A Retrieval-Augmented AI Chatbot for Assisting Cancer Registrars**|Vani Seth et.al.|[2609.29075](http://arxiv.org/abs/2609.29075)|null|
+|**2026-09-24**|**Seek: Self-Evaluative Exploration for Knowledge Retrieval**|Amin Bigdeli et.al.|[2609.28980](http://arxiv.org/abs/2609.28980)|null|
+|**2026-09-23**|**TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment**|Subrat Panda et.al.|[2609.28575](http://arxiv.org/abs/2609.28575)|null|
 |**2026-09-23**|**Computation Over Geometry: Meaning Identity Is Computed, Not Shipped in the Embeddings**|Jiaqi Deng et.al.|[2609.28290](http://arxiv.org/abs/2609.28290)|null|
 |**2026-09-23**|**Dual-Hypergraph Indexing: Bridging Knowledge Islands for Multi-Hop Reasoning in Retrieval-Augmented Generation**|Qi Sun et.al.|[2609.28108](http://arxiv.org/abs/2609.28108)|null|
 |**2026-09-23**|**TEMPS: Temporal Sentence Embeddings for Temporal Information Retrieval**|Mourad Hassani et.al.|[2609.28048](http://arxiv.org/abs/2609.28048)|null|
@@ -329,5 +337,5 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
 
