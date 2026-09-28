@@ -1,4 +1,4 @@
-## Updated on 2026.09.27
+## Updated on 2026.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-25**|**DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education**|Quang Nguyen et.al.|[2609.31568](http://arxiv.org/abs/2609.31568)|null|
+|**2026-09-25**|**Retail Product Search: A Practical Approach at Target**|Darshan Sonagara et.al.|[2609.31498](http://arxiv.org/abs/2609.31498)|null|
+|**2026-09-25**|**Compress What You See, Not What You Say: Anchored Context Distillation for Latent-Observation Software Engineering Agents**|Zhensheng Zou et.al.|[2609.31430](http://arxiv.org/abs/2609.31430)|null|
+|**2026-09-25**|**Evaluating the accuracy of KV cache reuse techniques**|Samuel Cestola et.al.|[2609.31415](http://arxiv.org/abs/2609.31415)|null|
+|**2026-09-25**|**Intent2Tc: Automated Intent-to-Traffic Control Translation with Language Models**|Andrea Masini et.al.|[2609.31397](http://arxiv.org/abs/2609.31397)|null|
+|**2026-09-25**|**Stale-Document Poisoning: When Outdated Retrieval Overrides Correct Model Answers**|Md Shamim Ahmed et.al.|[2609.31342](http://arxiv.org/abs/2609.31342)|null|
+|**2026-09-25**|**ZooWork-ShopRanker: An Open, Preference-Aligned E-Commerce Reranker**|Siqiao Xue et.al.|[2609.31002](http://arxiv.org/abs/2609.31002)|null|
+|**2026-09-25**|**LogicTree-RAG: Logic Tree-guided Retrieval-Augmented Generation for Long-form Patent Drafting**|Jiaqi Zhu et.al.|[2609.30943](http://arxiv.org/abs/2609.30943)|null|
+|**2026-09-25**|**QReason: Query-Focused Decoupled Chain-of-Thought for Efficient Passage Reranking**|Yang Zhang et.al.|[2609.30904](http://arxiv.org/abs/2609.30904)|null|
+|**2026-09-25**|**HasMem: Hard-Origin Adaptively Softened Memory for Long-Term LLM Agents**|Zihong He et.al.|[2609.30797](http://arxiv.org/abs/2609.30797)|null|
+|**2026-09-24**|**REALMS: An AI-Assistant Conversational System for Real-Time Exact Audience Sizing over High-Dimensional Nested Profiles**|Haixu Ma et.al.|[2609.30547](http://arxiv.org/abs/2609.30547)|null|
 |**2026-09-24**|**Return or Revise? Learning When Revision Helps Retrieval-Augmented QA**|Nicholas Kashani Motlagh et.al.|[2609.30087](http://arxiv.org/abs/2609.30087)|null|
 |**2026-09-24**|**Automated Regulatory Compliance Question Answering in Financial Services with Domain-Adapted Retrieval-Augmented Generation**|Tobias Deußer et.al.|[2609.30009](http://arxiv.org/abs/2609.30009)|null|
 |**2026-09-24**|**An Empirical Study of VLM Pipelines for Long-Document QA**|Kenan E. Ak et.al.|[2609.29933](http://arxiv.org/abs/2609.29933)|null|
@@ -337,5 +348,5 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
 
