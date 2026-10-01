@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.30
+## Updated on 2026.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**Decision-Oriented Recommendation Reranking: An Empirical Study of Jev**|Hanjia Lyu et.al.|[2609.40241](http://arxiv.org/abs/2609.40241)|null|
+|**2026-09-30**|**Exploring Heterogeneous Model Merging Approach for Complex Knowledge Transfer**|Jiahe Fan et.al.|[2609.39369](http://arxiv.org/abs/2609.39369)|null|
+|**2026-09-30**|**Generative End-to-end Ad Retrieval at Douyin**|Shaowen Zeng et.al.|[2609.39327](http://arxiv.org/abs/2609.39327)|null|
+|**2026-09-30**|**RAGScope: A Leakage-Controlled, Cost-Aware Evidence-Gating Protocol for RAG Hallucination Triage**|Zeming Liu et.al.|[2609.39075](http://arxiv.org/abs/2609.39075)|null|
+|**2026-09-30**|**Targeted Retrieval, Compact Representations: How CoT Reasoning Improves Long-Context Counting**|Liang Twist Shan et.al.|[2609.38958](http://arxiv.org/abs/2609.38958)|null|
+|**2026-09-29**|**Component-Aware Feedback for Self-Evolving Programs**|Ethan Lin et.al.|[2609.38639](http://arxiv.org/abs/2609.38639)|null|
+|**2026-09-29**|**Shifting Mechanisms: How Positional Encoding Choice Shapes In-Context Retrieval**|Eric Enouen et.al.|[2609.38530](http://arxiv.org/abs/2609.38530)|null|
+|**2026-09-29**|**Re-ranking and Late Interaction Drive Retrieval Quality: A Controlled Comparison of RAG Strategies for Scientific Question Answering**|Bhagyesh Rathi et.al.|[2609.38473](http://arxiv.org/abs/2609.38473)|null|
+|**2026-09-29**|**Effective Dense Retrieval using Only In-Context Examples**|Nour Jedidi et.al.|[2609.38099](http://arxiv.org/abs/2609.38099)|null|
+|**2026-09-29**|**Auditable Long-Term Memory: A Deterministic Retrieval Chain Measured at 479/475 of 500 on LongMemEval-S**|Christopher J. Chanhnourack et.al.|[2609.38021](http://arxiv.org/abs/2609.38021)|null|
+|**2026-09-29**|**BITEM at the NTCIR-19 R2C2 Task: Predicting Confidence from Agentic RAG Pipeline Signals**|Julien Knafou et.al.|[2609.37993](http://arxiv.org/abs/2609.37993)|null|
+|**2026-09-29**|**Can a Cacheable Decision Model Follow Rules?**|Dushyant Rajput et.al.|[2609.37832](http://arxiv.org/abs/2609.37832)|null|
+|**2026-09-29**|**Towards Semi-Automatically Comparing Keyword-Based and Semantic Search Accuracy**|Mohamed Ben Salha et.al.|[2609.37749](http://arxiv.org/abs/2609.37749)|null|
+|**2026-09-29**|**KUPAS MASTER: Distilling the Tacit Expertise of Master Practitioners into Agent-Ready Experience Corpora**|Changmian Wang et.al.|[2609.37673](http://arxiv.org/abs/2609.37673)|null|
+|**2026-09-29**|**Retrieve, Reproduce, Reveal: Dissecting Retrieval-Augmented Software Vulnerability Detection**|Sabrina Kaniewski et.al.|[2609.37669](http://arxiv.org/abs/2609.37669)|null|
 |**2026-09-25**|**DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education**|Quang Nguyen et.al.|[2609.31568](http://arxiv.org/abs/2609.31568)|null|
 |**2026-09-25**|**Retail Product Search: A Practical Approach at Target**|Darshan Sonagara et.al.|[2609.31498](http://arxiv.org/abs/2609.31498)|null|
 |**2026-09-25**|**Compress What You See, Not What You Say: Anchored Context Distillation for Latent-Observation Software Engineering Agents**|Zhensheng Zou et.al.|[2609.31430](http://arxiv.org/abs/2609.31430)|null|
