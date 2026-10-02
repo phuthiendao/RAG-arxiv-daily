@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.01
+## Updated on 2026.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**From Knowledge Access to Source Learning: Developing Source-Specific Competence**|Lucheng Fu et.al.|[2610.02150](http://arxiv.org/abs/2610.02150)|null|
+|**2026-10-01**|**Mapping the RAG Landscape: A Four Axis Taxonomy of Efficiency, Defense, Interactivity, and Reasoning**|Meghana Sunil et.al.|[2610.01936](http://arxiv.org/abs/2610.01936)|null|
+|**2026-10-01**|**Walking the Embedding Space: Datastore Extraction from Multimodal RAG**|Maria Carmen Jica et.al.|[2610.01871](http://arxiv.org/abs/2610.01871)|null|
+|**2026-10-01**|**A Matryoshka Hierarchical RAG for Efficient Multi-Hop Question Answering**|Gianluca Bonifazi et.al.|[2610.01767](http://arxiv.org/abs/2610.01767)|null|
+|**2026-10-01**|**Evaluating Biomedical Reranking for LLM-Based Question Answering over Longitudinal Clinical Notes**|Maryam Shahbaz Ali et.al.|[2610.01324](http://arxiv.org/abs/2610.01324)|null|
+|**2026-10-01**|**AGO AI Quality Gate: Evidence-First Release Decisions for Retrieval-Augmented Generation**|Giulio Zeloni et.al.|[2610.01218](http://arxiv.org/abs/2610.01218)|null|
+|**2026-10-01**|**JoinGR: Learning to Traverse Join Graphs for Table Retrieval**|Sandipan De et.al.|[2610.01064](http://arxiv.org/abs/2610.01064)|null|
+|**2026-10-01**|**MOMAT: Mixture of Multiple Atlases for Low-Power Jailbreak Defense of Quantized LLMs**|Boyang Li et.al.|[2610.01058](http://arxiv.org/abs/2610.01058)|null|
+|**2026-10-01**|**LawCompass: Navigating from Legal QA to Multi-Agent Deep Research with Grounded Evidence**|Xiaoxia Cheng et.al.|[2610.01027](http://arxiv.org/abs/2610.01027)|null|
+|**2026-10-01**|**MemFit: Efficient Long-Term Agentic Memory**|Mitchell Piehl et.al.|[2610.00872](http://arxiv.org/abs/2610.00872)|null|
+|**2026-09-30**|**LLM-as-a-Judge for Low-Resource Languages: Adapting Ragas and Comparative Ranking for Romanian**|Claudiu Creanga et.al.|[2610.00406](http://arxiv.org/abs/2610.00406)|null|
+|**2026-09-30**|**What Should an Agent Remember? Disentangling Retention from Retrieval in Bounded-Memory Evaluation**|Juli Huang et.al.|[2610.00366](http://arxiv.org/abs/2610.00366)|null|
 |**2026-09-30**|**Decision-Oriented Recommendation Reranking: An Empirical Study of Jev**|Hanjia Lyu et.al.|[2609.40241](http://arxiv.org/abs/2609.40241)|null|
 |**2026-09-30**|**Exploring Heterogeneous Model Merging Approach for Complex Knowledge Transfer**|Jiahe Fan et.al.|[2609.39369](http://arxiv.org/abs/2609.39369)|null|
 |**2026-09-30**|**Generative End-to-end Ad Retrieval at Douyin**|Shaowen Zeng et.al.|[2609.39327](http://arxiv.org/abs/2609.39327)|null|
