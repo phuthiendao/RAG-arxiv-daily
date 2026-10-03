@@ -40,7 +40,10 @@
 |**2026-09-29**|**Can a Cacheable Decision Model Follow Rules?**|Dushyant Rajput et.al.|[2609.37832](http://arxiv.org/abs/2609.37832)|null|
 |**2026-09-29**|**Towards Semi-Automatically Comparing Keyword-Based and Semantic Search Accuracy**|Mohamed Ben Salha et.al.|[2609.37749](http://arxiv.org/abs/2609.37749)|null|
 |**2026-09-29**|**KUPAS MASTER: Distilling the Tacit Expertise of Master Practitioners into Agent-Ready Experience Corpora**|Changmian Wang et.al.|[2609.37673](http://arxiv.org/abs/2609.37673)|null|
-|**2026-09-29**|**Retrieve, Reproduce, Reveal: Dissecting Retrieval-Augmented Software Vulnerability Detection**|Sabrina Kaniewski et.al.|[2609.37669](http://arxiv.org/abs/2609.37669)|null|
+|**2026-09-29**|**Retrieve, Reproduce, Reveal: Dissecting Retrieval-Augmented Software Vulnerability Detection**|Sabrina Kaniewski et.al.|[2609.37669](http://arxiv.org/abs/2609.37669)|**[link](https://github.com/hs-esslingen-it-security/RAG4SVD)**|
+|**2026-09-29**|**Corpus-Guided Dual-Path Propagation for Graph Retrieval-Augmented Generation**|Baoxian Liu et.al.|[2609.37661](http://arxiv.org/abs/2609.37661)|null|
+|**2026-09-29**|**FOCUS: Training-Free Decision-Preserving Context Compression for LLM Agents**|Shantanu Dixit et.al.|[2609.37590](http://arxiv.org/abs/2609.37590)|null|
+|**2026-09-29**|**LazySloth: Bounded LLM-based Lazy Tree Search for Fast Long Video Comprehension**|Arka Mukherjee et.al.|[2609.37426](http://arxiv.org/abs/2609.37426)|null|
 |**2026-09-25**|**DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education**|Quang Nguyen et.al.|[2609.31568](http://arxiv.org/abs/2609.31568)|null|
 |**2026-09-25**|**Retail Product Search: A Practical Approach at Target**|Darshan Sonagara et.al.|[2609.31498](http://arxiv.org/abs/2609.31498)|null|
 |**2026-09-25**|**Compress What You See, Not What You Say: Anchored Context Distillation for Latent-Observation Software Engineering Agents**|Zhensheng Zou et.al.|[2609.31430](http://arxiv.org/abs/2609.31430)|null|
