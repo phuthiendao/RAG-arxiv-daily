@@ -1,4 +1,4 @@
-## Updated on 2026.10.10
+## Updated on 2026.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -23,7 +23,7 @@
 |**2026-10-01**|**JoinGR: Learning to Traverse Join Graphs for Table Retrieval**|Sandipan De et.al.|[2610.01064](http://arxiv.org/abs/2610.01064)|null|
 |**2026-10-01**|**MOMAT: Mixture of Multiple Atlases for Low-Power Jailbreak Defense of Quantized LLMs**|Boyang Li et.al.|[2610.01058](http://arxiv.org/abs/2610.01058)|null|
 |**2026-10-01**|**LawCompass: Navigating from Legal QA to Multi-Agent Deep Research with Grounded Evidence**|Xiaoxia Cheng et.al.|[2610.01027](http://arxiv.org/abs/2610.01027)|null|
-|**2026-10-01**|**MemFit: Efficient Long-Term Agentic Memory**|Mitchell Piehl et.al.|[2610.00872](http://arxiv.org/abs/2610.00872)|null|
+|**2026-10-01**|**MemFit: Efficient Long-Term Agentic Memory**|Mitchell Piehl et.al.|[2610.00872](http://arxiv.org/abs/2610.00872)|**[link](https://github.com/mitchellpiehl/MemFit)**|
 |**2026-09-30**|**LLM-as-a-Judge for Low-Resource Languages: Adapting Ragas and Comparative Ranking for Romanian**|Claudiu Creanga et.al.|[2610.00406](http://arxiv.org/abs/2610.00406)|null|
 |**2026-09-30**|**What Should an Agent Remember? Disentangling Retention from Retrieval in Bounded-Memory Evaluation**|Juli Huang et.al.|[2610.00366](http://arxiv.org/abs/2610.00366)|null|
 |**2026-09-30**|**Decision-Oriented Recommendation Reranking: An Empirical Study of Jev**|Hanjia Lyu et.al.|[2609.40241](http://arxiv.org/abs/2609.40241)|null|
@@ -198,7 +198,7 @@
 |**2026-08-24**|**Retrieval-Augmented Classification of Environmental Mitigations in Hydropower Licensing Documents**|Hong-Jun Yoon et.al.|[2608.23241](http://arxiv.org/abs/2608.23241)|null|
 |**2026-08-24**|**Which Histories Matter for Time Series Forecasting? Learning Predictive Relevance with Future Supervision**|Yong-Hoon Choi et.al.|[2608.23221](http://arxiv.org/abs/2608.23221)|null|
 |**2026-08-24**|**Evaluating Modern RAG: Textual, Multimodal, Dense, and Late Interaction Pipelines**|Emre Kuru et.al.|[2608.23176](http://arxiv.org/abs/2608.23176)|null|
-|**2026-08-24**|**Coarse Indexing, Fine Evidence: Decoupling Temporal Granularity in Long-Video RAG**|Zhe Jin et.al.|[2608.23011](http://arxiv.org/abs/2608.23011)|null|
+|**2026-08-24**|**Coarse Indexing, Fine Evidence: Decoupling Temporal Granularity in Long-Video RAG**|Zhe Jin et.al.|[2608.23011](http://arxiv.org/abs/2608.23011)|**[link](https://github.com/jinzz831/DAGC)**|
 |**2026-08-24**|**TSWAP: A Multilingual Retrieval-Augmented Thai Wellness Advisor**|Pornthep Ukosaramig et.al.|[2608.22917](http://arxiv.org/abs/2608.22917)|null|
 |**2026-08-24**|**Better Retrieval, Worse Robustness:How Multi-hop RAG Amplifies Upstream ASR Errors**|Zhenghua Bao et.al.|[2608.22872](http://arxiv.org/abs/2608.22872)|null|
 |**2026-08-24**|**The Retriever Should Remember: Experience-Amortized Reranking for Long-Term Agent Memory**|Qi Feng et.al.|[2608.22767](http://arxiv.org/abs/2608.22767)|null|
@@ -378,5 +378,5 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20261010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261012>back to top</a>)</p>
 

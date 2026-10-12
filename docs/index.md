@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.10
+## Updated on 2026.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -27,7 +27,7 @@ layout: default
 |**2026-09-30**|**Exploring Heterogeneous Model Merging Approach for Complex Knowledge Transfer**|Jiahe Fan et.al.|[2609.39369](http://arxiv.org/abs/2609.39369)|null|
 |**2026-09-30**|**Generative End-to-end Ad Retrieval at Douyin**|Shaowen Zeng et.al.|[2609.39327](http://arxiv.org/abs/2609.39327)|null|
 |**2026-09-30**|**RAGScope: A Leakage-Controlled, Cost-Aware Evidence-Gating Protocol for RAG Hallucination Triage**|Zeming Liu et.al.|[2609.39075](http://arxiv.org/abs/2609.39075)|null|
-|**2026-09-30**|**Targeted Retrieval, Compact Representations: How CoT Reasoning Improves Long-Context Counting**|Liang Twist Shan et.al.|[2609.38958](http://arxiv.org/abs/2609.38958)|null|
+|**2026-09-30**|**Targeted Retrieval, Compact Representations: How CoT Reasoning Improves Long-Context Counting**|Liang Twist Shan et.al.|[2609.38958](http://arxiv.org/abs/2609.38958)|**[link](https://github.com/Twist-Shan/CoT_NIAH_Counting)**|
 |**2026-09-29**|**Component-Aware Feedback for Self-Evolving Programs**|Ethan Lin et.al.|[2609.38639](http://arxiv.org/abs/2609.38639)|null|
 |**2026-09-29**|**Shifting Mechanisms: How Positional Encoding Choice Shapes In-Context Retrieval**|Eric Enouen et.al.|[2609.38530](http://arxiv.org/abs/2609.38530)|null|
 |**2026-09-29**|**Re-ranking and Late Interaction Drive Retrieval Quality: A Controlled Comparison of RAG Strategies for Scientific Question Answering**|Bhagyesh Rathi et.al.|[2609.38473](http://arxiv.org/abs/2609.38473)|null|
@@ -366,10 +366,10 @@ layout: default
 |**2026-07-24**|**Learning on the Job: Continual Learning from Deployment Feedback for Frozen-Weights Agents**|Valentin Tablan et.al.|[2607.22157](http://arxiv.org/abs/2607.22157)|**[link](https://github.com/memcoai/spark-continual-learning-paper-data)**|
 |**2026-07-24**|**Benchmarking Fine-tuning and Retrieval Strategies for a Multimodal Language Model on the NRC Reactor Operator Licensing Examination**|Isak Hwang et.al.|[2607.22067](http://arxiv.org/abs/2607.22067)|null|
 |**2026-07-24**|**LAMAR: An Open Language-Aware Multilingual Alignment Reranker**|Seongtae Hong et.al.|[2607.22042](http://arxiv.org/abs/2607.22042)|null|
-|**2026-07-24**|**Leveraging External Knowledge for Historical Document Restoration via Retrieval-Augmented Large Language Models**|Gabeen Kim et.al.|[2607.21936](http://arxiv.org/abs/2607.21936)|null|
+|**2026-07-24**|**Leveraging External Knowledge for Historical Document Restoration via Retrieval-Augmented Large Language Models**|Gabeen Kim et.al.|[2607.21936](http://arxiv.org/abs/2607.21936)|**[link](https://github.com/EvelynKimm/ARI)**|
 |**2026-07-23**|**Enhancing SLMs for Sustainable Code Optimization in Radio-Astronomy**|Elisa Chiarotto et.al.|[2607.21677](http://arxiv.org/abs/2607.21677)|null|
-|**2026-07-23**|**GRADRAG: Cross-Component Prompt Adaptation for Coordinated Multi-Agent RAG**|Paolo Pedinotti et.al.|[2607.21324](http://arxiv.org/abs/2607.21324)|null|
-|**2026-07-23**|**CRAG-MM-Diagnostics: Enabling Stage-Wise Analysis of Knowledge-Intensive VQA**|Hanseok Oh et.al.|[2607.21155](http://arxiv.org/abs/2607.21155)|null|
+|**2026-07-23**|**GRADRAG: Cross-Component Prompt Adaptation for Coordinated Multi-Agent RAG**|Paolo Pedinotti et.al.|[2607.21324](http://arxiv.org/abs/2607.21324)|**[link](https://github.com/abinesha312/gradrag)**|
+|**2026-07-23**|**CRAG-MM-Diagnostics: Enabling Stage-Wise Analysis of Knowledge-Intensive VQA**|Hanseok Oh et.al.|[2607.21155](http://arxiv.org/abs/2607.21155)|**[link](https://github.com/McGill-NLP/crag-mm-diagnostics)**|
 |**2026-07-24**|**Bridging the Structural Gap: Adapting Autoregressive Generation for Recommendation**|Junchao Zeng et.al.|[2607.21028](http://arxiv.org/abs/2607.21028)|null|
 |**2026-07-23**|**Fast and Efficient Approximate Nearest Neighbor Search for High-Dimensional LLM Embeddings**|Nico Hezel et.al.|[2607.20957](http://arxiv.org/abs/2607.20957)|null|
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
