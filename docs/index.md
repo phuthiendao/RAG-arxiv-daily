@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.16
+## Updated on 2026.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**ThetreStageAI: Multi-View Retrieval-Augmented Generation for Structured Bengali Theatre Production Planning**|Md. Mehedi Hasan Naeem et.al.|[2610.23618](http://arxiv.org/abs/2610.23618)|null|
+|**2026-10-16**|**RL-Guided Temporal Localization for Dual-Channel Retrieval in Long-Horizon Agent Memory**|Dabin Sheng et.al.|[2610.23598](http://arxiv.org/abs/2610.23598)|null|
+|**2026-10-16**|**Enhancing RAG-based Medical VQA with Gated Multimodal Representations**|Daniela Jimenez-Pano et.al.|[2610.23588](http://arxiv.org/abs/2610.23588)|null|
+|**2026-10-16**|**Jev-as-a-Judge for Brazilian Portuguese Information Retrieval: Relevance Assessment and Reranking**|Leandro Carísio Fernandes et.al.|[2610.23346](http://arxiv.org/abs/2610.23346)|null|
+|**2026-10-16**|**Characterising and Analysing Retrieval-Augmented Generation Techniques**|Emmanuel Igbekele et.al.|[2610.23226](http://arxiv.org/abs/2610.23226)|null|
+|**2026-10-16**|**On the Position Bias of Large Language Models: A Comprehensive Study**|Yining Li et.al.|[2610.22807](http://arxiv.org/abs/2610.22807)|null|
+|**2026-10-16**|**Reasoning Reranking with Semantic IDs as the Sole Item Representation**|Zhenwei Tang et.al.|[2610.22797](http://arxiv.org/abs/2610.22797)|null|
+|**2026-10-15**|**NoveltyScope: A Multi-Agent Research Assistant for Evidence-Grounded Novelty Assessment of Scientific Papers**|Yueran Tian et.al.|[2610.22703](http://arxiv.org/abs/2610.22703)|null|
+|**2026-10-15**|**Evidence-Gated Bilingual RAG for Reliable Consumer Banking Search**|Ahmed Mohamed Mahmoud Rayyan et.al.|[2610.22652](http://arxiv.org/abs/2610.22652)|null|
+|**2026-10-15**|**When Does Uncertainty Measure RAG Hallucination Risk?**|Rajeel Ahmad Ansari et.al.|[2610.22615](http://arxiv.org/abs/2610.22615)|null|
+|**2026-10-15**|**SAG2: Embedding-Free Multi-Hop Retrieval with BM25 and JEV**|Yuchao Wu et.al.|[2610.22588](http://arxiv.org/abs/2610.22588)|null|
+|**2026-10-15**|**AuditKIT: A Unified Evaluation Spine for Benchmarking, Judging, and Comparing Large Language Models and Agentic Systems**|Shreeyans Arora et.al.|[2610.22511](http://arxiv.org/abs/2610.22511)|null|
+|**2026-10-15**|**Lean Graph Search for Formal Theorem Proving**|Yihan Xu et.al.|[2610.22339](http://arxiv.org/abs/2610.22339)|null|
+|**2026-10-15**|**Private Retrieval Augmented Generation via Random Projection**|Dixi Yao et.al.|[2610.22297](http://arxiv.org/abs/2610.22297)|null|
+|**2026-10-15**|**Multi-sourced AI Tutor for Non-Native English Speaker Students**|Yiyin Shen et.al.|[2610.22163](http://arxiv.org/abs/2610.22163)|null|
+|**2026-10-15**|**CARA: Causally Guided Retrieval Agent for Question Answering**|Weicheng Liu et.al.|[2610.22017](http://arxiv.org/abs/2610.22017)|null|
+|**2026-10-15**|**TEM: Temporal State Tracking Memory for Large Language Model Agents**|Pengfeng Song et.al.|[2610.21900](http://arxiv.org/abs/2610.21900)|null|
+|**2026-10-15**|**GACC-Bench: Benchmarking Goal-Adaptive Context Compression Ability across Large Language Models**|Weiting Liu et.al.|[2610.21893](http://arxiv.org/abs/2610.21893)|null|
+|**2026-10-15**|**Loud and Clear: Making Visual Evidence Count in Multimodal Document RAG**|Eunchan Jo et.al.|[2610.21318](http://arxiv.org/abs/2610.21318)|null|
+|**2026-10-15**|**RecSoup: Efficient Model Merging Approach for Controllable Multi-Objective Recommendation**|Zidong Jia et.al.|[2610.21220](http://arxiv.org/abs/2610.21220)|null|
+|**2026-10-15**|**Beyond Retrieval Failure: Understanding Why LLMs Miss Evidence in Multi-Hop RAG**|Jiaqi Wei et.al.|[2610.21184](http://arxiv.org/abs/2610.21184)|null|
+|**2026-10-15**|**From Long Context to Selective Memory:A Survey of Memory-Centric Compression for Large Language Models**|Chaogui Gou et.al.|[2610.21165](http://arxiv.org/abs/2610.21165)|null|
+|**2026-10-14**|**Can LLMs Anticipate Their Cruxes?**|David Reber et.al.|[2610.21006](http://arxiv.org/abs/2610.21006)|null|
+|**2026-10-15**|**Analyzing performance of Retrieval Augmented Generation models for Question Answering Tasks**|Fazle Mohammed Tasfiq et.al.|[2610.20419](http://arxiv.org/abs/2610.20419)|null|
+|**2026-10-14**|**Cascaded Retrieval with Cross-Modal Query Refinement for Efficient Visual Document Search**|Diana Turmakhan et.al.|[2610.20367](http://arxiv.org/abs/2610.20367)|null|
+|**2026-10-14**|**Reading the Neighborhood: Text-Attentive Graph Reranking for Automated Subject Indexing**|Lakshmi Rajendram Bashyam et.al.|[2610.20048](http://arxiv.org/abs/2610.20048)|null|
+|**2026-10-14**|**Provable Transformer Context Compression for In-Context Reinforcement Learning**|Yajie Zhao et.al.|[2610.20004](http://arxiv.org/abs/2610.20004)|null|
+|**2026-10-14**|**Learning Graph Energies for Finite-Time Generation**|Amartya Banerjee et.al.|[2610.19946](http://arxiv.org/abs/2610.19946)|null|
+|**2026-10-14**|**Calibration and Risk-Budgeted Decisions with System One Models**|Soundouss Messoudi et.al.|[2610.19811](http://arxiv.org/abs/2610.19811)|null|
+|**2026-10-14**|**GraphRAG-LTM: A Layered Threat Modeling Framework for Attacks on Graph Retrieval-Augmented Generation**|Yining Tang et.al.|[2610.19549](http://arxiv.org/abs/2610.19549)|null|
 |**2026-10-01**|**From Knowledge Access to Source Learning: Developing Source-Specific Competence**|Lucheng Fu et.al.|[2610.02150](http://arxiv.org/abs/2610.02150)|null|
 |**2026-10-01**|**Mapping the RAG Landscape: A Four Axis Taxonomy of Efficiency, Defense, Interactivity, and Reasoning**|Meghana Sunil et.al.|[2610.01936](http://arxiv.org/abs/2610.01936)|null|
 |**2026-10-01**|**Walking the Embedding Space: Datastore Extraction from Multimodal RAG**|Maria Carmen Jica et.al.|[2610.01871](http://arxiv.org/abs/2610.01871)|null|
