@@ -1,4 +1,4 @@
-## Updated on 2026.10.19
+## Updated on 2026.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,36 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-21**|**Graph Topology Meets Energy-Driven Pathfinding: Preserving Contextual Consistency in Retrieval-Augmented Generation**|Yufeng Li et.al.|[2610.29933](http://arxiv.org/abs/2610.29933)|null|
+|**2026-10-21**|**MAPS: Macro-Adaptive Parallel Reasoning for Regulating Search Momentum in Retrieval-Augmented Generation**|Xinze Li et.al.|[2610.29792](http://arxiv.org/abs/2610.29792)|null|
+|**2026-10-21**|**Retrieval Augmented Generation Compositionality**|Ido Levy et.al.|[2610.29722](http://arxiv.org/abs/2610.29722)|**[link](https://github.com/THE-DEEPDAS/Medical-RAG-LLM)**|
+|**2026-10-21**|**Directional Posterior Feedback Fusion for Query Reformulation in Dense Retrieval**|Yiteng Tu et.al.|[2610.29464](http://arxiv.org/abs/2610.29464)|null|
+|**2026-10-21**|**Learning Marginal Viewpoint Utility for Budgeted Evidence Selection in RAG**|Yiyang Duan et.al.|[2610.29234](http://arxiv.org/abs/2610.29234)|null|
+|**2026-10-21**|**C $^2$ U in RAG: Compositional Concept Unlearning in Retrieval-Augmented Generation**|Yiyang Duan et.al.|[2610.29223](http://arxiv.org/abs/2610.29223)|null|
+|**2026-10-21**|**Understanding Target Probability Reuse in Speculative Decoding**|Jungseob Lee et.al.|[2610.29210](http://arxiv.org/abs/2610.29210)|null|
+|**2026-10-20**|**Scan or Index? large Evidence Coverage, Answer Quality, and Cost in Long-Document RAG**|Juan Terven et.al.|[2610.28957](http://arxiv.org/abs/2610.28957)|null|
+|**2026-10-19**|**A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation**|Lihong He et.al.|[2610.28686](http://arxiv.org/abs/2610.28686)|null|
+|**2026-10-20**|**Multimodal Reranking Is a System One Decision**|Zhuchenyang Liu et.al.|[2610.28435](http://arxiv.org/abs/2610.28435)|null|
+|**2026-10-20**|**Context-Aware Prompt Injection Detection via Small Language Models in RAG Pipelines: nokast-secureRAG**|Abhishek Rai et.al.|[2610.28364](http://arxiv.org/abs/2610.28364)|null|
+|**2026-10-20**|**DeclineCraft: A RAG Abstention Benchmark for Jointly Measuring Combined Retrieval and Parametric Knowledge**|Atharva Thakur et.al.|[2610.28340](http://arxiv.org/abs/2610.28340)|null|
+|**2026-10-20**|**GARRET: Generative Feedback for Region Retrieval in Visual Documents**|Weijian Jian et.al.|[2610.27829](http://arxiv.org/abs/2610.27829)|null|
+|**2026-10-20**|**RAG-NIMBF: A Non-Invasive, Modular Benchmarking Framework for Automated RAG Configuration Analysis**|Niclas Hart et.al.|[2610.27816](http://arxiv.org/abs/2610.27816)|null|
+|**2026-10-19**|**SweepANN: A GPU-Accelerated Large-K Approximate Vector Search for Drug Discovery**|Zhenyu Zhang et.al.|[2610.27306](http://arxiv.org/abs/2610.27306)|null|
+|**2026-10-19**|**FLINT: Fixed-budget Late Interaction**|Himank Handa et.al.|[2610.27273](http://arxiv.org/abs/2610.27273)|null|
+|**2026-10-19**|**LatComm: Reusable Context Compression for Latent Communication between Large Language Models**|Huawei Lin et.al.|[2610.26840](http://arxiv.org/abs/2610.26840)|null|
+|**2026-10-19**|**KEEP-Bench: Evaluating Evidence Preservation in Context Compression**|Ziqing Man et.al.|[2610.26827](http://arxiv.org/abs/2610.26827)|null|
+|**2026-10-19**|**EpiLens: Lightweight RAG for Epidemiological Knowledge Acquisition**|Vincenzo Perri et.al.|[2610.26730](http://arxiv.org/abs/2610.26730)|null|
+|**2026-10-19**|**SNO-PI: Label-Scarce SNOMED CT Entity Linking with Pre-trained Encoders and Curated Terminology Knowledge**|Piyawoot Songsiritat et.al.|[2610.26425](http://arxiv.org/abs/2610.26425)|null|
+|**2026-10-19**|**Large-Scale Biomedical RAG: Corpus Scaling, Document Representation, and Efficiency Trade-offs**|Adrián Sánchez-Freire et.al.|[2610.26339](http://arxiv.org/abs/2610.26339)|null|
+|**2026-10-19**|**StrucChunk: Structure-Aware Retrieval for Legal Document RAG**|Surya Deep Singh et.al.|[2610.26313](http://arxiv.org/abs/2610.26313)|null|
+|**2026-10-19**|**Preference Is Not Position: Evaluating Reranking on NevIR in Fixed Hybrid Candidate Pools**|Yuning Bian et.al.|[2610.26260](http://arxiv.org/abs/2610.26260)|null|
+|**2026-10-19**|**OpenSaC: A Python Library for Search as Code in Deep Research Agents**|Qi Liu et.al.|[2610.25779](http://arxiv.org/abs/2610.25779)|null|
+|**2026-10-19**|**Cross-Pollination Retrieval: Finding Transferable Ideas Across Fields in Scientific Literature**|Seokwon Jung et.al.|[2610.25678](http://arxiv.org/abs/2610.25678)|null|
+|**2026-10-19**|**Think, Compress, Answer: Reinforcement Learning for Multimodal Grounding via Reasoning Compression**|Jinbae Seo et.al.|[2610.25640](http://arxiv.org/abs/2610.25640)|null|
+|**2026-10-19**|**Weighted State Souping for Efficient Long-Context Retrieval**|William L. Tong et.al.|[2610.25621](http://arxiv.org/abs/2610.25621)|null|
+|**2026-10-18**|**Benchmark for Structured Retrieval-Augmented Generation in Perovskite Photovoltaics**|Qiwei Han et.al.|[2610.25575](http://arxiv.org/abs/2610.25575)|null|
+|**2026-10-18**|**Mining the Self-Rewriting System: A Vision for Data Mining on AI-Native Infrastructure**|Mayank Darbari et.al.|[2610.25374](http://arxiv.org/abs/2610.25374)|null|
+|**2026-10-18**|**Aligning Language Models with Indigenous Community Cosmovision through Constitutional AI**|Silvia Fernández-Sabido et.al.|[2610.25298](http://arxiv.org/abs/2610.25298)|null|
 |**2026-10-16**|**ThetreStageAI: Multi-View Retrieval-Augmented Generation for Structured Bengali Theatre Production Planning**|Md. Mehedi Hasan Naeem et.al.|[2610.23618](http://arxiv.org/abs/2610.23618)|null|
 |**2026-10-16**|**RL-Guided Temporal Localization for Dual-Channel Retrieval in Long-Horizon Agent Memory**|Dabin Sheng et.al.|[2610.23598](http://arxiv.org/abs/2610.23598)|null|
 |**2026-10-16**|**Enhancing RAG-based Medical VQA with Gated Multimodal Representations**|Daniela Jimenez-Pano et.al.|[2610.23588](http://arxiv.org/abs/2610.23588)|null|
@@ -408,5 +438,5 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
 
