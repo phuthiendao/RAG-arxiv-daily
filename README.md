@@ -1,4 +1,4 @@
-## Updated on 2026.10.22
+## Updated on 2026.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,9 +14,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions**|Miguel Mochizuki Silva et.al.|[2610.31606](http://arxiv.org/abs/2610.31606)|null|
+|**2026-10-22**|**From Structured Records to Patient Narratives: Preserving Clinical Alignment in LLM-Generated Health Summaries**|Bayram Ayadi et.al.|[2610.31467](http://arxiv.org/abs/2610.31467)|null|
+|**2026-10-22**|**Chunk Recomputation under Real Document Revisions: Measuring Update Cost and Retrieval Quality of Fixed, Recursive, and Content-Defined Chunking**|Yuning Bian et.al.|[2610.31019](http://arxiv.org/abs/2610.31019)|null|
+|**2026-10-22**|**Formal-Informal Mathematical Alignment through and beyond Human Annotations**|Noah Gießing et.al.|[2610.31011](http://arxiv.org/abs/2610.31011)|null|
+|**2026-10-22**|**Joint or Per-Option? Compact Encoders for Closed-Set Decisions from 17 Million to 1 Billion Parameters**|Tardelli Ronan Coelho Stekel et.al.|[2610.30970](http://arxiv.org/abs/2610.30970)|null|
+|**2026-10-22**|**Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought**|Zhengye Bao et.al.|[2610.30755](http://arxiv.org/abs/2610.30755)|null|
+|**2026-10-22**|**Federated Graph Retrieval-Augmented Generation**|Xiaobao Wang et.al.|[2610.30728](http://arxiv.org/abs/2610.30728)|null|
+|**2026-10-22**|**Automated Enrichment Analysis with GraphRAG: Efficient Multi-Database ORA Extraction and Biological Interpretation**|Guangcan Li et.al.|[2610.30710](http://arxiv.org/abs/2610.30710)|null|
+|**2026-10-22**|**ULME: Predictive Coupling for Mutually Reinforcing Embedding and Language Modeling**|Yang Liu et.al.|[2610.30705](http://arxiv.org/abs/2610.30705)|null|
+|**2026-10-22**|**Lychee: Certified Screening of Inverted Lists for High-Recall Vector Search**|Dongfang Zhao et.al.|[2610.30697](http://arxiv.org/abs/2610.30697)|null|
+|**2026-10-22**|**The Fusion Tax: A Diagnostic Analysis of When Hybrid Retrieval Hurts**|Aaditya Chauhan et.al.|[2610.30612](http://arxiv.org/abs/2610.30612)|null|
+|**2026-10-21**|**Protection Is Not One Event: A Survey of RAG Protection Research by Measured Endpoint**|Peiyang Liu et.al.|[2610.30193](http://arxiv.org/abs/2610.30193)|null|
 |**2026-10-21**|**Graph Topology Meets Energy-Driven Pathfinding: Preserving Contextual Consistency in Retrieval-Augmented Generation**|Yufeng Li et.al.|[2610.29933](http://arxiv.org/abs/2610.29933)|null|
 |**2026-10-21**|**MAPS: Macro-Adaptive Parallel Reasoning for Regulating Search Momentum in Retrieval-Augmented Generation**|Xinze Li et.al.|[2610.29792](http://arxiv.org/abs/2610.29792)|null|
-|**2026-10-21**|**Retrieval Augmented Generation Compositionality**|Ido Levy et.al.|[2610.29722](http://arxiv.org/abs/2610.29722)|**[link](https://github.com/THE-DEEPDAS/Medical-RAG-LLM)**|
+|**2026-10-21**|**Retrieval Augmented Generation Compositionality**|Ido Levy et.al.|[2610.29722](http://arxiv.org/abs/2610.29722)|null|
 |**2026-10-21**|**Directional Posterior Feedback Fusion for Query Reformulation in Dense Retrieval**|Yiteng Tu et.al.|[2610.29464](http://arxiv.org/abs/2610.29464)|null|
 |**2026-10-21**|**Learning Marginal Viewpoint Utility for Budgeted Evidence Selection in RAG**|Yiyang Duan et.al.|[2610.29234](http://arxiv.org/abs/2610.29234)|null|
 |**2026-10-21**|**C $^2$ U in RAG: Compositional Concept Unlearning in Retrieval-Augmented Generation**|Yiyang Duan et.al.|[2610.29223](http://arxiv.org/abs/2610.29223)|null|
@@ -438,5 +450,5 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261025>back to top</a>)</p>
 
