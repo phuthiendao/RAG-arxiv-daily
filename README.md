@@ -1,4 +1,4 @@
-## Updated on 2026.10.25
+## Updated on 2026.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -19,8 +19,8 @@
 |**2026-10-22**|**Chunk Recomputation under Real Document Revisions: Measuring Update Cost and Retrieval Quality of Fixed, Recursive, and Content-Defined Chunking**|Yuning Bian et.al.|[2610.31019](http://arxiv.org/abs/2610.31019)|null|
 |**2026-10-22**|**Formal-Informal Mathematical Alignment through and beyond Human Annotations**|Noah Gießing et.al.|[2610.31011](http://arxiv.org/abs/2610.31011)|null|
 |**2026-10-22**|**Joint or Per-Option? Compact Encoders for Closed-Set Decisions from 17 Million to 1 Billion Parameters**|Tardelli Ronan Coelho Stekel et.al.|[2610.30970](http://arxiv.org/abs/2610.30970)|null|
-|**2026-10-22**|**Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought**|Zhengye Bao et.al.|[2610.30755](http://arxiv.org/abs/2610.30755)|null|
-|**2026-10-22**|**Federated Graph Retrieval-Augmented Generation**|Xiaobao Wang et.al.|[2610.30728](http://arxiv.org/abs/2610.30728)|null|
+|**2026-10-22**|**Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought**|Zhengye Bao et.al.|[2610.30755](http://arxiv.org/abs/2610.30755)|**[link](https://github.com/PAIR-Systems-Inc/goodmem-memory-benchmarks)**|
+|**2026-10-22**|**Federated Graph Retrieval-Augmented Generation**|Xiaobao Wang et.al.|[2610.30728](http://arxiv.org/abs/2610.30728)|**[link](https://github.com/PRATIKSK7/Knowledge-Sphere)**|
 |**2026-10-22**|**Automated Enrichment Analysis with GraphRAG: Efficient Multi-Database ORA Extraction and Biological Interpretation**|Guangcan Li et.al.|[2610.30710](http://arxiv.org/abs/2610.30710)|null|
 |**2026-10-22**|**ULME: Predictive Coupling for Mutually Reinforcing Embedding and Language Modeling**|Yang Liu et.al.|[2610.30705](http://arxiv.org/abs/2610.30705)|null|
 |**2026-10-22**|**Lychee: Certified Screening of Inverted Lists for High-Recall Vector Search**|Dongfang Zhao et.al.|[2610.30697](http://arxiv.org/abs/2610.30697)|null|
@@ -187,8 +187,8 @@
 |**2026-09-15**|**Query-Aware Source-Risk Triage for Retrieval-Augmented Generation**|Kainan Zhou et.al.|[2609.16564](http://arxiv.org/abs/2609.16564)|null|
 |**2026-09-15**|**AquiLLM: Evaluating Faithfulness in Open-Weight RAG-LLM Systems for Scientific Research**|Bernie Boscoe et.al.|[2609.16519](http://arxiv.org/abs/2609.16519)|null|
 |**2026-09-15**|**Predicting Partial Answer Quality and Utility in Agentic Retrieval-Augmented Generation**|Fangzheng Tian et.al.|[2609.16453](http://arxiv.org/abs/2609.16453)|null|
-|**2026-09-14**|**CLEAR: Cross-Source Evidence Adjudication for Large Language Models in Medicine**|Shuai Wang et.al.|[2609.16301](http://arxiv.org/abs/2609.16301)|null|
-|**2026-09-14**|**LLM Inference in a Flash!**|Sebastian Zhao et.al.|[2609.16161](http://arxiv.org/abs/2609.16161)|null|
+|**2026-09-14**|**CLEAR: Cross-Source Evidence Adjudication for Large Language Models in Medicine**|Shuai Wang et.al.|[2609.16301](http://arxiv.org/abs/2609.16301)|**[link](https://github.com/Yale-BIDS-Chen-Lab/Cross-source_LLM_Evidence_Adjudication_and_Resolution)**|
+|**2026-09-14**|**LLM Inference in a Flash!**|Sebastian Zhao et.al.|[2609.16161](http://arxiv.org/abs/2609.16161)|**[link](https://github.com/xlite-dev/Awesome-LLM-Inference)**|
 |**2026-09-14**|**LLMs as Master Forgers: Generating Synthetic Time Series Data for Manufacturing**|Mantek Singh et.al.|[2609.16155](http://arxiv.org/abs/2609.16155)|null|
 |**2026-09-14**|**RAG-CT: Mitigating Privacy Risks on Retrieval-Augmented Generation Systems via Scanning Prompt Distribution**|Xingyu Lyu et.al.|[2609.16095](http://arxiv.org/abs/2609.16095)|null|
 |**2026-09-14**|**The Router Within: Eliciting Native Skill Routing from a Frozen LLM**|Ruishuo Chen et.al.|[2609.15982](http://arxiv.org/abs/2609.15982)|null|
@@ -450,5 +450,5 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20261025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
 
