@@ -1,4 +1,4 @@
-## Updated on 2026.10.28
+## Updated on 2026.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,36 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**Glance: The Generator Is Its Own Reranker**|Adilet Metinov et.al.|[2610.40454](http://arxiv.org/abs/2610.40454)|null|
+|**2026-10-29**|**Retrieving from Your Own Mistakes: On-Policy Training of Embedding Models for Multi-Hop Retrieval-Augmented Generation**|Chenjie Qiu et.al.|[2610.40409](http://arxiv.org/abs/2610.40409)|**[link](https://github.com/yausankit/on-policy-state-training)**|
+|**2026-10-29**|**Decompose, Estimate, Select: Coverage-Aware Context Construction for Long-Form RAG**|He Tu et.al.|[2610.40314](http://arxiv.org/abs/2610.40314)|null|
+|**2026-10-29**|**xPRT: Cross-Passage Retrieval Pretraining**|Danush Khanna et.al.|[2610.40122](http://arxiv.org/abs/2610.40122)|null|
+|**2026-10-29**|**Incentivizing Self-Learning in Large Language Models via Reinforcement Learning**|Lingkai Kong et.al.|[2610.39671](http://arxiv.org/abs/2610.39671)|null|
+|**2026-10-29**|**Category-Anchored Large Language Models for Next POI Recommendation**|Lexi Bai et.al.|[2610.39518](http://arxiv.org/abs/2610.39518)|null|
+|**2026-10-29**|**A Sequential Decision Framework for Evaluating LLM-Guided Search**|Siqing Huo et.al.|[2610.39231](http://arxiv.org/abs/2610.39231)|null|
+|**2026-10-29**|**Beyond LLM Wrappers: Context Engineering and the Three-Engine Architecture for Reliable Financial AI**|Pradeep Kumar GS et.al.|[2610.39230](http://arxiv.org/abs/2610.39230)|null|
+|**2026-10-28**|**Contextual Embeddings Beyond the Gold Chunk**|Sedigheh Eslami et.al.|[2610.38854](http://arxiv.org/abs/2610.38854)|null|
+|**2026-10-28**|**Quantum-Inspired Pairwise Ranking Aggregation via Active LLM Feedback**|Quan Mai et.al.|[2610.38683](http://arxiv.org/abs/2610.38683)|null|
+|**2026-10-28**|**CALM: Conflict-Aware Lifecycle Memory Governance for Long-Horizon Language Agents**|Chang Li et.al.|[2610.38573](http://arxiv.org/abs/2610.38573)|null|
+|**2026-10-28**|**Towards Reliable, Scalable, and Value-Aligned Generative Recommendation for Large-Scale Advertising**|Yatong Xiao et.al.|[2610.38378](http://arxiv.org/abs/2610.38378)|null|
+|**2026-10-28**|**TCC-RAG: Temporal Causal Chain-Guided RAG for Temporal Knowledge Graph Question Answering**|Xinxun Zhang et.al.|[2610.38366](http://arxiv.org/abs/2610.38366)|null|
+|**2026-10-28**|**Post-Training Large Language Models with LLMON**|Basel Shbita et.al.|[2610.38120](http://arxiv.org/abs/2610.38120)|null|
+|**2026-10-28**|**Predicting What Answer Engines Cite: Open Decision Models, Rerankers and a Distilled 4B Student on Ten Engines under Controlled Retrieval**|Elisha Bajemon et.al.|[2610.38090](http://arxiv.org/abs/2610.38090)|null|
+|**2026-10-27**|**Statistical Detection of Positional Bias in LLM-Based Recommender Systems: Methodologies and Empirical Evidence**|Carlos Peláez-González et.al.|[2610.37962](http://arxiv.org/abs/2610.37962)|null|
+|**2026-10-27**|**DeFT-RAG: Incrementally Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers**|Dingyi Kang et.al.|[2610.37826](http://arxiv.org/abs/2610.37826)|null|
+|**2026-10-27**|**Beyond Similarity Search: Knowledge Graph Metadata Enrichment for Enterprise Retrieval-Augmented Generation**|Fakabbir Amin et.al.|[2610.37728](http://arxiv.org/abs/2610.37728)|null|
+|**2026-10-27**|**When Is Additional Retrieval Worthwhile? A Cost-Aware Study of Evidence Gain and Answer Reliability in RAG**|Zhouting Zhao et.al.|[2610.37358](http://arxiv.org/abs/2610.37358)|null|
+|**2026-10-27**|**UCVE: Graph Structured Retrieval for Compliance Validation**|Emily Chen et.al.|[2610.37323](http://arxiv.org/abs/2610.37323)|null|
+|**2026-10-27**|**Grounding LLM Agents in Business Processes: Process-Aware Knowledge Graphs for Reliable Multi-Step Service Invocation**|Saiful Khan et.al.|[2610.37242](http://arxiv.org/abs/2610.37242)|null|
+|**2026-10-27**|**GraphRAGProv: GraphRAG Meets How-Provenance**|Wadie El Amrani et.al.|[2610.37237](http://arxiv.org/abs/2610.37237)|null|
+|**2026-10-27**|**TaskBridge: Technical Report for SIGIR 2026 eCommerce Challenge**|Zhiheng Fu et.al.|[2610.37231](http://arxiv.org/abs/2610.37231)|null|
+|**2026-10-27**|**Lossless Compression of Proximity Graph Indexes for Efficient Approximate Nearest Neighbors Search**|Francesco Benocci et.al.|[2610.37176](http://arxiv.org/abs/2610.37176)|null|
+|**2026-10-27**|**Coverage Under Contradiction: A Benchmark for Negation-Aware Retrieval**|Pasha Abrishamchian et.al.|[2610.37162](http://arxiv.org/abs/2610.37162)|null|
+|**2026-10-27**|**Tessera: Structure-Completed Evidence Units for Web Retrieval-Augmented Generation**|Peichun Hua et.al.|[2610.37080](http://arxiv.org/abs/2610.37080)|null|
+|**2026-10-28**|**SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation**|Zafer Sahinoglu et.al.|[2610.36991](http://arxiv.org/abs/2610.36991)|null|
+|**2026-10-27**|**Beyond the Evidence Coherence Trap: Agent-Driven Evidence Selection for Temporally Disordered Fake News Detection**|Chi Wang et.al.|[2610.36764](http://arxiv.org/abs/2610.36764)|null|
+|**2026-10-27**|**TACO-Graph: Automated Construction of Text-Atributed Graphs**|Amiri Hayes et.al.|[2610.36650](http://arxiv.org/abs/2610.36650)|null|
+|**2026-10-27**|**Governed Sovereign RAG for Public Administration: Tripartite Epistemic Routing, Facet-Guided Clarification, and Deterministic Numeric Verification in Citizen Services**|Andres Cruz Degante et.al.|[2610.36561](http://arxiv.org/abs/2610.36561)|null|
 |**2026-10-22**|**How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions**|Miguel Mochizuki Silva et.al.|[2610.31606](http://arxiv.org/abs/2610.31606)|null|
 |**2026-10-22**|**From Structured Records to Patient Narratives: Preserving Clinical Alignment in LLM-Generated Health Summaries**|Bayram Ayadi et.al.|[2610.31467](http://arxiv.org/abs/2610.31467)|null|
 |**2026-10-22**|**Chunk Recomputation under Real Document Revisions: Measuring Update Cost and Retrieval Quality of Fixed, Recursive, and Content-Defined Chunking**|Yuning Bian et.al.|[2610.31019](http://arxiv.org/abs/2610.31019)|null|
@@ -450,5 +480,5 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20261028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261031>back to top</a>)</p>
 
