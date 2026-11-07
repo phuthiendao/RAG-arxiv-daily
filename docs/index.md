@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.04
+## Updated on 2026.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**GINGER: Spicing Up Graph-Based Vector Search**|Daniel Salwasser et.al.|[2611.08306](http://arxiv.org/abs/2611.08306)|null|
+|**2026-11-05**|**NutriVisRAG: Multimodal Exemplar Grounding for Nutrient Estimation with Vision-Language Models**|Lubnaa Abdur Rahman et.al.|[2611.08054](http://arxiv.org/abs/2611.08054)|null|
+|**2026-11-05**|**Probabilistic Relevance Decisions for Semantic Retrieval**|Bahadır Tatar et.al.|[2611.08014](http://arxiv.org/abs/2611.08014)|null|
+|**2026-11-05**|**QRAE: Query-Relevant Attention Entropy for Context Compression in DeepSearch Agents**|Yingjie Tan et.al.|[2611.07976](http://arxiv.org/abs/2611.07976)|null|
+|**2026-11-05**|**ArcadeDB in Python: An In-Process Multi-Model Database**|Taewoon Kim et.al.|[2611.07971](http://arxiv.org/abs/2611.07971)|null|
+|**2026-11-05**|**ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation**|Petru Neague et.al.|[2611.07928](http://arxiv.org/abs/2611.07928)|null|
+|**2026-11-05**|**CORE: Coarse-to-Fine Search with Context Management for Deep Research**|Hoang Tran Vuong et.al.|[2611.07859](http://arxiv.org/abs/2611.07859)|null|
+|**2026-11-05**|**RIVER: Evidence-guided multi-agent retrieval for enzyme--reaction discovery**|Yifan Chang et.al.|[2611.07757](http://arxiv.org/abs/2611.07757)|null|
+|**2026-11-05**|**MEMOIR: A Training-Free Memory Lifecycle for Long-Horizon LLM Agents**|Mayank Anand et.al.|[2611.07631](http://arxiv.org/abs/2611.07631)|null|
+|**2026-11-05**|**CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment**|Vihan Lakshman et.al.|[2611.07393](http://arxiv.org/abs/2611.07393)|null|
+|**2026-11-04**|**TileQuant: Tile as the Precision-Allocation Unit for LLM Mixed-Precision Post-Training Quantization**|Hanzhi Zhang et.al.|[2611.07217](http://arxiv.org/abs/2611.07217)|null|
+|**2026-11-03**|**Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning**|Tianming Sha et.al.|[2611.06956](http://arxiv.org/abs/2611.06956)|null|
+|**2026-11-04**|**Reasoning over Non-Parametric Memory in Multilingual LLMs: A Cognitive-Based Analysis of Relational Knowledge**|Zohreh Abbasi Liasi et.al.|[2611.06715](http://arxiv.org/abs/2611.06715)|null|
+|**2026-11-04**|**Tools Need Not Speak in Text: Latent Context Compression for Agents**|Yuetong Liu et.al.|[2611.06500](http://arxiv.org/abs/2611.06500)|null|
+|**2026-11-04**|**Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation**|Georgios Feretzakis et.al.|[2611.06498](http://arxiv.org/abs/2611.06498)|null|
+|**2026-11-04**|**ArcRAG: Agentic Compositional Retrieval over Knowledge Graphs**|Jyotin Goel et.al.|[2611.06481](http://arxiv.org/abs/2611.06481)|null|
+|**2026-11-04**|**SUMONE: A Simple and Efficient Summarizer for Plug-and-Play Agent Memory**|Jizhe Zhang et.al.|[2611.06445](http://arxiv.org/abs/2611.06445)|null|
+|**2026-11-04**|**Does Context Compression Preserve Refusal Alignment?**|Anthony Nguyen et.al.|[2611.06380](http://arxiv.org/abs/2611.06380)|null|
+|**2026-11-04**|**AssameseLM-E2B: An Open-Weight Assamese Language Model for Efficient Consumer-Grade Deployment**|Pragyan Phukan et.al.|[2611.06170](http://arxiv.org/abs/2611.06170)|null|
+|**2026-11-04**|**Weaver: Weaving Preference Evidence through Incremental Reasoning for Personalized Retrieval-Augmented Generation**|Linyao Zheng et.al.|[2611.05900](http://arxiv.org/abs/2611.05900)|null|
+|**2026-11-03**|**RAGCompass: Generalizable Retriever Routing via Reranking**|Valentin Six et.al.|[2611.05596](http://arxiv.org/abs/2611.05596)|null|
+|**2026-11-05**|**LIBRA: Programmatic Induction of Executable Tool Libraries**|Zekai Li et.al.|[2611.05445](http://arxiv.org/abs/2611.05445)|null|
+|**2026-11-03**|**HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation**|Zhen Tao et.al.|[2611.05319](http://arxiv.org/abs/2611.05319)|null|
+|**2026-11-03**|**LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers**|Minsoo Cheong et.al.|[2611.05304](http://arxiv.org/abs/2611.05304)|null|
+|**2026-11-03**|**NovoCRF: Globally Normalized De Novo Peptide Sequencing on a Prefix-Mass Lattice**|Rui Qiao et.al.|[2611.05260](http://arxiv.org/abs/2611.05260)|null|
+|**2026-11-04**|**Factorized MLLM Embeddings for Composed Image Retrieval**|WonJun Moon et.al.|[2611.05193](http://arxiv.org/abs/2611.05193)|null|
+|**2026-11-03**|**Scaling Laws For Data-Constrained Dense Retrieval**|Bowen Fu et.al.|[2611.04979](http://arxiv.org/abs/2611.04979)|null|
+|**2026-11-03**|**HERIT: Enabling Global Access to Hanja-to-English Historical Translation by Mitigating Temporal Bias**|Dayeon Jeong et.al.|[2611.04949](http://arxiv.org/abs/2611.04949)|null|
+|**2026-11-03**|**Learning to Rank Explanations for Recommendation with Language Models**|Ben Kabongo et.al.|[2611.04775](http://arxiv.org/abs/2611.04775)|null|
+|**2026-11-03**|**OneTrans-GSR: A Generative Slate Ranking Paradigm Unifying Reranking and Mix-Ranking with One Autoregressive Transformer**|Feng Cheng et.al.|[2611.04720](http://arxiv.org/abs/2611.04720)|null|
 |**2026-10-29**|**Glance: The Generator Is Its Own Reranker**|Adilet Metinov et.al.|[2610.40454](http://arxiv.org/abs/2610.40454)|null|
 |**2026-10-29**|**Retrieving from Your Own Mistakes: On-Policy Training of Embedding Models for Multi-Hop Retrieval-Augmented Generation**|Chenjie Qiu et.al.|[2610.40409](http://arxiv.org/abs/2610.40409)|**[link](https://github.com/yausankit/on-policy-state-training)**|
 |**2026-10-29**|**Decompose, Estimate, Select: Coverage-Aware Context Construction for Long-Form RAG**|He Tu et.al.|[2610.40314](http://arxiv.org/abs/2610.40314)|null|
