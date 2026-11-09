@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.07
+## Updated on 2026.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -34,9 +34,9 @@ layout: default
 |**2026-11-03**|**RAGCompass: Generalizable Retriever Routing via Reranking**|Valentin Six et.al.|[2611.05596](http://arxiv.org/abs/2611.05596)|null|
 |**2026-11-05**|**LIBRA: Programmatic Induction of Executable Tool Libraries**|Zekai Li et.al.|[2611.05445](http://arxiv.org/abs/2611.05445)|null|
 |**2026-11-03**|**HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation**|Zhen Tao et.al.|[2611.05319](http://arxiv.org/abs/2611.05319)|null|
-|**2026-11-03**|**LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers**|Minsoo Cheong et.al.|[2611.05304](http://arxiv.org/abs/2611.05304)|null|
+|**2026-11-03**|**LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers**|Minsoo Cheong et.al.|[2611.05304](http://arxiv.org/abs/2611.05304)|**[link](https://github.com/mscheong01/LoopVQ)**|
 |**2026-11-03**|**NovoCRF: Globally Normalized De Novo Peptide Sequencing on a Prefix-Mass Lattice**|Rui Qiao et.al.|[2611.05260](http://arxiv.org/abs/2611.05260)|null|
-|**2026-11-04**|**Factorized MLLM Embeddings for Composed Image Retrieval**|WonJun Moon et.al.|[2611.05193](http://arxiv.org/abs/2611.05193)|null|
+|**2026-11-04**|**Factorized MLLM Embeddings for Composed Image Retrieval**|WonJun Moon et.al.|[2611.05193](http://arxiv.org/abs/2611.05193)|**[link](https://github.com/cvlab-kaist/FactEmbed)**|
 |**2026-11-03**|**Scaling Laws For Data-Constrained Dense Retrieval**|Bowen Fu et.al.|[2611.04979](http://arxiv.org/abs/2611.04979)|null|
 |**2026-11-03**|**HERIT: Enabling Global Access to Hanja-to-English Historical Translation by Mitigating Temporal Bias**|Dayeon Jeong et.al.|[2611.04949](http://arxiv.org/abs/2611.04949)|null|
 |**2026-11-03**|**Learning to Rank Explanations for Recommendation with Language Models**|Ben Kabongo et.al.|[2611.04775](http://arxiv.org/abs/2611.04775)|null|
@@ -325,7 +325,7 @@ layout: default
 |**2026-08-24**|**The Emergence of Relevance Through Axiomatic Attention Patterns During LoRA Fine-Tuning**|Matthew Perlman et.al.|[2608.23338](http://arxiv.org/abs/2608.23338)|null|
 |**2026-08-24**|**The Laws of Context Allocation: Causal Measurement and Closed-Loop Orchestration in Generative Search**|Peiyang Liu et.al.|[2608.23252](http://arxiv.org/abs/2608.23252)|null|
 |**2026-08-24**|**Retrieval-Augmented Classification of Environmental Mitigations in Hydropower Licensing Documents**|Hong-Jun Yoon et.al.|[2608.23241](http://arxiv.org/abs/2608.23241)|null|
-|**2026-08-24**|**Which Histories Matter for Time Series Forecasting? Learning Predictive Relevance with Future Supervision**|Yong-Hoon Choi et.al.|[2608.23221](http://arxiv.org/abs/2608.23221)|null|
+|**2026-08-24**|**Which Histories Matter for Time Series Forecasting? Learning Predictive Relevance with Future Supervision**|Yong-Hoon Choi et.al.|[2608.23221](http://arxiv.org/abs/2608.23221)|**[link](https://github.com/dearyonghoon/which-histories-matter)**|
 |**2026-08-24**|**Evaluating Modern RAG: Textual, Multimodal, Dense, and Late Interaction Pipelines**|Emre Kuru et.al.|[2608.23176](http://arxiv.org/abs/2608.23176)|null|
 |**2026-08-24**|**Coarse Indexing, Fine Evidence: Decoupling Temporal Granularity in Long-Video RAG**|Zhe Jin et.al.|[2608.23011](http://arxiv.org/abs/2608.23011)|null|
 |**2026-08-24**|**TSWAP: A Multilingual Retrieval-Augmented Thai Wellness Advisor**|Pornthep Ukosaramig et.al.|[2608.22917](http://arxiv.org/abs/2608.22917)|null|
