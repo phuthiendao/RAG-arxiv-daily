@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.10
+## Updated on 2026.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-11**|**DISCERN: Preserve at Write, Resolve at Read for Persistent LLM-Agent Memory**|Chirag Ahuja et.al.|[2611.15729](http://arxiv.org/abs/2611.15729)|null|
+|**2026-11-11**|**Faithful in Steps: Improving Generalization and Citation in RAG via Query Decomposition**|Yue Liu et.al.|[2611.15538](http://arxiv.org/abs/2611.15538)|null|
+|**2026-11-11**|**AutoOntic: Automatic Ontology Induction from Text for Knowledge Graph Construction**|Alla Chepurova et.al.|[2611.15467](http://arxiv.org/abs/2611.15467)|null|
+|**2026-11-11**|**When Direction Matters: Diagnosing Relational Instruction Following in Dense Retrieval**|Zhanyu Wu et.al.|[2611.15417](http://arxiv.org/abs/2611.15417)|null|
+|**2026-11-11**|**Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs**|Zahraa Selim et.al.|[2611.14924](http://arxiv.org/abs/2611.14924)|null|
+|**2026-11-10**|**Chain of Physics: Supporting Fault Diagnosis with Engineering-Inspired Large Language Model Reasoning**|Wenqi Zhou et.al.|[2611.14263](http://arxiv.org/abs/2611.14263)|null|
+|**2026-11-10**|**Ontology-Guided Knowledge Graph Construction and Robust Evidence Retrieval for Indian Knowledge Systems**|Anand Kaniyaar Sriranga Prasad et.al.|[2611.14050](http://arxiv.org/abs/2611.14050)|null|
+|**2026-11-10**|**Controlled Knowledge Engineering for Taxonomy Induction with Tool-Grounded LLM Agents and Runtime-Adaptive Policies**|Jonas Limniatis et.al.|[2611.13966](http://arxiv.org/abs/2611.13966)|null|
+|**2026-11-11**|**OpticalRAG: Pixel-Space Compression for Token-Efficient Retrieval-Augmented Generation**|Senhao Liu et.al.|[2611.13675](http://arxiv.org/abs/2611.13675)|null|
+|**2026-11-09**|**Activation-Guided Graph Retrieval for Cognitive Memory Reconstruction in Language Model Systems**|Marvin Danig et.al.|[2611.13127](http://arxiv.org/abs/2611.13127)|null|
+|**2026-11-09**|**NIFT-SQL: Customer-Supervised Table Scoring for Enterprise Text-to-SQL Retrieval**|Arjun Rao et.al.|[2611.12731](http://arxiv.org/abs/2611.12731)|null|
+|**2026-11-09**|**Scaling Taxonomy-Free Image Labeling with Generative AI: A Multimodal**|Zhenjie Zhang et.al.|[2611.12725](http://arxiv.org/abs/2611.12725)|null|
+|**2026-11-09**|**Operation-aware Multimodal Clinical Decision Support System for ICU Discharge Risk Assessment**|Guoqing Zhang et.al.|[2611.11960](http://arxiv.org/abs/2611.11960)|null|
+|**2026-11-09**|**BharatSynthQA: A Context-Grounded Question Answering Dataset on Indian Temples and Religious Heritage**|Riya Naik et.al.|[2611.11952](http://arxiv.org/abs/2611.11952)|null|
+|**2026-11-09**|**ARMOR: Adaptive Curriculum Meta-Learning for Noise-Robust RAG Reasoning**|Yan Wang et.al.|[2611.11771](http://arxiv.org/abs/2611.11771)|null|
+|**2026-11-08**|**Beyond Ranking: Are Decision Models Calibrated Relevance Scorers?**|Shengyao Zhuang et.al.|[2611.11480](http://arxiv.org/abs/2611.11480)|null|
+|**2026-11-08**|**Search-by-Answer Bias in Retrieval Models**|Adiel Avigad et.al.|[2611.11396](http://arxiv.org/abs/2611.11396)|null|
+|**2026-11-08**|**AOP-Smart-Finder: A High-Throughput Human-AI Hybrid Framework for AOP Discovery and Evidence Mapping from Large-Scale Literature**|Qinjiang Niu et.al.|[2611.11349](http://arxiv.org/abs/2611.11349)|null|
+|**2026-11-08**|**How Efficient Is Your Agent? Online Predictive Bounds under Budget Constraints**|Roy Maor Lotan et.al.|[2611.11279](http://arxiv.org/abs/2611.11279)|null|
+|**2026-11-08**|**Dhara: Evidence-Oriented Retrieval for Indian Knowledge Systems**|Avinash Holenarasipur Nagendra et.al.|[2611.11197](http://arxiv.org/abs/2611.11197)|null|
+|**2026-11-08**|**PCG-RAG: Progressive Compositional Grounding for Retrieval-Augmented Generation in Complex Web Question Answering**|Linyao Zheng et.al.|[2611.11113](http://arxiv.org/abs/2611.11113)|null|
+|**2026-11-08**|**GARP: Real-Time Generative Agents on Local Hardware in a Game Engine**|Piero Molino et.al.|[2611.11064](http://arxiv.org/abs/2611.11064)|null|
+|**2026-11-08**|**Hybrid Product Search Without the Copy: Lexical, Semantic and Filtered Retrieval Served Directly from a Data Lake**|Raghvendra Yadav et.al.|[2611.11031](http://arxiv.org/abs/2611.11031)|null|
+|**2026-11-07**|**Lightfoot: Graph Retrieval-Augmented Generation with Exact, Model-Free Document Deletion**|Uday Allu et.al.|[2611.11010](http://arxiv.org/abs/2611.11010)|null|
+|**2026-11-07**|**SCorPion: A Strategic, Controllable and Personified Conversational Companion**|Luo Ji et.al.|[2611.10906](http://arxiv.org/abs/2611.10906)|null|
+|**2026-11-07**|**Zero-Shot VLA Adaptation with Retrieved Guidance**|Subin Kim et.al.|[2611.10894](http://arxiv.org/abs/2611.10894)|null|
+|**2026-11-07**|**MMGraph-Agent: Agentic Multimodal RAG via Cache-Inspired Multimodal Knowledge HyperGraphs**|Haoran Luo et.al.|[2611.10657](http://arxiv.org/abs/2611.10657)|null|
+|**2026-11-07**|**PatternBloom: Empowering Agentic RAG with Externalized RL-Distilled Graph Patterns**|Yi Ge et.al.|[2611.10477](http://arxiv.org/abs/2611.10477)|null|
+|**2026-11-07**|**Yuanbao-Reranker: Document-Grounded Synthesis and Preference Distillation for Text Reranking**|Hongyuan Xu et.al.|[2611.10405](http://arxiv.org/abs/2611.10405)|null|
+|**2026-11-07**|**Two-Sided Conformal Evidence Sets for Retrieval-Augmented Generation**|Ben Jenkins et.al.|[2611.10335](http://arxiv.org/abs/2611.10335)|null|
 |**2026-11-05**|**GINGER: Spicing Up Graph-Based Vector Search**|Daniel Salwasser et.al.|[2611.08306](http://arxiv.org/abs/2611.08306)|null|
 |**2026-11-05**|**NutriVisRAG: Multimodal Exemplar Grounding for Nutrient Estimation with Vision-Language Models**|Lubnaa Abdur Rahman et.al.|[2611.08054](http://arxiv.org/abs/2611.08054)|null|
 |**2026-11-05**|**Probabilistic Relevance Decisions for Semantic Retrieval**|Bahadır Tatar et.al.|[2611.08014](http://arxiv.org/abs/2611.08014)|null|
