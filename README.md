@@ -79,7 +79,7 @@
 |**2026-10-29**|**Decompose, Estimate, Select: Coverage-Aware Context Construction for Long-Form RAG**|He Tu et.al.|[2610.40314](http://arxiv.org/abs/2610.40314)|null|
 |**2026-10-29**|**xPRT: Cross-Passage Retrieval Pretraining**|Danush Khanna et.al.|[2610.40122](http://arxiv.org/abs/2610.40122)|null|
 |**2026-10-29**|**Incentivizing Self-Learning in Large Language Models via Reinforcement Learning**|Lingkai Kong et.al.|[2610.39671](http://arxiv.org/abs/2610.39671)|null|
-|**2026-10-29**|**Category-Anchored Large Language Models for Next POI Recommendation**|Lexi Bai et.al.|[2610.39518](http://arxiv.org/abs/2610.39518)|null|
+|**2026-10-29**|**Category-Anchored Large Language Models for Next POI Recommendation**|Lexi Bai et.al.|[2610.39518](http://arxiv.org/abs/2610.39518)|**[link](https://github.com/iLearn-Lab/ICDE2027-ANCHOR)**|
 |**2026-10-29**|**A Sequential Decision Framework for Evaluating LLM-Guided Search**|Siqing Huo et.al.|[2610.39231](http://arxiv.org/abs/2610.39231)|null|
 |**2026-10-29**|**Beyond LLM Wrappers: Context Engineering and the Three-Engine Architecture for Reliable Financial AI**|Pradeep Kumar GS et.al.|[2610.39230](http://arxiv.org/abs/2610.39230)|null|
 |**2026-10-28**|**Contextual Embeddings Beyond the Gold Chunk**|Sedigheh Eslami et.al.|[2610.38854](http://arxiv.org/abs/2610.38854)|null|
@@ -198,9 +198,9 @@
 |**2026-09-29**|**Re-ranking and Late Interaction Drive Retrieval Quality: A Controlled Comparison of RAG Strategies for Scientific Question Answering**|Bhagyesh Rathi et.al.|[2609.38473](http://arxiv.org/abs/2609.38473)|null|
 |**2026-09-29**|**Effective Dense Retrieval using Only In-Context Examples**|Nour Jedidi et.al.|[2609.38099](http://arxiv.org/abs/2609.38099)|null|
 |**2026-09-29**|**Auditable Long-Term Memory: A Deterministic Retrieval Chain Measured at 479/475 of 500 on LongMemEval-S**|Christopher J. Chanhnourack et.al.|[2609.38021](http://arxiv.org/abs/2609.38021)|null|
-|**2026-09-29**|**BITEM at the NTCIR-19 R2C2 Task: Predicting Confidence from Agentic RAG Pipeline Signals**|Julien Knafou et.al.|[2609.37993](http://arxiv.org/abs/2609.37993)|null|
-|**2026-09-29**|**Can a Cacheable Decision Model Follow Rules?**|Dushyant Rajput et.al.|[2609.37832](http://arxiv.org/abs/2609.37832)|null|
-|**2026-09-29**|**Towards Semi-Automatically Comparing Keyword-Based and Semantic Search Accuracy**|Mohamed Ben Salha et.al.|[2609.37749](http://arxiv.org/abs/2609.37749)|null|
+|**2026-09-29**|**BITEM at the NTCIR-19 R2C2 Task: Predicting Confidence from Agentic RAG Pipeline Signals**|Julien Knafou et.al.|[2609.37993](http://arxiv.org/abs/2609.37993)|**[link](https://github.com/jknafou/ntcir19-r2c2-bitem)**|
+|**2026-09-29**|**Can a Cacheable Decision Model Follow Rules?**|Dushyant Rajput et.al.|[2609.37832](http://arxiv.org/abs/2609.37832)|**[link](https://github.com/jettbrains/-L-)**|
+|**2026-09-29**|**Towards Semi-Automatically Comparing Keyword-Based and Semantic Search Accuracy**|Mohamed Ben Salha et.al.|[2609.37749](http://arxiv.org/abs/2609.37749)|**[link](https://github.com/MohamedBenSalha/Towards-Semi-Automatically-Comparing-Keyword-Based-and-Semantic-Search-Accuracy)**|
 |**2026-09-29**|**KUPAS MASTER: Distilling the Tacit Expertise of Master Practitioners into Agent-Ready Experience Corpora**|Changmian Wang et.al.|[2609.37673](http://arxiv.org/abs/2609.37673)|null|
 |**2026-09-29**|**Retrieve, Reproduce, Reveal: Dissecting Retrieval-Augmented Software Vulnerability Detection**|Sabrina Kaniewski et.al.|[2609.37669](http://arxiv.org/abs/2609.37669)|**[link](https://github.com/hs-esslingen-it-security/RAG4SVD)**|
 |**2026-09-29**|**Corpus-Guided Dual-Path Propagation for Graph Retrieval-Augmented Generation**|Baoxian Liu et.al.|[2609.37661](http://arxiv.org/abs/2609.37661)|null|
@@ -382,7 +382,7 @@
 |**2026-08-20**|**What Makes a Good Fiqh Retriever? Answer Retrieval for Arabic Islamic Jurisprudence**|Somaya Eltanbouly et.al.|[2608.20246](http://arxiv.org/abs/2608.20246)|null|
 |**2026-08-20**|**SCoRD: Semantic-Assisted Continual Retriever-Reranker Distillation for LLM-Based Recommendation**|Seunghyun Baek et.al.|[2608.19998](http://arxiv.org/abs/2608.19998)|null|
 |**2026-08-20**|**Towards Clinically Faithful Medical Image Captioning via Enhanced Vision-Language Alignment**|Yunseo Lee et.al.|[2608.19825](http://arxiv.org/abs/2608.19825)|null|
-|**2026-08-20**|**Training-Free LLM-Based Recommendation with Post-LLM Item Refinement Using Collaborative Signals**|Kyungho Kim et.al.|[2608.19665](http://arxiv.org/abs/2608.19665)|null|
+|**2026-08-20**|**Training-Free LLM-Based Recommendation with Post-LLM Item Refinement Using Collaborative Signals**|Kyungho Kim et.al.|[2608.19665](http://arxiv.org/abs/2608.19665)|**[link](https://github.com/K-Kyungho/CoRRe)**|
 |**2026-08-20**|**SSR-GRPO: Integrating Supervision and Semantic IDs into Reinforcement Learning for Dense Retrieval in E-commerce**|Guangxin Song et.al.|[2608.19595](http://arxiv.org/abs/2608.19595)|null|
 |**2026-08-20**|**From Retrieved Context to Runtime Control: Adaptive Compression for Edge-based RAG**|Zlatan Feric et.al.|[2608.19535](http://arxiv.org/abs/2608.19535)|null|
 |**2026-08-20**|**Automated Summarization of Financial News Using Large Language Models and Retrieval-Augmented Generation: An Early Empirical Study (Fall 2023)**|Pranav Chandaliya et.al.|[2608.19526](http://arxiv.org/abs/2608.19526)|null|
@@ -400,7 +400,7 @@
 |**2026-08-18**|**GADR: Gathering Architecture Decision Records from Meeting Transcriptions**|Lucas Daniel Costa da Silva et.al.|[2608.17694](http://arxiv.org/abs/2608.17694)|null|
 |**2026-08-18**|**CoAL-RAG: A Complexity-Aware Legal Retrieval-Augmented Generation Method**|Jin Su et.al.|[2608.17536](http://arxiv.org/abs/2608.17536)|null|
 |**2026-08-17**|**Towards Safer RAG: Only Agents Capable of System 2 Thinking may Access Untrusted Documents**|Mehrdad Ghassabi et.al.|[2608.17153](http://arxiv.org/abs/2608.17153)|null|
-|**2026-08-17**|**The 10th AI City Challenge**|Zheng Tang et.al.|[2608.17044](http://arxiv.org/abs/2608.17044)|null|
+|**2026-08-17**|**The 10th AI City Challenge**|Zheng Tang et.al.|[2608.17044](http://arxiv.org/abs/2608.17044)|**[link](https://github.com/SKKUAutoLab/aic26_cross_city)**|
 |**2026-08-17**|**Proteus: Incremental Memory Activation for Long-Context Sequence Modeling**|Reza Bayat et.al.|[2608.16844](http://arxiv.org/abs/2608.16844)|null|
 |**2026-08-17**|**GRIP: Grounded Reasoning via Information-Restricted Premises**|Lirui Teng et.al.|[2608.16776](http://arxiv.org/abs/2608.16776)|null|
 |**2026-08-17**|**Hypergraph-based Multimodal Retrieval-Augmented Generation with Incremental Refinement**|Shenao Chen et.al.|[2608.16628](http://arxiv.org/abs/2608.16628)|null|

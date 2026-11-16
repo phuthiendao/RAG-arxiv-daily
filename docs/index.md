@@ -324,7 +324,7 @@ layout: default
 |**2026-08-27**|**Knowing Before Answering: Decoding Language Models for Reliable RAG**|Syed Mahbubul Huq et.al.|[2608.27661](http://arxiv.org/abs/2608.27661)|null|
 |**2026-08-27**|**How AI Experiences Art: Emergent Aesthetic Structure in a Self-Supervised Multimodal Embedding Space**|Corey D. C. Heath et.al.|[2608.27121](http://arxiv.org/abs/2608.27121)|null|
 |**2026-08-27**|**pro-team at LLMs4OL 2026 Tasks Flagship and Reuse: Retrieval-Augmented Generation and Vocabulary-Constrained Filtering for Ontology Learning**|Shivam Mishra et.al.|[2608.27101](http://arxiv.org/abs/2608.27101)|null|
-|**2026-08-28**|**ProRetrieval: Learning to Orchestrate Hybrid Search via Executable Program Synthesis**|Chengsong You et.al.|[2608.27017](http://arxiv.org/abs/2608.27017)|null|
+|**2026-08-28**|**ProRetrieval: Learning to Orchestrate Hybrid Search via Executable Program Synthesis**|Chengsong You et.al.|[2608.27017](http://arxiv.org/abs/2608.27017)|**[link](https://github.com/youchengsong/proretrieval)**|
 |**2026-08-27**|**Conversational Recommendation over Live E-Commerce Catalogues with Self-Refreshing Retrieval**|Ante Kapetanovic et.al.|[2608.27006](http://arxiv.org/abs/2608.27006)|null|
 |**2026-08-27**|**A Table Is Worth 64 Tokens: Pixel-level Compression for Multi-Table Document Question Answering**|Iñigo Alonso et.al.|[2608.26949](http://arxiv.org/abs/2608.26949)|null|
 |**2026-08-27**|**SymbolLKG: Towards Verifiable Logical Reasoning via Logical Knowledge Graph and Symbolic Solvers**|Haizhao Fan et.al.|[2608.26836](http://arxiv.org/abs/2608.26836)|null|
@@ -509,7 +509,7 @@ layout: default
 |**2026-07-27**|**A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility**|Rajat Sainju et.al.|[2607.24663](http://arxiv.org/abs/2607.24663)|null|
 |**2026-07-27**|**DeCoRAG: Cognitive Decoupling and Semantic-Aware Cropping for Complex Document Understanding**|Shuo Wang et.al.|[2607.24554](http://arxiv.org/abs/2607.24554)|null|
 |**2026-07-27**|**Robust Interpretation of Historical Documents in Knowledge Graphs Through Query Inference and Execution**|Sebastià Nicolau et.al.|[2607.24475](http://arxiv.org/abs/2607.24475)|null|
-|**2026-07-27**|**Evaluating RAG for French immigration law: a benchmark and baseline study**|Annia Abtout et.al.|[2607.24449](http://arxiv.org/abs/2607.24449)|null|
+|**2026-07-27**|**Evaluating RAG for French immigration law: a benchmark and baseline study**|Annia Abtout et.al.|[2607.24449](http://arxiv.org/abs/2607.24449)|**[link](https://github.com/jdelaunay/foreign_workers_recruitment_dataset)**|
 |**2026-07-27**|**Retrieval-Augmented Large Language Models as Components of Cognitive Computing architecture for Regulatory Knowledge Management**|Dariusz Nowak-Nova et.al.|[2607.24352](http://arxiv.org/abs/2607.24352)|null|
 |**2026-07-27**|**Cross-Attention Calibrated Deduplication for Retrieval-Augmented Generation System**|Phuong Le Huy et.al.|[2607.24332](http://arxiv.org/abs/2607.24332)|null|
 |**2026-07-27**|**Energy Constrained Hierarchical Underwater Monitoring via Local Multi-Agent RAG**|Mohamed Amine Janati et.al.|[2607.24313](http://arxiv.org/abs/2607.24313)|null|
