@@ -1,4 +1,4 @@
-## Updated on 2026.11.19
+## Updated on 2026.11.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,36 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-19**|**Hybrid Retrieval for Government Scheme Search in English and Marathi**|Aishwarya Gunjal et.al.|[2611.26514](http://arxiv.org/abs/2611.26514)|null|
+|**2026-11-19**|**Democratizing Cross-Project Knowledge for Transforming Water Governance and Climate Resilience: an Agentic AI Ecosystem**|Oriol Alàs et.al.|[2611.26398](http://arxiv.org/abs/2611.26398)|null|
+|**2026-11-19**|**AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development**|Hang Zhang et.al.|[2611.25582](http://arxiv.org/abs/2611.25582)|null|
+|**2026-11-18**|**Retrieving Patristic References and Modelling Topics in Bullinger's Reformation Correspondence**|Lena Pickartz et.al.|[2611.25247](http://arxiv.org/abs/2611.25247)|null|
+|**2026-11-18**|**A Neurosymbolic Multimodal Framework for 30-Day Diabetic Readmission Prediction: Integrating Structured EHR Data, Dense Clinical Embeddings, and Knowledge-Grounded Symbolic Extraction**|Una Suman Kumar Patro et.al.|[2611.25236](http://arxiv.org/abs/2611.25236)|null|
+|**2026-11-18**|**LSP-RAG: Latent Scoring Perspectives for Knowledge Graph Retrieval-Augmented Generation**|Haochen Liu et.al.|[2611.25229](http://arxiv.org/abs/2611.25229)|null|
+|**2026-11-18**|**Rate-distortion Assessment for Hierarchical Content Summarization**|Yunye Gong et.al.|[2611.25151](http://arxiv.org/abs/2611.25151)|null|
+|**2026-11-18**|**CAIMS: Scalable Cross-Array In-Memory Search**|Yi-Chun Liao et.al.|[2611.25141](http://arxiv.org/abs/2611.25141)|null|
+|**2026-11-18**|**Objective-Specialized Residual Streams in Manifold-Constrained Hyper-Connections**|Shantanu Agarwal et.al.|[2611.24567](http://arxiv.org/abs/2611.24567)|null|
+|**2026-11-18**|**KnowledgeClaw: Towards Agentic Knowledge Engineering via Omnimodal Hypergraphs**|Haoran Luo et.al.|[2611.24294](http://arxiv.org/abs/2611.24294)|null|
+|**2026-11-18**|**A Hybrid RAG Framework for Deceptive Review Detection: Integrating RoBERTa-LoRA, FAISS-Based Retrieval, and LLM Reasoning**|Andrei Kostin et.al.|[2611.24049](http://arxiv.org/abs/2611.24049)|null|
+|**2026-11-18**|**A Capability Framework for Evaluating Agentic AI Platforms in Regulated Enterprises**|Abbas Raza Ali et.al.|[2611.24039](http://arxiv.org/abs/2611.24039)|null|
+|**2026-11-18**|**MARS Technical Report**|Tong Liu et.al.|[2611.24006](http://arxiv.org/abs/2611.24006)|null|
+|**2026-11-17**|**StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics**|Xingyang Yu et.al.|[2611.23225](http://arxiv.org/abs/2611.23225)|null|
+|**2026-11-17**|**CARE: Conversational Affective Response Retrieval for Internet Memes**|Jiajun Li et.al.|[2611.23005](http://arxiv.org/abs/2611.23005)|null|
+|**2026-11-17**|**RagHarnessDebugger: Jev-Guided Agentic RAG in Contract Inference Repair Auditing**|Moriya Dechtiar et.al.|[2611.22991](http://arxiv.org/abs/2611.22991)|null|
+|**2026-11-17**|**StitchRAG: Constructing Compact and Evidence-Preserving Contexts for RAG with Diffusion-Based Stitching**|Minsang Kim et.al.|[2611.22766](http://arxiv.org/abs/2611.22766)|null|
+|**2026-11-17**|**Lost in the Funnel: Selection-Induced Miscalibration in Ranking and Decision Systems**|Aditya Somani et.al.|[2611.22595](http://arxiv.org/abs/2611.22595)|null|
+|**2026-11-17**|**MIPR: A Benchmark for Reasoning-Intensive Multimodal Intent-to-Product Retrieval with Multi-Category Solutions**|Qiang Li et.al.|[2611.22509](http://arxiv.org/abs/2611.22509)|null|
+|**2026-11-17**|**LMMR: Learned Multigranular Memory Retrieval for Small Language Model Agents**|Pengfeng Song et.al.|[2611.22425](http://arxiv.org/abs/2611.22425)|null|
+|**2026-11-17**|**Deal With It: On Better Schedules for Listwise Reranking**|Benjamin Clavié et.al.|[2611.22392](http://arxiv.org/abs/2611.22392)|null|
+|**2026-11-17**|**NONSENSE: Non-Semantic Strings Expose Semanticity Gaps in Dense Retrieval**|Ankit Gupta et.al.|[2611.22353](http://arxiv.org/abs/2611.22353)|null|
+|**2026-11-17**|**RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn't**|Jingyu Liu et.al.|[2611.22179](http://arxiv.org/abs/2611.22179)|null|
+|**2026-11-17**|**SIMQ: A Single Graph-based Index for Multi-Vector Query**|Yifan Lu et.al.|[2611.22079](http://arxiv.org/abs/2611.22079)|null|
+|**2026-11-16**|**Lost in a Few Heads: Diagnosing and Repairing Block Selection in Sparse Attention**|Wenhe Zhang et.al.|[2611.21917](http://arxiv.org/abs/2611.21917)|null|
+|**2026-11-16**|**Call-Efficient ICD-10 Code Prediction via Supervised Candidate Generation and Selective LLM Invocation**|Ilia Kopanichuk et.al.|[2611.21891](http://arxiv.org/abs/2611.21891)|null|
+|**2026-11-16**|**TUSI: A Citation-Grounded Graph-Based Benchmark**|Marzieh Karimi et.al.|[2611.21823](http://arxiv.org/abs/2611.21823)|null|
+|**2026-11-16**|**Out of Sight, Into Memory: Compact Visual Latents Retain Local Evidence in Ultra-High-Resolution Remote Sensing**|Meng Tang et.al.|[2611.21457](http://arxiv.org/abs/2611.21457)|null|
+|**2026-11-16**|**Adaptive-Elbow Graph Traversal for Schema Retrieval in Text-to-SQL**|Fabio Picariello et.al.|[2611.20979](http://arxiv.org/abs/2611.20979)|null|
+|**2026-11-16**|**UniGraph: A Unified Graph-based Index for Dynamic Hybrid Dense-Sparse Vector Retrieval**|Keyu Chen et.al.|[2611.20758](http://arxiv.org/abs/2611.20758)|null|
 |**2026-11-11**|**DISCERN: Preserve at Write, Resolve at Read for Persistent LLM-Agent Memory**|Chirag Ahuja et.al.|[2611.15729](http://arxiv.org/abs/2611.15729)|null|
 |**2026-11-11**|**Faithful in Steps: Improving Generalization and Citation in RAG via Query Decomposition**|Yue Liu et.al.|[2611.15538](http://arxiv.org/abs/2611.15538)|null|
 |**2026-11-11**|**AutoOntic: Automatic Ontology Induction from Text for Knowledge Graph Construction**|Alla Chepurova et.al.|[2611.15467](http://arxiv.org/abs/2611.15467)|null|
@@ -540,5 +570,5 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
 
