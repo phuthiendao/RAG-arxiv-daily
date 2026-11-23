@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.22
+## Updated on 2026.11.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -135,9 +135,9 @@ layout: default
 |**2026-10-22**|**From Structured Records to Patient Narratives: Preserving Clinical Alignment in LLM-Generated Health Summaries**|Bayram Ayadi et.al.|[2610.31467](http://arxiv.org/abs/2610.31467)|null|
 |**2026-10-22**|**Chunk Recomputation under Real Document Revisions: Measuring Update Cost and Retrieval Quality of Fixed, Recursive, and Content-Defined Chunking**|Yuning Bian et.al.|[2610.31019](http://arxiv.org/abs/2610.31019)|null|
 |**2026-10-22**|**Formal-Informal Mathematical Alignment through and beyond Human Annotations**|Noah Gießing et.al.|[2610.31011](http://arxiv.org/abs/2610.31011)|null|
-|**2026-10-22**|**Joint or Per-Option? Compact Encoders for Closed-Set Decisions from 17 Million to 1 Billion Parameters**|Tardelli Ronan Coelho Stekel et.al.|[2610.30970](http://arxiv.org/abs/2610.30970)|null|
-|**2026-10-22**|**Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought**|Zhengye Bao et.al.|[2610.30755](http://arxiv.org/abs/2610.30755)|null|
-|**2026-10-22**|**Federated Graph Retrieval-Augmented Generation**|Xiaobao Wang et.al.|[2610.30728](http://arxiv.org/abs/2610.30728)|null|
+|**2026-10-22**|**Joint or Per-Option? Compact Encoders for Closed-Set Decisions from 17 Million to 1 Billion Parameters**|Tardelli Ronan Coelho Stekel et.al.|[2610.30970](http://arxiv.org/abs/2610.30970)|**[link](https://github.com/tardellirs/crivo-decision-encoders)**|
+|**2026-10-22**|**Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought**|Zhengye Bao et.al.|[2610.30755](http://arxiv.org/abs/2610.30755)|**[link](https://github.com/Litmeb/RAW-RAG)**|
+|**2026-10-22**|**Federated Graph Retrieval-Augmented Generation**|Xiaobao Wang et.al.|[2610.30728](http://arxiv.org/abs/2610.30728)|**[link](https://github.com/PRATIKSK7/Knowledge-Sphere)**|
 |**2026-10-22**|**Automated Enrichment Analysis with GraphRAG: Efficient Multi-Database ORA Extraction and Biological Interpretation**|Guangcan Li et.al.|[2610.30710](http://arxiv.org/abs/2610.30710)|null|
 |**2026-10-22**|**ULME: Predictive Coupling for Mutually Reinforcing Embedding and Language Modeling**|Yang Liu et.al.|[2610.30705](http://arxiv.org/abs/2610.30705)|null|
 |**2026-10-22**|**Lychee: Certified Screening of Inverted Lists for High-Recall Vector Search**|Dongfang Zhao et.al.|[2610.30697](http://arxiv.org/abs/2610.30697)|null|
@@ -409,7 +409,7 @@ layout: default
 |**2026-08-20**|**What Makes a Good Fiqh Retriever? Answer Retrieval for Arabic Islamic Jurisprudence**|Somaya Eltanbouly et.al.|[2608.20246](http://arxiv.org/abs/2608.20246)|null|
 |**2026-08-20**|**SCoRD: Semantic-Assisted Continual Retriever-Reranker Distillation for LLM-Based Recommendation**|Seunghyun Baek et.al.|[2608.19998](http://arxiv.org/abs/2608.19998)|null|
 |**2026-08-20**|**Towards Clinically Faithful Medical Image Captioning via Enhanced Vision-Language Alignment**|Yunseo Lee et.al.|[2608.19825](http://arxiv.org/abs/2608.19825)|null|
-|**2026-08-20**|**Training-Free LLM-Based Recommendation with Post-LLM Item Refinement Using Collaborative Signals**|Kyungho Kim et.al.|[2608.19665](http://arxiv.org/abs/2608.19665)|null|
+|**2026-08-20**|**Training-Free LLM-Based Recommendation with Post-LLM Item Refinement Using Collaborative Signals**|Kyungho Kim et.al.|[2608.19665](http://arxiv.org/abs/2608.19665)|**[link](https://github.com/K-Kyungho/CoRRe)**|
 |**2026-08-20**|**SSR-GRPO: Integrating Supervision and Semantic IDs into Reinforcement Learning for Dense Retrieval in E-commerce**|Guangxin Song et.al.|[2608.19595](http://arxiv.org/abs/2608.19595)|null|
 |**2026-08-20**|**From Retrieved Context to Runtime Control: Adaptive Compression for Edge-based RAG**|Zlatan Feric et.al.|[2608.19535](http://arxiv.org/abs/2608.19535)|null|
 |**2026-08-20**|**Automated Summarization of Financial News Using Large Language Models and Retrieval-Augmented Generation: An Early Empirical Study (Fall 2023)**|Pranav Chandaliya et.al.|[2608.19526](http://arxiv.org/abs/2608.19526)|null|
