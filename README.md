@@ -1,4 +1,4 @@
-## Updated on 2026.11.23
+## Updated on 2026.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,36 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**Efficient Video Retrieval Augmented Generation via Token Allocation**|Ayush Barik et.al.|[2611.32938](http://arxiv.org/abs/2611.32938)|null|
+|**2026-11-24**|**SOARS: System One Assisted Reranking for Agentic Search**|Amin Bigdeli et.al.|[2611.32917](http://arxiv.org/abs/2611.32917)|null|
+|**2026-11-24**|**Bathys: Advancing Deep Search Agents**|Zixuan Chen et.al.|[2611.32660](http://arxiv.org/abs/2611.32660)|null|
+|**2026-11-24**|**Validating Multi-Model AI-Generated Acceptance Criteria in Requirements Engineering**|Mateen Ahmed Abbasi et.al.|[2611.32374](http://arxiv.org/abs/2611.32374)|null|
+|**2026-11-24**|**Unjamming Deferrals: Supporting Students Through JAMN Bot, a Mobile RAG-Grounded Policy Assistant**|Mark Farinas et.al.|[2611.32266](http://arxiv.org/abs/2611.32266)|null|
+|**2026-11-24**|**OmniEVIE: Evidence-Vector-Informed Embedding for Multi-modal Retrieval**|Zifei Wang et.al.|[2611.32203](http://arxiv.org/abs/2611.32203)|null|
+|**2026-11-24**|**SPARQL-Planned Single-Hop Traversal over a Live Knowledge Graph for Multi-Hop Question Answering**|Priyesh Vakharia et.al.|[2611.31771](http://arxiv.org/abs/2611.31771)|null|
+|**2026-11-23**|**BRAG: Bayesian Retrieval Augmented Generation**|Javier Movellan et.al.|[2611.31656](http://arxiv.org/abs/2611.31656)|null|
+|**2026-11-23**|**From Local Errors to System Failures: Modeling and Benchmarking Error Propagation in Multi-Agent LLM Systems**|Wenlong Yu et.al.|[2611.31063](http://arxiv.org/abs/2611.31063)|null|
+|**2026-11-23**|**Automatic Occupational Coding through Retrieval-Augmented Generation**|Mathijs A. Langezaal et.al.|[2611.31051](http://arxiv.org/abs/2611.31051)|null|
+|**2026-11-23**|**SuSi-RAG: A Hybrid Graph RAG for Equipment Maintenance**|Hansi Zhang et.al.|[2611.30588](http://arxiv.org/abs/2611.30588)|null|
+|**2026-11-23**|**Automated Call for Action: RAG-Based Environmental Law Enforcement Screening System**|Matas Jurkevicius et.al.|[2611.30423](http://arxiv.org/abs/2611.30423)|null|
+|**2026-11-23**|**DMC-5: Dual-Model Collaboration with Cache-aware Context Compression for Long-horizon Agents**|Haochen Li et.al.|[2611.30412](http://arxiv.org/abs/2611.30412)|null|
+|**2026-11-23**|**MH-RAG-DIVE: Dynamic and Cost-Efficient Multi-Hop RAG Evaluation via Tree-Cached Dialogue Simulation**|Lorenz Brehme et.al.|[2611.30335](http://arxiv.org/abs/2611.30335)|null|
+|**2026-11-23**|**When Does Reasoning Help Entity Disambiguation? Small LLMs In-Domain and Under Shift**|Samy Haffoudhi et.al.|[2611.30334](http://arxiv.org/abs/2611.30334)|null|
+|**2026-11-23**|**Laya-IsoToken: Day-One Clinical Codebook Switching via Closed-Form Operator Compilation**|Zeqiang Wang et.al.|[2611.30196](http://arxiv.org/abs/2611.30196)|null|
+|**2026-11-23**|**Retrieval-Augmented Generation in the Agentic Era: Tradition, Present, and Prospect**|Chenming Tang et.al.|[2611.30181](http://arxiv.org/abs/2611.30181)|null|
+|**2026-11-23**|**When Does Optical Context Compression Pay Off? A Decode-Aware Cost Analysis of Reasoning VLMs**|Ziqing Ge et.al.|[2611.30130](http://arxiv.org/abs/2611.30130)|null|
+|**2026-11-23**|**SHAKTI: Evidence-Grounded Conversational AI for Nutrition and Health**|Chaitanya Pallerla et.al.|[2611.29988](http://arxiv.org/abs/2611.29988)|null|
+|**2026-11-23**|**Structure-Exploiting Hierarchical Retrieval for Long Narrative Documents: A Precision-Oriented Alternative to Learned Abstraction Trees**|Rohit Singh et.al.|[2611.29966](http://arxiv.org/abs/2611.29966)|null|
+|**2026-11-23**|**Look Before You Leap: Re-Architecting Disk-Resident Vector Search with TriVS**|Yizou Chen et.al.|[2611.29948](http://arxiv.org/abs/2611.29948)|null|
+|**2026-11-22**|**Who Makes the Decision? Auditing an Agentic LLM Pipeline for Illicit Cryptocurrency Transaction Monitoring**|Vaishnavi Chaughule et.al.|[2611.29829](http://arxiv.org/abs/2611.29829)|null|
+|**2026-11-22**|**Weight Coding: Evolving Web-Scale Recommenders through Direct Weight Edits with LLM Agents**|Junpeng Hou et.al.|[2611.29613](http://arxiv.org/abs/2611.29613)|null|
+|**2026-11-22**|**LLM-Based Assistant for Dog Care Guidance**|Abubakar Sadiq Shittu et.al.|[2611.29286](http://arxiv.org/abs/2611.29286)|null|
+|**2026-11-22**|**Zarc: Exact Nearest Neighbors over a Billion Vectors in Seconds**|Dongfang Zhao et.al.|[2611.29252](http://arxiv.org/abs/2611.29252)|null|
+|**2026-11-22**|**ContextFact: Remembering Facts in Context for Long-Term Conversational Agents**|Jiayu Huang et.al.|[2611.29155](http://arxiv.org/abs/2611.29155)|null|
+|**2026-11-21**|**S $^2$ LMR: Supervised Sequential Long-Context Multi-Step Retriever**|Qiang Hu et.al.|[2611.28995](http://arxiv.org/abs/2611.28995)|null|
+|**2026-11-21**|**Beyond Single-Turn Privacy: Training-Data Leakage in Conversational RAG**|Syed Khaderi et.al.|[2611.28748](http://arxiv.org/abs/2611.28748)|null|
+|**2026-11-20**|**Beyond Relevance: An Empirical Study of Multimodal LLMs for Diversity-Aware Recommendation Reranking**|Chengkai Liu et.al.|[2611.28379](http://arxiv.org/abs/2611.28379)|null|
+|**2026-11-20**|**When Video Verifier Scores Mislead: Capability Assessment and Verifier Selection**|Charles Weng et.al.|[2611.28287](http://arxiv.org/abs/2611.28287)|null|
 |**2026-11-19**|**Hybrid Retrieval for Government Scheme Search in English and Marathi**|Aishwarya Gunjal et.al.|[2611.26514](http://arxiv.org/abs/2611.26514)|null|
 |**2026-11-19**|**Democratizing Cross-Project Knowledge for Transforming Water Governance and Climate Resilience: an Agentic AI Ecosystem**|Oriol Alàs et.al.|[2611.26398](http://arxiv.org/abs/2611.26398)|null|
 |**2026-11-19**|**AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development**|Hang Zhang et.al.|[2611.25582](http://arxiv.org/abs/2611.25582)|null|
@@ -570,5 +600,5 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
 
