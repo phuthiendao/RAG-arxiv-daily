@@ -1,4 +1,4 @@
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -7,13 +7,22 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#rag>RAG</a></li>
+    <li><a href=#agentic-ai>Agentic AI</a></li>
   </ol>
 </details>
 
-## RAG
+## RAG 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**ConTra: A Training Framework for Effective Contextual Retrieval via Prefix Generation**|Jiajun Hou et.al.|[2611.34366](http://arxiv.org/abs/2611.34366)|null|
+|**2026-11-25**|**MINE: A Training-Free Defense against Indirect Prompt Injection via Mutual Information and Embedding Variance**|Truong Phan et.al.|[2611.34188](http://arxiv.org/abs/2611.34188)|null|
+|**2026-11-25**|**Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability**|Xichong Zhang et.al.|[2611.34051](http://arxiv.org/abs/2611.34051)|null|
+|**2026-11-25**|**Privacy-Aware Adaptive Client Selection for Federated Retrieval-Augmented Generation**|Ali Shams Saryazd et.al.|[2611.33890](http://arxiv.org/abs/2611.33890)|null|
+|**2026-11-25**|**When Rerankers Work Together: Better and Faster Reranking without Joint Training**|Yanqiao Chen et.al.|[2611.33844](http://arxiv.org/abs/2611.33844)|null|
+|**2026-11-25**|**State Space Attention: Learning Context-Dependent Memory Retention**|Ege Çakar et.al.|[2611.33625](http://arxiv.org/abs/2611.33625)|null|
+|**2026-11-25**|**FIG-MAC: A Fine-grained Inspiration Graph Empowered Multi-Agent Collaboration for Automated Scientific Hypothesis Generation**|Siyuan Chen et.al.|[2611.33563](http://arxiv.org/abs/2611.33563)|null|
+|**2026-11-24**|**CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation**|Vimal Kumar Kumar et.al.|[2611.33497](http://arxiv.org/abs/2611.33497)|null|
 |**2026-11-24**|**Efficient Video Retrieval Augmented Generation via Token Allocation**|Ayush Barik et.al.|[2611.32938](http://arxiv.org/abs/2611.32938)|null|
 |**2026-11-24**|**SOARS: System One Assisted Reranking for Agentic Search**|Amin Bigdeli et.al.|[2611.32917](http://arxiv.org/abs/2611.32917)|null|
 |**2026-11-24**|**Bathys: Advancing Deep Search Agents**|Zixuan Chen et.al.|[2611.32660](http://arxiv.org/abs/2611.32660)|null|
@@ -600,5 +609,42 @@
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**VizRAG: Enhancing Retrieval-Augmented Generation with Hypergraph Visualization**|Yanbin Wei et.al.|[2607.19830](http://arxiv.org/abs/2607.19830)|null|
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
+
+## Agentic AI
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-11-25**|**Attack Policy Selection can Mislead Monitor Evaluators**|Charlie Griffin et.al.|[2611.34934](http://arxiv.org/abs/2611.34934)|null|
+|**2026-11-25**|**$μ$ -Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents**|Qihao Lin et.al.|[2611.34920](http://arxiv.org/abs/2611.34920)|null|
+|**2026-11-25**|**How Much Do Coding Agents Over-Edit, and Why? An Empirical Study of Unneeded Edits in Repository-Level Agent Patches**|Aakash Goel et.al.|[2611.34875](http://arxiv.org/abs/2611.34875)|null|
+|**2026-11-25**|**DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents**|Han Huang et.al.|[2611.34852](http://arxiv.org/abs/2611.34852)|null|
+|**2026-11-25**|**Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models**|Dezhi Luo et.al.|[2611.34813](http://arxiv.org/abs/2611.34813)|null|
+|**2026-11-25**|**When Every Rollout Fails: Splicing Learner-Conditioned Options into Long-Horizon Agent RL**|Haowen Hou et.al.|[2611.34777](http://arxiv.org/abs/2611.34777)|null|
+|**2026-11-25**|**TASK Memory: Beyond Text-Only Memory with Activation Steering and Knowledge Editing against Memory Hallucination**|Jinkun Zhao et.al.|[2611.34762](http://arxiv.org/abs/2611.34762)|null|
+|**2026-11-25**|**Collect for Coverage, Replay with Evidence: Adaptive and Efficient On-Policy Distillation for Long-Horizon Agents**|Haowen Hou et.al.|[2611.34756](http://arxiv.org/abs/2611.34756)|null|
+|**2026-11-25**|**AutoRSP: An AI Agent for Radar Sensing Pipeline Design**|Zhi Zheng et.al.|[2611.34754](http://arxiv.org/abs/2611.34754)|null|
+|**2026-11-25**|**RoboEvo $^2$ : Recursive Robot Self-Improvement via Harness-Policy Co-Evolution**|Chenzhi Liu et.al.|[2611.34675](http://arxiv.org/abs/2611.34675)|null|
+|**2026-11-25**|**DemoFoundry: Toward Scalable Photorealistic Robot Data with Coding Agents and Generative Rendering**|Ruixiang Wang et.al.|[2611.34671](http://arxiv.org/abs/2611.34671)|null|
+|**2026-11-25**|**Do We Still Need Reinforcement Learning When We Can Read the World Model?**|Mingchao Zhang et.al.|[2611.34656](http://arxiv.org/abs/2611.34656)|null|
+|**2026-11-25**|**REE: A Scientific Research Entrance Exam for AI Agents**|Zeqi Zhou et.al.|[2611.34646](http://arxiv.org/abs/2611.34646)|null|
+|**2026-11-25**|**ZeroHero: Training Small Language Agents from Scratch**|Nikita Sorokin et.al.|[2611.34635](http://arxiv.org/abs/2611.34635)|null|
+|**2026-11-25**|**VisualMontage: Manipulating the Beliefs of Vision-Language Agents with Authentic Image Sequences**|Jinwei Hu et.al.|[2611.34603](http://arxiv.org/abs/2611.34603)|null|
+|**2026-11-25**|**Kant-Q: A Q-Learning Algorithm for Kantian Equilibrium in Symmetric Markov Games**|Rishi Bharadwaj et.al.|[2611.34536](http://arxiv.org/abs/2611.34536)|null|
+|**2026-11-25**|**SMOTE 25 Years of Magic: What Has Been Done, What the Evidence Shows, and Whom It Reached**|Thanapong Intharah et.al.|[2611.34511](http://arxiv.org/abs/2611.34511)|null|
+|**2026-11-25**|**EgoUseBench: Benchmarking Computer-Use Agents under Evolving First-Person Contexts**|Yurun Chen et.al.|[2611.34466](http://arxiv.org/abs/2611.34466)|null|
+|**2026-11-25**|**SemProxy: Semantic 3D Proxies for Controllable Agentic 3D Modeling**|Shuyuan Zhang et.al.|[2611.34414](http://arxiv.org/abs/2611.34414)|null|
+|**2026-11-25**|**EvoLink-Bench: A Benchmark for Evaluating Self-Evolving Agents in Long-Horizon Interdependent Task Streams**|Wei Chen et.al.|[2611.34400](http://arxiv.org/abs/2611.34400)|null|
+|**2026-11-25**|**LUDIUS: A Benchmark for Embodied Social Intelligence in Everyday Human-Robot Interactions**|Chaewon Kim et.al.|[2611.34328](http://arxiv.org/abs/2611.34328)|null|
+|**2026-11-25**|**MeterRouter: Budget-Aware Dynamic Routing for Multi-Agent Systems**|Yue Xu et.al.|[2611.34327](http://arxiv.org/abs/2611.34327)|null|
+|**2026-11-25**|**IRTIQA: Evolving in English, Evaluated in Urdu -- Does Agent Self-Evolution Transfer from English to Urdu and Code-Switched Input?**|Abdullah Hashmat et.al.|[2611.34303](http://arxiv.org/abs/2611.34303)|null|
+|**2026-11-25**|**WebVibe: Multimodal Interactive Website Generation via Reverse Synthesis and Visual Self-Distillation**|Tianxiang Jiang et.al.|[2611.34292](http://arxiv.org/abs/2611.34292)|null|
+|**2026-11-25**|**StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation**|Modi Jin et.al.|[2611.34290](http://arxiv.org/abs/2611.34290)|null|
+|**2026-11-25**|**Latent-in-the-Middle: On the Security of Cross-Model Latent Communication in Multi-Agent Systems**|Manit Baser et.al.|[2611.34278](http://arxiv.org/abs/2611.34278)|null|
+|**2026-11-25**|**Crucible: Evaluating LLM Agents in Executable Chemistry Research Environments**|Yinjun Liu et.al.|[2611.34254](http://arxiv.org/abs/2611.34254)|null|
+|**2026-11-25**|**MedSkill-E $^{2}$ : Evaluating and Evolving Skills for Medical Agents**|Jingjing Hua et.al.|[2611.34250](http://arxiv.org/abs/2611.34250)|null|
+|**2026-11-25**|**PROVE: Mitigating Long-Horizon LLM Collusion with Reinforcement Learning from Verified Evidence**|Haochen Luo et.al.|[2611.34215](http://arxiv.org/abs/2611.34215)|null|
+|**2026-11-25**|**Compute-Aware Submodular Online Learning in Open Multi-Agent Systems**|Jing Liu et.al.|[2611.34211](http://arxiv.org/abs/2611.34211)|null|
+
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 

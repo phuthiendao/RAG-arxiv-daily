@@ -18,9 +18,11 @@ md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 
 # CS Category constraint
-categories: ["cs.CL", "cs.IR", "cs.AI", "cs.LG"]
+categories: ["cs.CL", "cs.IR", "cs.AI", "cs.LG", "cs.MA"]
 
 # keywords to search
 keywords:
     "RAG":
         filters: ["Retrieval-Augmented Generation", "Retrieval Augmented Generation", "GraphRAG", "Agentic RAG", "Self-RAG", "Corrective RAG", "CRAG", "Speculative RAG", "Dense Retrieval", "ColBERT", "Reranker", "Hybrid Search", "Vector Search", "Context Compression", "Prompt Compression", "Long-Context Retrieval"]
+    "Agentic AI":
+        filters: ["Agentic AI", "Agentic System", "Agentic Workflow", "Agentic Reasoning", "Agentic Search", "Agentic Memory", "AI Agent", "AI Agents", "LLM Agent", "LLM Agents", "LLM-based Agent", "Language Agent", "Autonomous Agent", "Multi-Agent System", "Multi-Agent Systems", "Multi-Agent Collaboration", "Agent Memory", "Tool Calling", "Function Calling", "Tool Learning", "Model Context Protocol", "GUI Agent", "Web Agent", "Browser Agent", "Coding Agent", "Computer-Use Agent", "Deep Research"]

@@ -1,5 +1,5 @@
-title: RAG Arxiv Daily
-description: Automatically Update RAG (Retrieval-Augmented Generation) Papers Daily using Github Actions (Update Every 8th hours)
+title: RAG & Agentic AI Arxiv Daily
+description: Automatically Update RAG (Retrieval-Augmented Generation) & Agentic AI Papers Daily using Github Actions
 show_downloads: true
 
 github:
