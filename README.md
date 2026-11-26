@@ -11,7 +11,7 @@
   </ol>
 </details>
 
-## RAG 
+## RAG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
