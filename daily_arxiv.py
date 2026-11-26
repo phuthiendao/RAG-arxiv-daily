@@ -15,6 +15,36 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 
+VENUE_PATTERN = re.compile(
+    r'\b('
+    r'ICLR|NeurIPS|NIPS|ICML|ACL|EMNLP|NAACL|EACL|COLING|COLM|'
+    r'SIGIR|KDD|WWW|TheWebConf|AAAI|IJCAI|CVPR|ICCV|ECCV|WACV|'
+    r'ICDE|VLDB|SIGMOD|CIKM|WSDM|RecSys|AAMAS|ECIR|ICSE|FSE|ASE|'
+    r'TACL|JMLR|TKDE|TOIS|TMLR|Findings'
+    r')\b|'
+    r'\b(accepted|to appear|published in|published at|published as|camera[- ]ready)\b',
+    re.IGNORECASE,
+)
+
+
+def extract_note(comments: str, journal_ref: str = None, max_len: int = 100) -> str:
+    """Extract conference/journal acceptance note from arXiv comment or journal_ref."""
+    candidates = []
+    if comments:
+        for part in re.split(r'(?<=[.!?;])\s+', str(comments).replace('\n', ' ').replace('\r', ' ')):
+            part = part.strip()
+            if part and VENUE_PATTERN.search(part):
+                candidates.append(part)
+    if not candidates and journal_ref:
+        candidates.append(str(journal_ref).replace('\n', ' ').replace('\r', ' ').strip())
+    if not candidates:
+        return "-"
+    note = " ".join(candidates)
+    note = re.sub(r'\s+', ' ', note).replace('|', '/').strip()
+    if len(note) > max_len:
+        note = note[:max_len - 3].rstrip() + "..."
+    return note
+
 def load_config(config_file:str) -> dict:
     '''
     config_file: input config file path
@@ -131,6 +161,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
             publish_time        = result.published.date()
             update_time         = result.updated.date()
             comments            = result.comment
+            note                = extract_note(comments, getattr(result, 'journal_ref', None))
 
             logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
@@ -148,20 +179,18 @@ def get_daily_papers(topic,query="slam", max_results=2):
                 repo_url = get_code_link(paper_key)
             
             if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
+                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|{}|\n".format(
+                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url,note)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
                        update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
             else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
+                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|{}|\n".format(
+                       update_time,paper_title,paper_first_author,paper_key,paper_url,note)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
                        update_time,paper_title,paper_first_author,paper_url,paper_url)
 
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
+            if note != "-":
+                content_to_web[paper_key] += f", Note: {note}\n"
             else:
                 content_to_web[paper_key] += f"\n"
     except Exception as e:
@@ -182,8 +211,9 @@ def update_paper_links(filename):
         authors = parts[3].strip()
         arxiv_id = parts[4].strip()
         code = parts[5].strip()
+        note = parts[6].strip() if len(parts) > 7 and parts[6].strip() else "-"
         arxiv_id = re.sub(r'v\d+', '', arxiv_id)
-        return date,title,authors,arxiv_id,code
+        return date,title,authors,arxiv_id,code,note
 
     with open(filename,"r") as f:
         content = f.read()
@@ -199,13 +229,13 @@ def update_paper_links(filename):
             for paper_id,contents in v.items():
                 contents = str(contents)
 
-                update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
+                update_time, paper_title, paper_first_author, paper_url, code_url, note = parse_arxiv_string(contents)
 
-                contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url)
+                contents = "|{}|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url,note)
                 json_data[keywords][paper_id] = str(contents)
                 logging.info(f'paper_id = {paper_id}, contents = {contents}')
                 
-                valid_link = False if '|null|' in contents else True
+                valid_link = False if code_url == 'null' else True
                 if valid_link:
                     continue
                 # Try to find code link from GitHub search
@@ -213,7 +243,7 @@ def update_paper_links(filename):
                 if repo_url is None:
                     repo_url = get_code_link(paper_id)
                 if repo_url is not None:
-                    new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
+                    new_cont = "|{}|{}|{}|{}|**[link]({})**|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,repo_url,note)
                     logging.info(f'ID = {paper_id}, contents = {new_cont}')
                     json_data[keywords][paper_id] = str(new_cont)
         # dump to json file
@@ -333,10 +363,10 @@ def json_to_md(filename,md_filename,
 
             if use_title == True :
                 if to_web == False:
-                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                    f.write("|Publish Date|Title|Authors|PDF|Code|Note|\n" + "|---|---|---|---|---|---|\n")
                 else:
-                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+                    f.write("| Publish Date | Title | Authors | PDF | Code | Note |\n")
+                    f.write("|:---------|:-----------------------|:---------|:------|:------|:------|\n")
 
             # sort papers by date
             day_content = sort_papers(day_content)
