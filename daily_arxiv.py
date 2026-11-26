@@ -15,35 +15,98 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 
-VENUE_PATTERN = re.compile(
-    r'\b('
-    r'ICLR|NeurIPS|NIPS|ICML|ACL|EMNLP|NAACL|EACL|COLING|COLM|'
-    r'SIGIR|KDD|WWW|TheWebConf|AAAI|IJCAI|CVPR|ICCV|ECCV|WACV|'
-    r'ICDE|VLDB|SIGMOD|CIKM|WSDM|RecSys|AAMAS|ECIR|ICSE|FSE|ASE|'
-    r'TACL|JMLR|TKDE|TOIS|TMLR|Findings'
-    r')\b|'
-    r'\b(accepted|to appear|published in|published at|published as|camera[- ]ready)\b',
+VENUES = [
+    ("SIGIR-AP", r"SIGIR-AP"),
+    ("ECML-PKDD", r"ECML[- ]PKDD"),
+    ("ACM MM", r"ACM\s*MM"),
+    ("TheWebConf", r"TheWebConf"),
+    ("EACL", r"EACL"),
+    ("NAACL", r"NAACL"),
+    ("EMNLP", r"EMNLP"),
+    ("AACL", r"AACL(?:-IJCNLP)?"),
+    ("COLING", r"COLING"),
+    ("IJCNLP", r"IJCNLP"),
+    ("ACL", r"ACL|Association for Computational Linguistics"),
+    ("ICLR", r"ICLR"),
+    ("NeurIPS", r"NeurIPS|NIPS|Neural Information Processing Systems"),
+    ("ICML", r"ICML|International Conference on Machine Learning"),
+    ("COLM", r"COLM|Conference on Language Modeling"),
+    ("SIGIR", r"SIGIR"),
+    ("KDD", r"KDD|SIGKDD"),
+    ("WWW", r"WWW"),
+    ("AAAI", r"AAAI"),
+    ("IJCAI", r"IJCAI(?:-ECAI)?"),
+    ("CVPR", r"CVPR"),
+    ("ICCV", r"ICCV"),
+    ("ECCV", r"ECCV"),
+    ("WACV", r"WACV"),
+    ("ICDE", r"ICDE"),
+    ("VLDB", r"VLDB"),
+    ("SIGMOD", r"SIGMOD"),
+    ("CIKM", r"CIKM|Information and Knowledge Management"),
+    ("WSDM", r"WSDM"),
+    ("RecSys", r"RecSys"),
+    ("AAMAS", r"AAMAS"),
+    ("ECIR", r"ECIR"),
+    ("ICSE", r"ICSE|International Conference on Software Engineering"),
+    ("FSE", r"FSE"),
+    ("ASE", r"ASE"),
+    ("ISWC", r"ISWC"),
+    ("ICDM", r"ICDM"),
+    ("TACL", r"TACL"),
+    ("JMLR", r"JMLR"),
+    ("TKDE", r"TKDE"),
+    ("TOIS", r"TOIS"),
+    ("TMLR", r"TMLR"),
+]
+
+SKIP_STATUS_PATTERN = re.compile(
+    r'\b(under\s+(?:\w+\s+)?review|submitted|submmitted|preprint|thesis|ACL\s+Rolling\s+Review)\b',
     re.IGNORECASE,
 )
 
 
-def extract_note(comments: str, journal_ref: str = None, max_len: int = 100) -> str:
-    """Extract conference/journal acceptance note from arXiv comment or journal_ref."""
-    candidates = []
+def extract_note(comments: str, journal_ref: str = None) -> str:
+    """Extract concise 'VENUE YEAR' note (e.g. 'EACL 2027') from arXiv metadata."""
+    texts = []
     if comments:
         for part in re.split(r'(?<=[.!?;])\s+', str(comments).replace('\n', ' ').replace('\r', ' ')):
             part = part.strip()
-            if part and VENUE_PATTERN.search(part):
-                candidates.append(part)
-    if not candidates and journal_ref:
-        candidates.append(str(journal_ref).replace('\n', ' ').replace('\r', ' ').strip())
-    if not candidates:
-        return "-"
-    note = " ".join(candidates)
-    note = re.sub(r'\s+', ' ', note).replace('|', '/').strip()
-    if len(note) > max_len:
-        note = note[:max_len - 3].rstrip() + "..."
-    return note
+            if part and not SKIP_STATUS_PATTERN.search(part):
+                texts.append(part)
+    if journal_ref:
+        jref = str(journal_ref).replace('\n', ' ').replace('\r', ' ').strip()
+        if jref and not SKIP_STATUS_PATTERN.search(jref):
+            texts.append(jref)
+
+    found = []
+    for text in texts:
+        for canonical, pat in VENUES:
+            m = re.search(rf'\b(?:{pat})\b', text, re.IGNORECASE)
+            if not m:
+                continue
+            after = text[m.end():m.end() + 40]
+            ym = re.search(r'\b(20\d{2})\b', after)
+            if not ym:
+                ym = re.match(r"[\s,]*['’]?(2[4-9]|3\d)\b(?!\s*(?:pages?|figures?|tables?|pp))", after, re.IGNORECASE)
+            if not ym:
+                ym = re.search(r'\b(20\d{2})\b', text)
+            year = ""
+            if ym:
+                y = ym.group(1)
+                year = f"20{y}" if len(y) == 2 else y
+            label = f"{canonical} {year}".strip()
+            existing_idx = next(
+                (idx for idx, val in enumerate(found) if val == canonical or val.startswith(f"{canonical} ")),
+                None,
+            )
+            if existing_idx is None:
+                found.append(label)
+            elif year and found[existing_idx] == canonical:
+                found[existing_idx] = label
+            break
+
+    return ", ".join(found[:2]) if found else "-"
 
 def load_config(config_file:str) -> dict:
     '''
